@@ -1,0 +1,3 @@
+9c8cdd0982a31f3416e9c95748878475724a648b5c96b10b8229c1f6680578c6  OXY5-contenido-verificado.zip
+53a87e0a8e242051701af9d79523ac5c9b3c1b81564267e332eed0a654a162eb  OXY5-originales-activo.zip
+e34aff2227ea4ad262cd61aa970e39c03360bf74aa35603a4ecba038ab87f330  OXY5-originales-por-build.zip

@@ -1,0 +1,69 @@
+build,orden,ruta
+OxygenOT.zip,1,modules/game_bot/default_configs/OxyBot/vBot/main.lua
+OxygenOT.zip,2,modules/game_bot/default_configs/OxyBot/vBot/items.lua
+OxygenOT.zip,3,modules/game_bot/default_configs/OxyBot/vBot/vlib.lua
+OxygenOT.zip,4,modules/game_bot/default_configs/OxyBot/vBot/new_cavebot_lib.lua
+OxygenOT.zip,5,modules/game_bot/default_configs/OxyBot/vBot/configs.lua
+OxygenOT.zip,6,modules/game_bot/default_configs/OxyBot/vBot/extras.lua
+OxygenOT.zip,7,modules/game_bot/default_configs/OxyBot/vBot/cavebot.lua
+OxygenOT.zip,8,modules/game_bot/default_configs/OxyBot/vBot/playerlist.lua
+OxygenOT.zip,9,modules/game_bot/default_configs/OxyBot/vBot/BotServer.lua
+OxygenOT.zip,10,modules/game_bot/default_configs/OxyBot/vBot/alarms.lua
+OxygenOT.zip,11,modules/game_bot/default_configs/OxyBot/vBot/Conditions.lua
+OxygenOT.zip,12,modules/game_bot/default_configs/OxyBot/vBot/Equipper.lua
+OxygenOT.zip,13,modules/game_bot/default_configs/OxyBot/vBot/pushmax.lua
+OxygenOT.zip,14,modules/game_bot/default_configs/OxyBot/vBot/combo.lua
+OxygenOT.zip,15,modules/game_bot/default_configs/OxyBot/vBot/HealBot.lua
+OxygenOT.zip,16,modules/game_bot/default_configs/OxyBot/vBot/new_healer.lua
+OxygenOT.zip,17,modules/game_bot/default_configs/OxyBot/vBot/AttackBot.lua
+OxygenOT.zip,18,modules/game_bot/default_configs/OxyBot/vBot/ingame_editor.lua
+OxygenOT.zip,19,modules/game_bot/default_configs/OxyBot/vBot/Dropper.lua
+OxygenOT.zip,20,modules/game_bot/default_configs/OxyBot/vBot/Containers.lua
+OxygenOT.zip,21,modules/game_bot/default_configs/OxyBot/vBot/quiver_manager.lua
+OxygenOT.zip,22,modules/game_bot/default_configs/OxyBot/vBot/quiver_label.lua
+OxygenOT.zip,23,modules/game_bot/default_configs/OxyBot/vBot/tools.lua
+OxygenOT.zip,24,modules/game_bot/default_configs/OxyBot/vBot/depot_withdraw.lua
+OxygenOT.zip,25,modules/game_bot/default_configs/OxyBot/vBot/eat_food.lua
+OxygenOT.zip,26,modules/game_bot/default_configs/OxyBot/vBot/equip.lua
+OxygenOT.zip,27,modules/game_bot/default_configs/OxyBot/vBot/exeta.lua
+OxygenOT.zip,28,modules/game_bot/default_configs/OxyBot/vBot/spy_level.lua
+OxygenOT.zip,29,modules/game_bot/default_configs/OxyBot/vBot/supplies.lua
+OxygenOT.zip,30,modules/game_bot/default_configs/OxyBot/vBot/depositer_config.lua
+OxygenOT.zip,31,modules/game_bot/default_configs/OxyBot/vBot/npc_talk.lua
+OxygenOT.zip,32,modules/game_bot/default_configs/OxyBot/vBot/xeno_menu.lua
+OxygenOT.zip,33,modules/game_bot/default_configs/OxyBot/vBot/hold_target.lua
+OxygenOT.zip,34,modules/game_bot/default_configs/OxyBot/vBot/cavebot_control_panel.lua
+OxygenOT IX_v4.zip,1,modules/game_bot/default_configs/OxyBot/vBot/main.lua
+OxygenOT IX_v4.zip,2,modules/game_bot/default_configs/OxyBot/vBot/items.lua
+OxygenOT IX_v4.zip,3,modules/game_bot/default_configs/OxyBot/vBot/vlib.lua
+OxygenOT IX_v4.zip,4,modules/game_bot/default_configs/OxyBot/vBot/new_cavebot_lib.lua
+OxygenOT IX_v4.zip,5,modules/game_bot/default_configs/OxyBot/vBot/configs.lua
+OxygenOT IX_v4.zip,6,modules/game_bot/default_configs/OxyBot/vBot/extras.lua
+OxygenOT IX_v4.zip,7,modules/game_bot/default_configs/OxyBot/vBot/cavebot.lua
+OxygenOT IX_v4.zip,8,modules/game_bot/default_configs/OxyBot/vBot/playerlist.lua
+OxygenOT IX_v4.zip,9,modules/game_bot/default_configs/OxyBot/vBot/BotServer.lua
+OxygenOT IX_v4.zip,10,modules/game_bot/default_configs/OxyBot/vBot/alarms.lua
+OxygenOT IX_v4.zip,11,modules/game_bot/default_configs/OxyBot/vBot/Conditions.lua
+OxygenOT IX_v4.zip,12,modules/game_bot/default_configs/OxyBot/vBot/Equipper.lua
+OxygenOT IX_v4.zip,13,modules/game_bot/default_configs/OxyBot/vBot/pushmax.lua
+OxygenOT IX_v4.zip,14,modules/game_bot/default_configs/OxyBot/vBot/combo.lua
+OxygenOT IX_v4.zip,15,modules/game_bot/default_configs/OxyBot/vBot/HealBot.lua
+OxygenOT IX_v4.zip,16,modules/game_bot/default_configs/OxyBot/vBot/new_healer.lua
+OxygenOT IX_v4.zip,17,modules/game_bot/default_configs/OxyBot/vBot/AttackBot.lua
+OxygenOT IX_v4.zip,18,modules/game_bot/default_configs/OxyBot/vBot/ingame_editor.lua
+OxygenOT IX_v4.zip,19,modules/game_bot/default_configs/OxyBot/vBot/Dropper.lua
+OxygenOT IX_v4.zip,20,modules/game_bot/default_configs/OxyBot/vBot/Containers.lua
+OxygenOT IX_v4.zip,21,modules/game_bot/default_configs/OxyBot/vBot/quiver_manager.lua
+OxygenOT IX_v4.zip,22,modules/game_bot/default_configs/OxyBot/vBot/quiver_label.lua
+OxygenOT IX_v4.zip,23,modules/game_bot/default_configs/OxyBot/vBot/tools.lua
+OxygenOT IX_v4.zip,24,modules/game_bot/default_configs/OxyBot/vBot/depot_withdraw.lua
+OxygenOT IX_v4.zip,25,modules/game_bot/default_configs/OxyBot/vBot/eat_food.lua
+OxygenOT IX_v4.zip,26,modules/game_bot/default_configs/OxyBot/vBot/equip.lua
+OxygenOT IX_v4.zip,27,modules/game_bot/default_configs/OxyBot/vBot/exeta.lua
+OxygenOT IX_v4.zip,28,modules/game_bot/default_configs/OxyBot/vBot/spy_level.lua
+OxygenOT IX_v4.zip,29,modules/game_bot/default_configs/OxyBot/vBot/supplies.lua
+OxygenOT IX_v4.zip,30,modules/game_bot/default_configs/OxyBot/vBot/depositer_config.lua
+OxygenOT IX_v4.zip,31,modules/game_bot/default_configs/OxyBot/vBot/npc_talk.lua
+OxygenOT IX_v4.zip,32,modules/game_bot/default_configs/OxyBot/vBot/xeno_menu.lua
+OxygenOT IX_v4.zip,33,modules/game_bot/default_configs/OxyBot/vBot/hold_target.lua
+OxygenOT IX_v4.zip,34,modules/game_bot/default_configs/OxyBot/vBot/cavebot_control_panel.lua
