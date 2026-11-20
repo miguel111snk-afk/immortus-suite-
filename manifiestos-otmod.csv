@@ -1,0 +1,1342 @@
+﻿build,ruta,modulo,campo,valor,linea
+Dropbox,modules/client/client.otmod,client,name,client,2
+Dropbox,modules/client/client.otmod,client,sandboxed,true,7
+Dropbox,modules/client/client.otmod,client,scripts,[ client ],8
+Dropbox,modules/client/client.otmod,client,@onLoad,init(),9
+Dropbox,modules/client/client.otmod,client,@onUnload,terminate(),10
+Dropbox,modules/client/client.otmod,client,load-later,- client_styles - client_locales - client_topmenu - client_background - client_textedit - client_options - client_entergame - client_terminal - client_stats - client_feedback - client_mobile,12
+Dropbox,modules/client_background/background.otmod,client_background,name,client_background,2
+Dropbox,modules/client_background/background.otmod,client_background,sandboxed,true,6
+Dropbox,modules/client_background/background.otmod,client_background,scripts,[ background ],7
+Dropbox,modules/client_background/background.otmod,client_background,@onLoad,init(),8
+Dropbox,modules/client_background/background.otmod,client_background,@onUnload,terminate(),9
+Dropbox,modules/client_entergame/entergame.otmod,client_entergame,name,client_entergame,2
+Dropbox,modules/client_entergame/entergame.otmod,client_entergame,scripts,"[ entergame, characterlist ]",6
+Dropbox,modules/client_entergame/entergame.otmod,client_entergame,@onLoad,EnterGame.init() CharacterList.init(),7
+Dropbox,modules/client_entergame/entergame.otmod,client_entergame,@onUnload,EnterGame.terminate() CharacterList.terminate(),8
+Dropbox,modules/client_entergame/entergame.otmod,client_entergame,load-later,- game_things - game_features,10
+Dropbox,modules/client_feedback/feedback.otmod,client_feedback,name,client_feedback,2
+Dropbox,modules/client_feedback/feedback.otmod,client_feedback,sandboxed,true,6
+Dropbox,modules/client_feedback/feedback.otmod,client_feedback,dependencies,[ game_interface ],7
+Dropbox,modules/client_feedback/feedback.otmod,client_feedback,scripts,[ feedback ],8
+Dropbox,modules/client_feedback/feedback.otmod,client_feedback,@onLoad,init(),9
+Dropbox,modules/client_feedback/feedback.otmod,client_feedback,@onUnload,terminate(),10
+Dropbox,modules/client_locales/locales.otmod,client_locales,name,client_locales,2
+Dropbox,modules/client_locales/locales.otmod,client_locales,sandboxed,true,6
+Dropbox,modules/client_locales/locales.otmod,client_locales,scripts,[ locales ],7
+Dropbox,modules/client_locales/locales.otmod,client_locales,@onLoad,init(),8
+Dropbox,modules/client_locales/locales.otmod,client_locales,@onUnload,terminate(),9
+Dropbox,modules/client_mobile/mobile.otmod,client_mobile,name,client_mobile,2
+Dropbox,modules/client_mobile/mobile.otmod,client_mobile,sandboxed,true,6
+Dropbox,modules/client_mobile/mobile.otmod,client_mobile,scripts,[ mobile ],7
+Dropbox,modules/client_mobile/mobile.otmod,client_mobile,@onLoad,init(),8
+Dropbox,modules/client_mobile/mobile.otmod,client_mobile,@onUnload,terminate(),9
+Dropbox,modules/client_options/options.otmod,client_options,name,client_options,2
+Dropbox,modules/client_options/options.otmod,client_options,sandboxed,true,6
+Dropbox,modules/client_options/options.otmod,client_options,scripts,"[ options, datafolder ]",7
+Dropbox,modules/client_options/options.otmod,client_options,@onLoad,init(),8
+Dropbox,modules/client_options/options.otmod,client_options,@onUnload,terminate(),9
+Dropbox,modules/client_profiles/profiles.otmod,client_profiles,name,client_profiles,2
+Dropbox,modules/client_profiles/profiles.otmod,client_profiles,autoload,true,6
+Dropbox,modules/client_profiles/profiles.otmod,client_profiles,scripts,[ profiles ],8
+Dropbox,modules/client_profiles/profiles.otmod,client_profiles,sandboxed,true,9
+Dropbox,modules/client_profiles/profiles.otmod,client_profiles,@onLoad,init(),10
+Dropbox,modules/client_profiles/profiles.otmod,client_profiles,@onUnload,terminate(),11
+Dropbox,modules/client_stats/stats.otmod,client_stats,name,client_stats,2
+Dropbox,modules/client_stats/stats.otmod,client_stats,sandboxed,true,5
+Dropbox,modules/client_stats/stats.otmod,client_stats,scripts,[ stats ],6
+Dropbox,modules/client_stats/stats.otmod,client_stats,dependencies,[ client_topmenu ],7
+Dropbox,modules/client_stats/stats.otmod,client_stats,@onLoad,init(),8
+Dropbox,modules/client_stats/stats.otmod,client_stats,@onUnload,terminate(),9
+Dropbox,modules/client_styles/styles.otmod,client_styles,name,client_styles,2
+Dropbox,modules/client_styles/styles.otmod,client_styles,scripts,[ styles ],6
+Dropbox,modules/client_styles/styles.otmod,client_styles,sandboxed,true,7
+Dropbox,modules/client_styles/styles.otmod,client_styles,@onLoad,init(),8
+Dropbox,modules/client_styles/styles.otmod,client_styles,@onUnload,terminate(),9
+Dropbox,modules/client_terminal/terminal.otmod,client_terminal,name,client_terminal,2
+Dropbox,modules/client_terminal/terminal.otmod,client_terminal,scripts,[ terminal ],6
+Dropbox,modules/client_terminal/terminal.otmod,client_terminal,sandboxed,true,7
+Dropbox,modules/client_terminal/terminal.otmod,client_terminal,@onLoad,init(),9
+Dropbox,modules/client_terminal/terminal.otmod,client_terminal,@onUnload,terminate(),10
+Dropbox,modules/client_textedit/textedit.otmod,client_textedit,name,client_textedit,2
+Dropbox,modules/client_textedit/textedit.otmod,client_textedit,sandboxed,true,6
+Dropbox,modules/client_textedit/textedit.otmod,client_textedit,scripts,[ textedit ],7
+Dropbox,modules/client_textedit/textedit.otmod,client_textedit,@onLoad,init(),8
+Dropbox,modules/client_textedit/textedit.otmod,client_textedit,@onUnload,terminate(),9
+Dropbox,modules/client_topmenu/topmenu.otmod,client_topmenu,name,client_topmenu,2
+Dropbox,modules/client_topmenu/topmenu.otmod,client_topmenu,scripts,[ topmenu ],6
+Dropbox,modules/client_topmenu/topmenu.otmod,client_topmenu,sandboxed,true,7
+Dropbox,modules/client_topmenu/topmenu.otmod,client_topmenu,@onLoad,init(),8
+Dropbox,modules/client_topmenu/topmenu.otmod,client_topmenu,@onUnload,terminate(),9
+Dropbox,modules/corelib/corelib.otmod,corelib,name,corelib,2
+Dropbox,modules/corelib/corelib.otmod,corelib,@onLoad,|,8
+Dropbox,modules/crash_reporter/crash_reporter.otmod,crash_reporter,name,crash_reporter,2
+Dropbox,modules/crash_reporter/crash_reporter.otmod,crash_reporter,scripts,[ crash_reporter ],7
+Dropbox,modules/crash_reporter/crash_reporter.otmod,crash_reporter,@onLoad,init(),8
+Dropbox,modules/gamelib/gamelib.otmod,gamelib,name,gamelib,2
+Dropbox,modules/gamelib/gamelib.otmod,gamelib,@onLoad,|,7
+Dropbox,modules/game_actionbar/actionbar.otmod,game_actionbar,name,game_actionbar,2
+Dropbox,modules/game_actionbar/actionbar.otmod,game_actionbar,sandboxed,true,4
+Dropbox,modules/game_actionbar/actionbar.otmod,game_actionbar,@onLoad,init(),5
+Dropbox,modules/game_actionbar/actionbar.otmod,game_actionbar,@onUnload,terminate(),6
+Dropbox,modules/game_actionbar/actionbar.otmod,game_actionbar,scripts,[ actionbar ],7
+Dropbox,modules/game_afkcheck/afkcheck.otmod,game_afkcheck,name,game_afkcheck,2
+Dropbox,modules/game_afkcheck/afkcheck.otmod,game_afkcheck,scripts,[ afkcheck ],6
+Dropbox,modules/game_afkcheck/afkcheck.otmod,game_afkcheck,sandboxed,true,7
+Dropbox,modules/game_afkcheck/afkcheck.otmod,game_afkcheck,autoload,true,8
+Dropbox,modules/game_afkcheck/afkcheck.otmod,game_afkcheck,@onLoad,init(),9
+Dropbox,modules/game_afkcheck/afkcheck.otmod,game_afkcheck,@onUnload,terminate(),10
+Dropbox,modules/game_attrpoints/attrpoints.otmod,game_attrpoints,name,game_attrpoints,2
+Dropbox,modules/game_attrpoints/attrpoints.otmod,game_attrpoints,sandboxed,true,5
+Dropbox,modules/game_attrpoints/attrpoints.otmod,game_attrpoints,scripts,[attrpoints],6
+Dropbox,modules/game_attrpoints/attrpoints.otmod,game_attrpoints,autoload,true,7
+Dropbox,modules/game_attrpoints/attrpoints.otmod,game_attrpoints,@onLoad,init(),8
+Dropbox,modules/game_attrpoints/attrpoints.otmod,game_attrpoints,@onUnload,terminate(),9
+Dropbox,modules/game_autoloot/autoloot_module.otmod,game_autoloot,name,game_autoloot,2
+Dropbox,modules/game_autoloot/autoloot_module.otmod,game_autoloot,sandboxed,true,5
+Dropbox,modules/game_autoloot/autoloot_module.otmod,game_autoloot,scripts,[autoloot_module],6
+Dropbox,modules/game_autoloot/autoloot_module.otmod,game_autoloot,autoload,true,7
+Dropbox,modules/game_autoloot/autoloot_module.otmod,game_autoloot,autoload-priority,1001,8
+Dropbox,modules/game_autoloot/autoloot_module.otmod,game_autoloot,@onLoad,init(),9
+Dropbox,modules/game_autoloot/autoloot_module.otmod,game_autoloot,@onUnload,terminate(),10
+Dropbox,modules/game_bank/bank.otmod,game_bank,name,game_bank,2
+Dropbox,modules/game_bank/bank.otmod,game_bank,sandboxed,true,5
+Dropbox,modules/game_bank/bank.otmod,game_bank,scripts,[bank],6
+Dropbox,modules/game_bank/bank.otmod,game_bank,autoload,true,7
+Dropbox,modules/game_bank/bank.otmod,game_bank,@onLoad,init(),8
+Dropbox,modules/game_bank/bank.otmod,game_bank,@onUnload,terminate(),9
+Dropbox,modules/game_battle/battle.otmod,game_battle,name,game_battle,2
+Dropbox,modules/game_battle/battle.otmod,game_battle,sandboxed,true,6
+Dropbox,modules/game_battle/battle.otmod,game_battle,scripts,[ battle ],7
+Dropbox,modules/game_battle/battle.otmod,game_battle,@onLoad,init(),8
+Dropbox,modules/game_battle/battle.otmod,game_battle,@onUnload,terminate(),9
+Dropbox,modules/game_bossbar/bossbar.otmod,game_bossbar,name,game_bossbar,2
+Dropbox,modules/game_bossbar/bossbar.otmod,game_bossbar,sandboxed,true,6
+Dropbox,modules/game_bossbar/bossbar.otmod,game_bossbar,autoload,true,7
+Dropbox,modules/game_bossbar/bossbar.otmod,game_bossbar,scripts,[ bossbar ],8
+Dropbox,modules/game_bossbar/bossbar.otmod,game_bossbar,@onLoad,init(),9
+Dropbox,modules/game_bossbar/bossbar.otmod,game_bossbar,@onUnload,terminate(),10
+Dropbox,modules/game_bosscheck/bosscheck.otmod,game_bosscheck,name,game_bosscheck,2
+Dropbox,modules/game_bosscheck/bosscheck.otmod,game_bosscheck,sandboxed,true,5
+Dropbox,modules/game_bosscheck/bosscheck.otmod,game_bosscheck,scripts,[bosscheck],6
+Dropbox,modules/game_bosscheck/bosscheck.otmod,game_bosscheck,autoload,true,7
+Dropbox,modules/game_bosscheck/bosscheck.otmod,game_bosscheck,@onLoad,init(),8
+Dropbox,modules/game_bosscheck/bosscheck.otmod,game_bosscheck,@onUnload,terminate(),9
+Dropbox,modules/game_bot/bot.otmod,game_bot,name,game_bot,2
+Dropbox,modules/game_bot/bot.otmod,game_bot,sandboxed,true,5
+Dropbox,modules/game_bot/bot.otmod,game_bot,scripts,[ bot ],6
+Dropbox,modules/game_bot/bot.otmod,game_bot,@onLoad,init(),7
+Dropbox,modules/game_bot/bot.otmod,game_bot,@onUnload,terminate(),8
+Dropbox,modules/game_bugreport/bugreport.otmod,game_bugreport,name,game_bugreport,2
+Dropbox,modules/game_bugreport/bugreport.otmod,game_bugreport,scripts,[ bugreport ],6
+Dropbox,modules/game_bugreport/bugreport.otmod,game_bugreport,sandboxed,true,7
+Dropbox,modules/game_bugreport/bugreport.otmod,game_bugreport,@onLoad,init(),8
+Dropbox,modules/game_bugreport/bugreport.otmod,game_bugreport,@onUnload,terminate(),9
+Dropbox,modules/game_buttons/buttons.otmod,game_buttons,name,game_buttons,2
+Dropbox,modules/game_buttons/buttons.otmod,game_buttons,sandboxed,true,5
+Dropbox,modules/game_buttons/buttons.otmod,game_buttons,scripts,[ buttons ],6
+Dropbox,modules/game_buttons/buttons.otmod,game_buttons,@onLoad,init(),7
+Dropbox,modules/game_buttons/buttons.otmod,game_buttons,@onUnload,terminate(),8
+Dropbox,modules/game_console/console.otmod,game_console,name,game_console,2
+Dropbox,modules/game_console/console.otmod,game_console,sandboxed,true,6
+Dropbox,modules/game_console/console.otmod,game_console,scripts,[ console ],7
+Dropbox,modules/game_console/console.otmod,game_console,@onLoad,init(),8
+Dropbox,modules/game_console/console.otmod,game_console,@onUnload,terminate(),9
+Dropbox,modules/game_containers/containers.otmod,game_containers,name,game_containers,2
+Dropbox,modules/game_containers/containers.otmod,game_containers,sandboxed,true,6
+Dropbox,modules/game_containers/containers.otmod,game_containers,scripts,[containers],7
+Dropbox,modules/game_containers/containers.otmod,game_containers,@onLoad,init(),8
+Dropbox,modules/game_containers/containers.otmod,game_containers,@onUnload,terminate(),9
+Dropbox,modules/game_cooldown/cooldown.otmod,game_cooldown,name,game_cooldown,2
+Dropbox,modules/game_cooldown/cooldown.otmod,game_cooldown,sandboxed,true,6
+Dropbox,modules/game_cooldown/cooldown.otmod,game_cooldown,scripts,[ cooldown ],7
+Dropbox,modules/game_cooldown/cooldown.otmod,game_cooldown,@onLoad,init(),8
+Dropbox,modules/game_cooldown/cooldown.otmod,game_cooldown,@onUnload,terminate(),9
+Dropbox,modules/game_crafting/crafting.otmod,game_crafting,name,game_crafting,2
+Dropbox,modules/game_crafting/crafting.otmod,game_crafting,sandboxed,true,6
+Dropbox,modules/game_crafting/crafting.otmod,game_crafting,autoload,true,7
+Dropbox,modules/game_crafting/crafting.otmod,game_crafting,scripts,[ crafting ],8
+Dropbox,modules/game_crafting/crafting.otmod,game_crafting,@onLoad,init(),9
+Dropbox,modules/game_crafting/crafting.otmod,game_crafting,@onUnload,terminate(),10
+Dropbox,modules/game_dungeon/dungeon_module.otmod,game_dungeon,name,game_dungeon,2
+Dropbox,modules/game_dungeon/dungeon_module.otmod,game_dungeon,sandboxed,true,5
+Dropbox,modules/game_dungeon/dungeon_module.otmod,game_dungeon,scripts,"[config, dungeon_module]",6
+Dropbox,modules/game_dungeon/dungeon_module.otmod,game_dungeon,autoload,true,7
+Dropbox,modules/game_dungeon/dungeon_module.otmod,game_dungeon,autoload-priority,1001,8
+Dropbox,modules/game_dungeon/dungeon_module.otmod,game_dungeon,@onLoad,init(),9
+Dropbox,modules/game_dungeon/dungeon_module.otmod,game_dungeon,@onUnload,terminate(),10
+Dropbox,modules/game_exph/exph.otmod,game_exph,name,game_exph,2
+Dropbox,modules/game_exph/exph.otmod,game_exph,sandboxed,true,6
+Dropbox,modules/game_exph/exph.otmod,game_exph,scripts,[ exph ],7
+Dropbox,modules/game_exph/exph.otmod,game_exph,@onLoad,init(),8
+Dropbox,modules/game_exph/exph.otmod,game_exph,@onUnload,terminate(),9
+Dropbox,modules/game_exph/exph.otmod,game_exph,autoload,false,10
+Dropbox,modules/game_exph/exph.otmod,game_exph,dependencies,- game_interface,11
+Dropbox,modules/game_features/features.otmod,game_features,name,game_features,2
+Dropbox,modules/game_features/features.otmod,game_features,sandboxed,true,5
+Dropbox,modules/game_features/features.otmod,game_features,scripts,[features],6
+Dropbox,modules/game_features/features.otmod,game_features,@onLoad,init(),7
+Dropbox,modules/game_features/features.otmod,game_features,@onUnload,terminate(),8
+Dropbox,modules/game_healthbars/healthbars.otmod,game_healthbars,name,game_healthbars,2
+Dropbox,modules/game_healthbars/healthbars.otmod,game_healthbars,scripts,[ healthbars ],6
+Dropbox,modules/game_healthbars/healthbars.otmod,game_healthbars,autoload,false,7
+Dropbox,modules/game_healthbars/healthbars.otmod,game_healthbars,sandboxed,true,8
+Dropbox,modules/game_healthbars/healthbars.otmod,game_healthbars,@onLoad,init(),9
+Dropbox,modules/game_healthbars/healthbars.otmod,game_healthbars,@onUnload,terminate(),10
+Dropbox,modules/game_healthinfo/healthinfo.otmod,game_healthinfo,name,game_healthinfo,2
+Dropbox,modules/game_healthinfo/healthinfo.otmod,game_healthinfo,sandboxed,true,6
+Dropbox,modules/game_healthinfo/healthinfo.otmod,game_healthinfo,scripts,[ healthinfo ],7
+Dropbox,modules/game_healthinfo/healthinfo.otmod,game_healthinfo,@onLoad,init(),8
+Dropbox,modules/game_healthinfo/healthinfo.otmod,game_healthinfo,@onUnload,terminate(),9
+Dropbox,modules/game_hotkeys/hotkeys_manager.otmod,game_hotkeys,name,game_hotkeys,2
+Dropbox,modules/game_hotkeys/hotkeys_manager.otmod,game_hotkeys,sandboxed,true,6
+Dropbox,modules/game_hotkeys/hotkeys_manager.otmod,game_hotkeys,scripts,"[ hotkeys_extra, hotkeys_manager ]",7
+Dropbox,modules/game_hotkeys/hotkeys_manager.otmod,game_hotkeys,@onLoad,init(),8
+Dropbox,modules/game_hotkeys/hotkeys_manager.otmod,game_hotkeys,@onUnload,terminate(),9
+Dropbox,modules/game_hunt_analyzer/hunt_analyzer.otmod,game_hunt_analyzer,name,game_hunt_analyzer,2
+Dropbox,modules/game_hunt_analyzer/hunt_analyzer.otmod,game_hunt_analyzer,sandboxed,true,5
+Dropbox,modules/game_hunt_analyzer/hunt_analyzer.otmod,game_hunt_analyzer,scripts,[ hunt_analyzer ],6
+Dropbox,modules/game_hunt_analyzer/hunt_analyzer.otmod,game_hunt_analyzer,@onLoad,init(),7
+Dropbox,modules/game_hunt_analyzer/hunt_analyzer.otmod,game_hunt_analyzer,@onUnload,terminate(),8
+Dropbox,modules/game_hunt_analyzer/hunt_analyzer.otmod,game_hunt_analyzer,autoload,true,9
+Dropbox,modules/game_hunt_analyzer/hunt_analyzer.otmod,game_hunt_analyzer,dependencies,- game_interface - gamelib,10
+Dropbox,modules/game_icon/icon.otmod,game_icon,name,game_icon,2
+Dropbox,modules/game_icon/icon.otmod,game_icon,sandboxed,true,6
+Dropbox,modules/game_icon/icon.otmod,game_icon,autoload,true,7
+Dropbox,modules/game_icon/icon.otmod,game_icon,scripts,[ icon ],8
+Dropbox,modules/game_icon/icon.otmod,game_icon,@onLoad,init(),9
+Dropbox,modules/game_icon/icon.otmod,game_icon,@onUnload,terminate(),10
+Dropbox,modules/game_imbuing/imbuing.otmod,game_imbuing,name,game_imbuing,2
+Dropbox,modules/game_imbuing/imbuing.otmod,game_imbuing,sandboxed,true,6
+Dropbox,modules/game_imbuing/imbuing.otmod,game_imbuing,scripts,[ imbuing ],7
+Dropbox,modules/game_imbuing/imbuing.otmod,game_imbuing,@onLoad,init(),8
+Dropbox,modules/game_imbuing/imbuing.otmod,game_imbuing,@onUnload,terminate(),9
+Dropbox,modules/game_inspect/inspect.otmod,game_inspect,name,game_inspect,2
+Dropbox,modules/game_inspect/inspect.otmod,game_inspect,sandboxed,true,6
+Dropbox,modules/game_inspect/inspect.otmod,game_inspect,autoload,true,7
+Dropbox,modules/game_inspect/inspect.otmod,game_inspect,scripts,[ inspect ],8
+Dropbox,modules/game_inspect/inspect.otmod,game_inspect,@onLoad,init(),9
+Dropbox,modules/game_inspect/inspect.otmod,game_inspect,@onUnload,terminate(),10
+Dropbox,modules/game_interface/interface.otmod,game_interface,name,game_interface,2
+Dropbox,modules/game_interface/interface.otmod,game_interface,sandboxed,true,6
+Dropbox,modules/game_interface/interface.otmod,game_interface,scripts,"[ widgets/uigamemap, gameinterface ]",7
+Dropbox,modules/game_interface/interface.otmod,game_interface,load-later,- game_buttons - game_hotkeys - game_questlog - game_textmessage - game_console - game_outfit - game_healthinfo - game_skills - game_inventory - game_containers - game_viplist - game_battle - game_minimap - game_npctrade - game_textwindow - game_playertrade - game_bugreport - game_playerdeath - game_playermount - game_ruleviolation - game_market - game_cooldown - game_modaldialog - game_unjustifiedpoints - game_walking - game_itemselector - client_textedit - client_profiles - game_actionbar - game_prey - game_task_tracker - game_imbuing - game_stats - game_stats_exploot - game_shaders - game_title - game_bot - game_shop - game_tokenshop - game_store - game_bank - game_dungeon - game_autoloot - game_inspect - game_attrpoints - game_bosscheck - game_afkcheck - game_hunt_analyzer - game_task - game_crafting - game_icon - game_mission - game_playersettings,8
+Dropbox,modules/game_interface/interface.otmod,game_interface,@onLoad,init(),62
+Dropbox,modules/game_interface/interface.otmod,game_interface,@onUnload,terminate(),63
+Dropbox,modules/game_inventory/inventory.otmod,game_inventory,name,game_inventory,2
+Dropbox,modules/game_inventory/inventory.otmod,game_inventory,sandboxed,true,6
+Dropbox,modules/game_inventory/inventory.otmod,game_inventory,scripts,[ inventory ],7
+Dropbox,modules/game_inventory/inventory.otmod,game_inventory,@onLoad,init(),8
+Dropbox,modules/game_inventory/inventory.otmod,game_inventory,@onUnload,terminate(),9
+Dropbox,modules/game_itemselector/itemselector.otmod,game_itemselector,name,game_itemselector,2
+Dropbox,modules/game_itemselector/itemselector.otmod,game_itemselector,sandboxed,true,6
+Dropbox,modules/game_itemselector/itemselector.otmod,game_itemselector,dependencies,[ game_interface ],7
+Dropbox,modules/game_itemselector/itemselector.otmod,game_itemselector,scripts,[ itemselector ],8
+Dropbox,modules/game_itemselector/itemselector.otmod,game_itemselector,@onLoad,init(),9
+Dropbox,modules/game_itemselector/itemselector.otmod,game_itemselector,@onUnload,terminate(),10
+Dropbox,modules/game_market/market.otmod,game_market,name,game_market,2
+Dropbox,modules/game_market/market.otmod,game_market,sandboxed,true,6
+Dropbox,modules/game_market/market.otmod,game_market,scripts,"[ offerstatistic, marketoffer, marketprotocol, market ]",7
+Dropbox,modules/game_market/market.otmod,game_market,@onLoad,init(),8
+Dropbox,modules/game_market/market.otmod,game_market,@onUnload,terminate(),9
+Dropbox,modules/game_marketadd/marketadd.otmod,game_mark,name,game_mark,2
+Dropbox,modules/game_marketadd/marketadd.otmod,game_mark,sandboxed,true,5
+Dropbox,modules/game_marketadd/marketadd.otmod,game_mark,scripts,[marketadd],6
+Dropbox,modules/game_marketadd/marketadd.otmod,game_mark,autoload,true,7
+Dropbox,modules/game_marketadd/marketadd.otmod,game_mark,@onLoad,init(),8
+Dropbox,modules/game_marketadd/marketadd.otmod,game_mark,@onUnload,terminate(),9
+Dropbox,modules/game_minimap/minimap.otmod,game_minimap,name,game_minimap,2
+Dropbox,modules/game_minimap/minimap.otmod,game_minimap,sandboxed,true,6
+Dropbox,modules/game_minimap/minimap.otmod,game_minimap,scripts,[ minimap ],7
+Dropbox,modules/game_minimap/minimap.otmod,game_minimap,@onLoad,init(),8
+Dropbox,modules/game_minimap/minimap.otmod,game_minimap,@onUnload,terminate(),9
+Dropbox,modules/game_mission/mission_module.otmod,game_mission,name,game_mission,2
+Dropbox,modules/game_mission/mission_module.otmod,game_mission,sandboxed,true,5
+Dropbox,modules/game_mission/mission_module.otmod,game_mission,scripts,[mission_module],6
+Dropbox,modules/game_mission/mission_module.otmod,game_mission,autoload,true,7
+Dropbox,modules/game_mission/mission_module.otmod,game_mission,autoload-priority,1001,8
+Dropbox,modules/game_mission/mission_module.otmod,game_mission,@onLoad,init(),9
+Dropbox,modules/game_mission/mission_module.otmod,game_mission,@onUnload,terminate(),10
+Dropbox,modules/game_modaldialog/modaldialog.otmod,game_modaldialog,name,game_modaldialog,2
+Dropbox,modules/game_modaldialog/modaldialog.otmod,game_modaldialog,sandboxed,true,6
+Dropbox,modules/game_modaldialog/modaldialog.otmod,game_modaldialog,dependencies,[ game_interface ],7
+Dropbox,modules/game_modaldialog/modaldialog.otmod,game_modaldialog,scripts,[ modaldialog ],8
+Dropbox,modules/game_modaldialog/modaldialog.otmod,game_modaldialog,@onLoad,init(),9
+Dropbox,modules/game_modaldialog/modaldialog.otmod,game_modaldialog,@onUnload,terminate(),10
+Dropbox,modules/game_npctrade/npctrade.otmod,game_npctrade,name,game_npctrade,2
+Dropbox,modules/game_npctrade/npctrade.otmod,game_npctrade,sandboxed,true,6
+Dropbox,modules/game_npctrade/npctrade.otmod,game_npctrade,scripts,[ npctrade ],7
+Dropbox,modules/game_npctrade/npctrade.otmod,game_npctrade,@onLoad,init(),8
+Dropbox,modules/game_npctrade/npctrade.otmod,game_npctrade,@onUnload,terminate(),9
+Dropbox,modules/game_outfit/outfit.otmod,game_outfit,name,game_outfit,2
+Dropbox,modules/game_outfit/outfit.otmod,game_outfit,sandboxed,true,6
+Dropbox,modules/game_outfit/outfit.otmod,game_outfit,scripts,[ outfit ],7
+Dropbox,modules/game_outfit/outfit.otmod,game_outfit,@onLoad,init(),8
+Dropbox,modules/game_outfit/outfit.otmod,game_outfit,@onUnload,terminate(),9
+Dropbox,modules/game_playerdeath/playerdeath.otmod,game_playerdeath,name,game_playerdeath,2
+Dropbox,modules/game_playerdeath/playerdeath.otmod,game_playerdeath,sandboxed,true,6
+Dropbox,modules/game_playerdeath/playerdeath.otmod,game_playerdeath,scripts,[ playerdeath ],7
+Dropbox,modules/game_playerdeath/playerdeath.otmod,game_playerdeath,@onLoad,init(),8
+Dropbox,modules/game_playerdeath/playerdeath.otmod,game_playerdeath,@onUnload,terminate(),9
+Dropbox,modules/game_playermount/playermount.otmod,game_playermount,name,game_playermount,2
+Dropbox,modules/game_playermount/playermount.otmod,game_playermount,sandboxed,true,6
+Dropbox,modules/game_playermount/playermount.otmod,game_playermount,scripts,[ playermount ],7
+Dropbox,modules/game_playermount/playermount.otmod,game_playermount,@onLoad,init(),8
+Dropbox,modules/game_playermount/playermount.otmod,game_playermount,@onUnload,terminate(),9
+Dropbox,modules/game_playersettings/playersettings.otmod,game_playersettings,name,game_playersettings,2
+Dropbox,modules/game_playersettings/playersettings.otmod,game_playersettings,sandboxed,true,5
+Dropbox,modules/game_playersettings/playersettings.otmod,game_playersettings,scripts,[playersettings],6
+Dropbox,modules/game_playersettings/playersettings.otmod,game_playersettings,autoload,true,7
+Dropbox,modules/game_playersettings/playersettings.otmod,game_playersettings,autoload-priority,1004,8
+Dropbox,modules/game_playersettings/playersettings.otmod,game_playersettings,@onLoad,init(),9
+Dropbox,modules/game_playersettings/playersettings.otmod,game_playersettings,@onUnload,terminate(),10
+Dropbox,modules/game_playertrade/playertrade.otmod,game_playertrade,name,game_playertrade,2
+Dropbox,modules/game_playertrade/playertrade.otmod,game_playertrade,sandboxed,true,6
+Dropbox,modules/game_playertrade/playertrade.otmod,game_playertrade,scripts,[ playertrade ],7
+Dropbox,modules/game_playertrade/playertrade.otmod,game_playertrade,@onLoad,init(),8
+Dropbox,modules/game_playertrade/playertrade.otmod,game_playertrade,@onUnload,terminate(),9
+Dropbox,modules/game_prey/prey.otmod,game_prey,name,game_prey,2
+Dropbox,modules/game_prey/prey.otmod,game_prey,sandboxed,true,6
+Dropbox,modules/game_prey/prey.otmod,game_prey,scripts,[ prey ],7
+Dropbox,modules/game_prey/prey.otmod,game_prey,dependencies,[ client_topmenu ],8
+Dropbox,modules/game_prey/prey.otmod,game_prey,@onLoad,init(),9
+Dropbox,modules/game_prey/prey.otmod,game_prey,@onUnload,terminate(),10
+Dropbox,modules/game_protocol/protocol.otmod,game_protocol,name,game_protocol,2
+Dropbox,modules/game_protocol/protocol.otmod,game_protocol,scripts,[ protocol ],6
+Dropbox,modules/game_protocol/protocol.otmod,game_protocol,sandboxed,true,7
+Dropbox,modules/game_protocol/protocol.otmod,game_protocol,autoload,true,8
+Dropbox,modules/game_protocol/protocol.otmod,game_protocol,autoload-priority,500,9
+Dropbox,modules/game_protocol/protocol.otmod,game_protocol,@onLoad,init(),10
+Dropbox,modules/game_protocol/protocol.otmod,game_protocol,@onUnload,terminate(),11
+Dropbox,modules/game_questlog/questlog.otmod,game_questlog,name,game_questlog,2
+Dropbox,modules/game_questlog/questlog.otmod,game_questlog,sandboxed,true,6
+Dropbox,modules/game_questlog/questlog.otmod,game_questlog,scripts,[ questlog ],7
+Dropbox,modules/game_questlog/questlog.otmod,game_questlog,@onLoad,init(),8
+Dropbox,modules/game_questlog/questlog.otmod,game_questlog,@onUnload,terminate(),9
+Dropbox,modules/game_ruleviolation/ruleviolation.otmod,game_ruleviolation,name,game_ruleviolation,2
+Dropbox,modules/game_ruleviolation/ruleviolation.otmod,game_ruleviolation,sandboxed,true,6
+Dropbox,modules/game_ruleviolation/ruleviolation.otmod,game_ruleviolation,scripts,[ ruleviolation ],7
+Dropbox,modules/game_ruleviolation/ruleviolation.otmod,game_ruleviolation,@onLoad,init(),8
+Dropbox,modules/game_ruleviolation/ruleviolation.otmod,game_ruleviolation,@onUnload,terminate(),9
+Dropbox,modules/game_shaders/shaders.otmod,game_shaders,name,game_shaders,2
+Dropbox,modules/game_shaders/shaders.otmod,game_shaders,scripts,[ shaders ],6
+Dropbox,modules/game_shaders/shaders.otmod,game_shaders,sandboxed,true,7
+Dropbox,modules/game_shaders/shaders.otmod,game_shaders,@onLoad,init(),8
+Dropbox,modules/game_shaders/shaders.otmod,game_shaders,@onUnload,terminate(),9
+Dropbox,modules/game_shop/shop.otmod,game_shop,name,game_shop,2
+Dropbox,modules/game_shop/shop.otmod,game_shop,sandboxed,true,6
+Dropbox,modules/game_shop/shop.otmod,game_shop,scripts,[ shop ],7
+Dropbox,modules/game_shop/shop.otmod,game_shop,dependencies,[ client_topmenu ],8
+Dropbox,modules/game_shop/shop.otmod,game_shop,@onLoad,init(),9
+Dropbox,modules/game_shop/shop.otmod,game_shop,@onUnload,terminate(),10
+Dropbox,modules/game_skills/skills.otmod,game_skills,name,game_skills,2
+Dropbox,modules/game_skills/skills.otmod,game_skills,sandboxed,true,6
+Dropbox,modules/game_skills/skills.otmod,game_skills,scripts,[ skills ],7
+Dropbox,modules/game_skills/skills.otmod,game_skills,@onLoad,init(),8
+Dropbox,modules/game_skills/skills.otmod,game_skills,@onUnload,terminate(),9
+Dropbox,modules/game_skills/skills.otmod,game_skills,dependencies,- game_interface,10
+Dropbox,modules/game_spelllist/spelllist.otmod,game_spelllist,name,game_spelllist,2
+Dropbox,modules/game_spelllist/spelllist.otmod,game_spelllist,autoload,true,6
+Dropbox,modules/game_spelllist/spelllist.otmod,game_spelllist,sandboxed,false,7
+Dropbox,modules/game_spelllist/spelllist.otmod,game_spelllist,scripts,[ spelllist ],8
+Dropbox,modules/game_spelllist/spelllist.otmod,game_spelllist,@onLoad,init(),9
+Dropbox,modules/game_spelllist/spelllist.otmod,game_spelllist,@onUnload,terminate(),10
+Dropbox,modules/game_stats/stats.otmod,game_stats,name,game_stats,2
+Dropbox,modules/game_stats/stats.otmod,game_stats,sandboxed,true,6
+Dropbox,modules/game_stats/stats.otmod,game_stats,scripts,[ stats ],7
+Dropbox,modules/game_stats/stats.otmod,game_stats,@onLoad,init(),8
+Dropbox,modules/game_stats/stats.otmod,game_stats,@onUnload,terminate(),9
+Dropbox,modules/game_stats_exploot/stats_exploot.otmod,game_stats_exploot,name,game_stats_exploot,2
+Dropbox,modules/game_stats_exploot/stats_exploot.otmod,game_stats_exploot,sandboxed,true,6
+Dropbox,modules/game_stats_exploot/stats_exploot.otmod,game_stats_exploot,scripts,[ stats_exploot ],7
+Dropbox,modules/game_stats_exploot/stats_exploot.otmod,game_stats_exploot,@onLoad,init(),8
+Dropbox,modules/game_stats_exploot/stats_exploot.otmod,game_stats_exploot,@onUnload,terminate(),9
+Dropbox,modules/game_store/store.otmod,game_store,name,game_store,2
+Dropbox,modules/game_store/store.otmod,game_store,scripts,[store],6
+Dropbox,modules/game_store/store.otmod,game_store,@onLoad,init(),7
+Dropbox,modules/game_store/store.otmod,game_store,@onUnload,terminate(),8
+Dropbox,modules/game_task/task_module.otmod,game_task,name,game_task,2
+Dropbox,modules/game_task/task_module.otmod,game_task,sandboxed,true,5
+Dropbox,modules/game_task/task_module.otmod,game_task,scripts,[task_module],6
+Dropbox,modules/game_task/task_module.otmod,game_task,autoload,true,7
+Dropbox,modules/game_task/task_module.otmod,game_task,autoload-priority,1001,8
+Dropbox,modules/game_task/task_module.otmod,game_task,@onLoad,init(),9
+Dropbox,modules/game_task/task_module.otmod,game_task,@onUnload,terminate(),10
+Dropbox,modules/game_task_tracker/task.otmod,game_task_tracker,name,game_task_tracker,2
+Dropbox,modules/game_task_tracker/task.otmod,game_task_tracker,sandboxed,true,5
+Dropbox,modules/game_task_tracker/task.otmod,game_task_tracker,autoload,true,6
+Dropbox,modules/game_task_tracker/task.otmod,game_task_tracker,scripts,[ task ],7
+Dropbox,modules/game_task_tracker/task.otmod,game_task_tracker,@onLoad,init(),8
+Dropbox,modules/game_task_tracker/task.otmod,game_task_tracker,@onUnload,terminate(),9
+Dropbox,modules/game_textmessage/textmessage.otmod,game_textmessage,name,game_textmessage,2
+Dropbox,modules/game_textmessage/textmessage.otmod,game_textmessage,sandboxed,true,6
+Dropbox,modules/game_textmessage/textmessage.otmod,game_textmessage,scripts,"[ items, textmessage ]",7
+Dropbox,modules/game_textmessage/textmessage.otmod,game_textmessage,@onLoad,init(),8
+Dropbox,modules/game_textmessage/textmessage.otmod,game_textmessage,@onUnload,terminate(),9
+Dropbox,modules/game_textwindow/textwindow.otmod,game_textwindow,name,game_textwindow,2
+Dropbox,modules/game_textwindow/textwindow.otmod,game_textwindow,sandboxed,true,6
+Dropbox,modules/game_textwindow/textwindow.otmod,game_textwindow,dependencies,[ game_interface ],7
+Dropbox,modules/game_textwindow/textwindow.otmod,game_textwindow,scripts,[ textwindow ],8
+Dropbox,modules/game_textwindow/textwindow.otmod,game_textwindow,@onLoad,init(),9
+Dropbox,modules/game_textwindow/textwindow.otmod,game_textwindow,@onUnload,terminate(),10
+Dropbox,modules/game_things/things.otmod,game_things,name,game_things,2
+Dropbox,modules/game_things/things.otmod,game_things,sandboxed,true,5
+Dropbox,modules/game_things/things.otmod,game_things,scripts,[things],6
+Dropbox,modules/game_title/title.otmod,game_title,name,game_title,2
+Dropbox,modules/game_title/title.otmod,game_title,scripts,[ title ],6
+Dropbox,modules/game_title/title.otmod,game_title,sandboxed,true,7
+Dropbox,modules/game_title/title.otmod,game_title,@onLoad,init(),8
+Dropbox,modules/game_title/title.otmod,game_title,@onUnload,terminate(),9
+Dropbox,modules/game_tokenshop/tokenshop.otmod,game_tokenshop,name,game_tokenshop,2
+Dropbox,modules/game_tokenshop/tokenshop.otmod,game_tokenshop,scripts,[ tokenshop ],6
+Dropbox,modules/game_tokenshop/tokenshop.otmod,game_tokenshop,sandboxed,true,7
+Dropbox,modules/game_tokenshop/tokenshop.otmod,game_tokenshop,autoload,true,8
+Dropbox,modules/game_tokenshop/tokenshop.otmod,game_tokenshop,@onLoad,init(),9
+Dropbox,modules/game_tokenshop/tokenshop.otmod,game_tokenshop,@onUnload,terminate(),10
+Dropbox,modules/game_tooltips/item_tooltip.otmod,game_itemtooltip,name,game_itemtooltip,2
+Dropbox,modules/game_tooltips/item_tooltip.otmod,game_itemtooltip,sandboxed,true,6
+Dropbox,modules/game_tooltips/item_tooltip.otmod,game_itemtooltip,autoload,true,7
+Dropbox,modules/game_tooltips/item_tooltip.otmod,game_itemtooltip,scripts,[ item_tooltip ],8
+Dropbox,modules/game_tooltips/item_tooltip.otmod,game_itemtooltip,@onLoad,init(),9
+Dropbox,modules/game_tooltips/item_tooltip.otmod,game_itemtooltip,@onUnload,terminate(),10
+Dropbox,modules/game_topbar/topbar.otmod,game_topbar,name,game_topbar,2
+Dropbox,modules/game_topbar/topbar.otmod,game_topbar,sandboxed,true,6
+Dropbox,modules/game_topbar/topbar.otmod,game_topbar,autoload,true,7
+Dropbox,modules/game_topbar/topbar.otmod,game_topbar,scripts,[ topbar ],8
+Dropbox,modules/game_topbar/topbar.otmod,game_topbar,@onLoad,init(),9
+Dropbox,modules/game_topbar/topbar.otmod,game_topbar,@onUnload,terminate(),10
+Dropbox,modules/game_unjustifiedpoints/unjustifiedpoints.otmod,game_unjustifiedpoints,name,game_unjustifiedpoints,2
+Dropbox,modules/game_unjustifiedpoints/unjustifiedpoints.otmod,game_unjustifiedpoints,sandboxed,true,5
+Dropbox,modules/game_unjustifiedpoints/unjustifiedpoints.otmod,game_unjustifiedpoints,scripts,[ unjustifiedpoints ],6
+Dropbox,modules/game_unjustifiedpoints/unjustifiedpoints.otmod,game_unjustifiedpoints,@onLoad,init(),7
+Dropbox,modules/game_unjustifiedpoints/unjustifiedpoints.otmod,game_unjustifiedpoints,@onUnload,terminate(),8
+Dropbox,modules/game_viplist/viplist.otmod,game_viplist,name,game_viplist,2
+Dropbox,modules/game_viplist/viplist.otmod,game_viplist,sandboxed,true,6
+Dropbox,modules/game_viplist/viplist.otmod,game_viplist,scripts,[ viplist ],7
+Dropbox,modules/game_viplist/viplist.otmod,game_viplist,@onLoad,init(),8
+Dropbox,modules/game_viplist/viplist.otmod,game_viplist,@onUnload,terminate(),9
+Dropbox,modules/game_walking/walking.otmod,game_walking,name,game_walking,2
+Dropbox,modules/game_walking/walking.otmod,game_walking,scripts,[ walking ],6
+Dropbox,modules/game_walking/walking.otmod,game_walking,dependencies,[ game_interface ],7
+Dropbox,modules/game_walking/walking.otmod,game_walking,@onLoad,init(),8
+Dropbox,modules/game_walking/walking.otmod,game_walking,@onUnload,terminate(),9
+Dropbox,modules/game_waypoint/waypoint_module.otmod,game_waypoint,name,game_waypoint,2
+Dropbox,modules/game_waypoint/waypoint_module.otmod,game_waypoint,sandboxed,true,5
+Dropbox,modules/game_waypoint/waypoint_module.otmod,game_waypoint,scripts,[waypoint_module],6
+Dropbox,modules/game_waypoint/waypoint_module.otmod,game_waypoint,autoload,true,7
+Dropbox,modules/game_waypoint/waypoint_module.otmod,game_waypoint,autoload-priority,1001,8
+Dropbox,modules/game_waypoint/waypoint_module.otmod,game_waypoint,@onLoad,init(),9
+Dropbox,modules/game_waypoint/waypoint_module.otmod,game_waypoint,@onUnload,terminate(),10
+Dropbox,modules/game_wings/game_wings.otmod,game_wings,name,game_wings,2
+Dropbox,modules/game_wings/game_wings.otmod,game_wings,autoload,true,6
+Dropbox,modules/game_wings/game_wings.otmod,game_wings,sandboxed,true,8
+Dropbox,modules/game_wings/game_wings.otmod,game_wings,scripts,[ game_wings ],10
+Dropbox,modules/game_wings/game_wings.otmod,game_wings,@onLoad,init(),11
+Dropbox,modules/game_wings/game_wings.otmod,game_wings,@onUnload,terminate(),12
+Dropbox,modules/updater/updater.otmod,updater,name,updater,2
+Dropbox,modules/updater/updater.otmod,updater,scripts,[ updater ],7
+Dropbox,modules/updater/updater.otmod,updater,dependencies,"[ client_locales, client_styles, client_textedit ]",8
+Dropbox,modules/updater/updater.otmod,updater,@onUnload,Updater.terminate(),9
+Dropbox,modules/updater/updater.otmod,updater,load-later,- client_background,11
+Drive,modules/client/client.otmod,client,name,client,2
+Drive,modules/client/client.otmod,client,sandboxed,true,7
+Drive,modules/client/client.otmod,client,scripts,[ client ],8
+Drive,modules/client/client.otmod,client,@onLoad,init(),9
+Drive,modules/client/client.otmod,client,@onUnload,terminate(),10
+Drive,modules/client/client.otmod,client,load-later,- client_styles - client_locales - client_topmenu - client_background - client_textedit - client_options - client_entergame - client_terminal - client_stats - client_feedback - client_mobile,12
+Drive,modules/client_background/background.otmod,client_background,name,client_background,2
+Drive,modules/client_background/background.otmod,client_background,sandboxed,true,6
+Drive,modules/client_background/background.otmod,client_background,scripts,[ background ],7
+Drive,modules/client_background/background.otmod,client_background,@onLoad,init(),8
+Drive,modules/client_background/background.otmod,client_background,@onUnload,terminate(),9
+Drive,modules/client_entergame/entergame.otmod,client_entergame,name,client_entergame,2
+Drive,modules/client_entergame/entergame.otmod,client_entergame,scripts,"[ entergame, characterlist ]",6
+Drive,modules/client_entergame/entergame.otmod,client_entergame,@onLoad,EnterGame.init() CharacterList.init(),7
+Drive,modules/client_entergame/entergame.otmod,client_entergame,@onUnload,EnterGame.terminate() CharacterList.terminate(),8
+Drive,modules/client_entergame/entergame.otmod,client_entergame,load-later,- game_things - game_features,10
+Drive,modules/client_feedback/feedback.otmod,client_feedback,name,client_feedback,2
+Drive,modules/client_feedback/feedback.otmod,client_feedback,sandboxed,true,6
+Drive,modules/client_feedback/feedback.otmod,client_feedback,dependencies,[ game_interface ],7
+Drive,modules/client_feedback/feedback.otmod,client_feedback,scripts,[ feedback ],8
+Drive,modules/client_feedback/feedback.otmod,client_feedback,@onLoad,init(),9
+Drive,modules/client_feedback/feedback.otmod,client_feedback,@onUnload,terminate(),10
+Drive,modules/client_locales/locales.otmod,client_locales,name,client_locales,2
+Drive,modules/client_locales/locales.otmod,client_locales,sandboxed,true,6
+Drive,modules/client_locales/locales.otmod,client_locales,scripts,[ locales ],7
+Drive,modules/client_locales/locales.otmod,client_locales,@onLoad,init(),8
+Drive,modules/client_locales/locales.otmod,client_locales,@onUnload,terminate(),9
+Drive,modules/client_mobile/mobile.otmod,client_mobile,name,client_mobile,2
+Drive,modules/client_mobile/mobile.otmod,client_mobile,sandboxed,true,6
+Drive,modules/client_mobile/mobile.otmod,client_mobile,scripts,[ mobile ],7
+Drive,modules/client_mobile/mobile.otmod,client_mobile,@onLoad,init(),8
+Drive,modules/client_mobile/mobile.otmod,client_mobile,@onUnload,terminate(),9
+Drive,modules/client_options/options.otmod,client_options,name,client_options,2
+Drive,modules/client_options/options.otmod,client_options,sandboxed,true,6
+Drive,modules/client_options/options.otmod,client_options,scripts,"[ options, datafolder ]",7
+Drive,modules/client_options/options.otmod,client_options,@onLoad,init(),8
+Drive,modules/client_options/options.otmod,client_options,@onUnload,terminate(),9
+Drive,modules/client_profiles/profiles.otmod,client_profiles,name,client_profiles,2
+Drive,modules/client_profiles/profiles.otmod,client_profiles,autoload,true,6
+Drive,modules/client_profiles/profiles.otmod,client_profiles,scripts,[ profiles ],8
+Drive,modules/client_profiles/profiles.otmod,client_profiles,sandboxed,true,9
+Drive,modules/client_profiles/profiles.otmod,client_profiles,@onLoad,init(),10
+Drive,modules/client_profiles/profiles.otmod,client_profiles,@onUnload,terminate(),11
+Drive,modules/client_stats/stats.otmod,client_stats,name,client_stats,2
+Drive,modules/client_stats/stats.otmod,client_stats,sandboxed,true,5
+Drive,modules/client_stats/stats.otmod,client_stats,scripts,[ stats ],6
+Drive,modules/client_stats/stats.otmod,client_stats,dependencies,[ client_topmenu ],7
+Drive,modules/client_stats/stats.otmod,client_stats,@onLoad,init(),8
+Drive,modules/client_stats/stats.otmod,client_stats,@onUnload,terminate(),9
+Drive,modules/client_styles/styles.otmod,client_styles,name,client_styles,2
+Drive,modules/client_styles/styles.otmod,client_styles,scripts,[ styles ],6
+Drive,modules/client_styles/styles.otmod,client_styles,sandboxed,true,7
+Drive,modules/client_styles/styles.otmod,client_styles,@onLoad,init(),8
+Drive,modules/client_styles/styles.otmod,client_styles,@onUnload,terminate(),9
+Drive,modules/client_terminal/terminal.otmod,client_terminal,name,client_terminal,2
+Drive,modules/client_terminal/terminal.otmod,client_terminal,scripts,[ terminal ],6
+Drive,modules/client_terminal/terminal.otmod,client_terminal,sandboxed,true,7
+Drive,modules/client_terminal/terminal.otmod,client_terminal,@onLoad,init(),9
+Drive,modules/client_terminal/terminal.otmod,client_terminal,@onUnload,terminate(),10
+Drive,modules/client_textedit/textedit.otmod,client_textedit,name,client_textedit,2
+Drive,modules/client_textedit/textedit.otmod,client_textedit,sandboxed,true,6
+Drive,modules/client_textedit/textedit.otmod,client_textedit,scripts,[ textedit ],7
+Drive,modules/client_textedit/textedit.otmod,client_textedit,@onLoad,init(),8
+Drive,modules/client_textedit/textedit.otmod,client_textedit,@onUnload,terminate(),9
+Drive,modules/client_topmenu/topmenu.otmod,client_topmenu,name,client_topmenu,2
+Drive,modules/client_topmenu/topmenu.otmod,client_topmenu,scripts,[ topmenu ],6
+Drive,modules/client_topmenu/topmenu.otmod,client_topmenu,sandboxed,true,7
+Drive,modules/client_topmenu/topmenu.otmod,client_topmenu,@onLoad,init(),8
+Drive,modules/client_topmenu/topmenu.otmod,client_topmenu,@onUnload,terminate(),9
+Drive,modules/corelib/corelib.otmod,corelib,name,corelib,2
+Drive,modules/corelib/corelib.otmod,corelib,@onLoad,|,8
+Drive,modules/crash_reporter/crash_reporter.otmod,crash_reporter,name,crash_reporter,2
+Drive,modules/crash_reporter/crash_reporter.otmod,crash_reporter,scripts,[ crash_reporter ],7
+Drive,modules/crash_reporter/crash_reporter.otmod,crash_reporter,@onLoad,init(),8
+Drive,modules/game_actionbar/actionbar.otmod,game_actionbar,name,game_actionbar,2
+Drive,modules/game_actionbar/actionbar.otmod,game_actionbar,sandboxed,true,4
+Drive,modules/game_actionbar/actionbar.otmod,game_actionbar,@onLoad,init(),5
+Drive,modules/game_actionbar/actionbar.otmod,game_actionbar,@onUnload,terminate(),6
+Drive,modules/game_actionbar/actionbar.otmod,game_actionbar,scripts,[ actionbar ],7
+Drive,modules/game_afkcheck/afkcheck.otmod,game_afkcheck,name,game_afkcheck,2
+Drive,modules/game_afkcheck/afkcheck.otmod,game_afkcheck,scripts,[ afkcheck ],6
+Drive,modules/game_afkcheck/afkcheck.otmod,game_afkcheck,sandboxed,true,7
+Drive,modules/game_afkcheck/afkcheck.otmod,game_afkcheck,autoload,true,8
+Drive,modules/game_afkcheck/afkcheck.otmod,game_afkcheck,@onLoad,init(),9
+Drive,modules/game_afkcheck/afkcheck.otmod,game_afkcheck,@onUnload,terminate(),10
+Drive,modules/game_attrpoints/attrpoints.otmod,game_attrpoints,name,game_attrpoints,2
+Drive,modules/game_attrpoints/attrpoints.otmod,game_attrpoints,sandboxed,true,5
+Drive,modules/game_attrpoints/attrpoints.otmod,game_attrpoints,scripts,[attrpoints],6
+Drive,modules/game_attrpoints/attrpoints.otmod,game_attrpoints,autoload,true,7
+Drive,modules/game_attrpoints/attrpoints.otmod,game_attrpoints,@onLoad,init(),8
+Drive,modules/game_attrpoints/attrpoints.otmod,game_attrpoints,@onUnload,terminate(),9
+Drive,modules/game_autoloot/autoloot_module.otmod,game_autoloot,name,game_autoloot,2
+Drive,modules/game_autoloot/autoloot_module.otmod,game_autoloot,sandboxed,true,5
+Drive,modules/game_autoloot/autoloot_module.otmod,game_autoloot,scripts,[autoloot_module],6
+Drive,modules/game_autoloot/autoloot_module.otmod,game_autoloot,autoload,true,7
+Drive,modules/game_autoloot/autoloot_module.otmod,game_autoloot,autoload-priority,1001,8
+Drive,modules/game_autoloot/autoloot_module.otmod,game_autoloot,@onLoad,init(),9
+Drive,modules/game_autoloot/autoloot_module.otmod,game_autoloot,@onUnload,terminate(),10
+Drive,modules/game_bank/bank.otmod,game_bank,name,game_bank,2
+Drive,modules/game_bank/bank.otmod,game_bank,sandboxed,true,5
+Drive,modules/game_bank/bank.otmod,game_bank,scripts,[bank],6
+Drive,modules/game_bank/bank.otmod,game_bank,autoload,true,7
+Drive,modules/game_bank/bank.otmod,game_bank,@onLoad,init(),8
+Drive,modules/game_bank/bank.otmod,game_bank,@onUnload,terminate(),9
+Drive,modules/game_battle/battle.otmod,game_battle,name,game_battle,2
+Drive,modules/game_battle/battle.otmod,game_battle,sandboxed,true,6
+Drive,modules/game_battle/battle.otmod,game_battle,scripts,[ battle ],7
+Drive,modules/game_battle/battle.otmod,game_battle,@onLoad,init(),8
+Drive,modules/game_battle/battle.otmod,game_battle,@onUnload,terminate(),9
+Drive,modules/game_bossbar/bossbar.otmod,game_bossbar,name,game_bossbar,2
+Drive,modules/game_bossbar/bossbar.otmod,game_bossbar,sandboxed,true,6
+Drive,modules/game_bossbar/bossbar.otmod,game_bossbar,autoload,true,7
+Drive,modules/game_bossbar/bossbar.otmod,game_bossbar,scripts,[ bossbar ],8
+Drive,modules/game_bossbar/bossbar.otmod,game_bossbar,@onLoad,init(),9
+Drive,modules/game_bossbar/bossbar.otmod,game_bossbar,@onUnload,terminate(),10
+Drive,modules/game_bosscheck/bosscheck.otmod,game_bosscheck,name,game_bosscheck,2
+Drive,modules/game_bosscheck/bosscheck.otmod,game_bosscheck,sandboxed,true,5
+Drive,modules/game_bosscheck/bosscheck.otmod,game_bosscheck,scripts,[bosscheck],6
+Drive,modules/game_bosscheck/bosscheck.otmod,game_bosscheck,autoload,true,7
+Drive,modules/game_bosscheck/bosscheck.otmod,game_bosscheck,@onLoad,init(),8
+Drive,modules/game_bosscheck/bosscheck.otmod,game_bosscheck,@onUnload,terminate(),9
+Drive,modules/game_bot/bot.otmod,game_bot,name,game_bot,2
+Drive,modules/game_bot/bot.otmod,game_bot,sandboxed,true,5
+Drive,modules/game_bot/bot.otmod,game_bot,scripts,[ bot ],6
+Drive,modules/game_bot/bot.otmod,game_bot,@onLoad,init(),7
+Drive,modules/game_bot/bot.otmod,game_bot,@onUnload,terminate(),8
+Drive,modules/game_bugreport/bugreport.otmod,game_bugreport,name,game_bugreport,2
+Drive,modules/game_bugreport/bugreport.otmod,game_bugreport,scripts,[ bugreport ],6
+Drive,modules/game_bugreport/bugreport.otmod,game_bugreport,sandboxed,true,7
+Drive,modules/game_bugreport/bugreport.otmod,game_bugreport,@onLoad,init(),8
+Drive,modules/game_bugreport/bugreport.otmod,game_bugreport,@onUnload,terminate(),9
+Drive,modules/game_buttons/buttons.otmod,game_buttons,name,game_buttons,2
+Drive,modules/game_buttons/buttons.otmod,game_buttons,sandboxed,true,5
+Drive,modules/game_buttons/buttons.otmod,game_buttons,scripts,[ buttons ],6
+Drive,modules/game_buttons/buttons.otmod,game_buttons,@onLoad,init(),7
+Drive,modules/game_buttons/buttons.otmod,game_buttons,@onUnload,terminate(),8
+Drive,modules/game_console/console.otmod,game_console,name,game_console,2
+Drive,modules/game_console/console.otmod,game_console,sandboxed,true,6
+Drive,modules/game_console/console.otmod,game_console,scripts,[ console ],7
+Drive,modules/game_console/console.otmod,game_console,@onLoad,init(),8
+Drive,modules/game_console/console.otmod,game_console,@onUnload,terminate(),9
+Drive,modules/game_containers/containers.otmod,game_containers,name,game_containers,2
+Drive,modules/game_containers/containers.otmod,game_containers,sandboxed,true,6
+Drive,modules/game_containers/containers.otmod,game_containers,scripts,[containers],7
+Drive,modules/game_containers/containers.otmod,game_containers,@onLoad,init(),8
+Drive,modules/game_containers/containers.otmod,game_containers,@onUnload,terminate(),9
+Drive,modules/game_cooldown/cooldown.otmod,game_cooldown,name,game_cooldown,2
+Drive,modules/game_cooldown/cooldown.otmod,game_cooldown,sandboxed,true,6
+Drive,modules/game_cooldown/cooldown.otmod,game_cooldown,scripts,[ cooldown ],7
+Drive,modules/game_cooldown/cooldown.otmod,game_cooldown,@onLoad,init(),8
+Drive,modules/game_cooldown/cooldown.otmod,game_cooldown,@onUnload,terminate(),9
+Drive,modules/game_crafting/crafting.otmod,game_crafting,name,game_crafting,2
+Drive,modules/game_crafting/crafting.otmod,game_crafting,sandboxed,true,6
+Drive,modules/game_crafting/crafting.otmod,game_crafting,autoload,true,7
+Drive,modules/game_crafting/crafting.otmod,game_crafting,scripts,[ crafting ],8
+Drive,modules/game_crafting/crafting.otmod,game_crafting,@onLoad,init(),9
+Drive,modules/game_crafting/crafting.otmod,game_crafting,@onUnload,terminate(),10
+Drive,modules/game_dungeon/dungeon_module.otmod,game_dungeon,name,game_dungeon,2
+Drive,modules/game_dungeon/dungeon_module.otmod,game_dungeon,sandboxed,true,5
+Drive,modules/game_dungeon/dungeon_module.otmod,game_dungeon,scripts,"[config, dungeon_module]",6
+Drive,modules/game_dungeon/dungeon_module.otmod,game_dungeon,autoload,true,7
+Drive,modules/game_dungeon/dungeon_module.otmod,game_dungeon,autoload-priority,1001,8
+Drive,modules/game_dungeon/dungeon_module.otmod,game_dungeon,@onLoad,init(),9
+Drive,modules/game_dungeon/dungeon_module.otmod,game_dungeon,@onUnload,terminate(),10
+Drive,modules/game_exph/exph.otmod,game_exph,name,game_exph,2
+Drive,modules/game_exph/exph.otmod,game_exph,sandboxed,true,6
+Drive,modules/game_exph/exph.otmod,game_exph,scripts,[ exph ],7
+Drive,modules/game_exph/exph.otmod,game_exph,@onLoad,init(),8
+Drive,modules/game_exph/exph.otmod,game_exph,@onUnload,terminate(),9
+Drive,modules/game_exph/exph.otmod,game_exph,autoload,false,10
+Drive,modules/game_exph/exph.otmod,game_exph,dependencies,- game_interface,11
+Drive,modules/game_features/features.otmod,game_features,name,game_features,2
+Drive,modules/game_features/features.otmod,game_features,sandboxed,true,5
+Drive,modules/game_features/features.otmod,game_features,scripts,[features],6
+Drive,modules/game_features/features.otmod,game_features,@onLoad,init(),7
+Drive,modules/game_features/features.otmod,game_features,@onUnload,terminate(),8
+Drive,modules/game_healthbars/healthbars.otmod,game_healthbars,name,game_healthbars,2
+Drive,modules/game_healthbars/healthbars.otmod,game_healthbars,scripts,[ healthbars ],6
+Drive,modules/game_healthbars/healthbars.otmod,game_healthbars,autoload,false,7
+Drive,modules/game_healthbars/healthbars.otmod,game_healthbars,sandboxed,true,8
+Drive,modules/game_healthbars/healthbars.otmod,game_healthbars,@onLoad,init(),9
+Drive,modules/game_healthbars/healthbars.otmod,game_healthbars,@onUnload,terminate(),10
+Drive,modules/game_healthinfo/healthinfo.otmod,game_healthinfo,name,game_healthinfo,2
+Drive,modules/game_healthinfo/healthinfo.otmod,game_healthinfo,sandboxed,true,6
+Drive,modules/game_healthinfo/healthinfo.otmod,game_healthinfo,scripts,[ healthinfo ],7
+Drive,modules/game_healthinfo/healthinfo.otmod,game_healthinfo,@onLoad,init(),8
+Drive,modules/game_healthinfo/healthinfo.otmod,game_healthinfo,@onUnload,terminate(),9
+Drive,modules/game_hotkeys/hotkeys_manager.otmod,game_hotkeys,name,game_hotkeys,2
+Drive,modules/game_hotkeys/hotkeys_manager.otmod,game_hotkeys,sandboxed,true,6
+Drive,modules/game_hotkeys/hotkeys_manager.otmod,game_hotkeys,scripts,"[ hotkeys_extra, hotkeys_manager ]",7
+Drive,modules/game_hotkeys/hotkeys_manager.otmod,game_hotkeys,@onLoad,init(),8
+Drive,modules/game_hotkeys/hotkeys_manager.otmod,game_hotkeys,@onUnload,terminate(),9
+Drive,modules/game_hunt_analyzer/hunt_analyzer.otmod,game_hunt_analyzer,name,game_hunt_analyzer,2
+Drive,modules/game_hunt_analyzer/hunt_analyzer.otmod,game_hunt_analyzer,sandboxed,true,5
+Drive,modules/game_hunt_analyzer/hunt_analyzer.otmod,game_hunt_analyzer,scripts,[ hunt_analyzer ],6
+Drive,modules/game_hunt_analyzer/hunt_analyzer.otmod,game_hunt_analyzer,@onLoad,init(),7
+Drive,modules/game_hunt_analyzer/hunt_analyzer.otmod,game_hunt_analyzer,@onUnload,terminate(),8
+Drive,modules/game_hunt_analyzer/hunt_analyzer.otmod,game_hunt_analyzer,autoload,true,9
+Drive,modules/game_hunt_analyzer/hunt_analyzer.otmod,game_hunt_analyzer,dependencies,- game_interface - gamelib,10
+Drive,modules/game_icon/icon.otmod,game_icon,name,game_icon,2
+Drive,modules/game_icon/icon.otmod,game_icon,sandboxed,true,6
+Drive,modules/game_icon/icon.otmod,game_icon,autoload,true,7
+Drive,modules/game_icon/icon.otmod,game_icon,scripts,[ icon ],8
+Drive,modules/game_icon/icon.otmod,game_icon,@onLoad,init(),9
+Drive,modules/game_icon/icon.otmod,game_icon,@onUnload,terminate(),10
+Drive,modules/game_imbuing/imbuing.otmod,game_imbuing,name,game_imbuing,2
+Drive,modules/game_imbuing/imbuing.otmod,game_imbuing,sandboxed,true,6
+Drive,modules/game_imbuing/imbuing.otmod,game_imbuing,scripts,[ imbuing ],7
+Drive,modules/game_imbuing/imbuing.otmod,game_imbuing,@onLoad,init(),8
+Drive,modules/game_imbuing/imbuing.otmod,game_imbuing,@onUnload,terminate(),9
+Drive,modules/game_inspect/inspect.otmod,game_inspect,name,game_inspect,2
+Drive,modules/game_inspect/inspect.otmod,game_inspect,sandboxed,true,6
+Drive,modules/game_inspect/inspect.otmod,game_inspect,autoload,true,7
+Drive,modules/game_inspect/inspect.otmod,game_inspect,scripts,[ inspect ],8
+Drive,modules/game_inspect/inspect.otmod,game_inspect,@onLoad,init(),9
+Drive,modules/game_inspect/inspect.otmod,game_inspect,@onUnload,terminate(),10
+Drive,modules/game_interface/interface.otmod,game_interface,name,game_interface,2
+Drive,modules/game_interface/interface.otmod,game_interface,sandboxed,true,6
+Drive,modules/game_interface/interface.otmod,game_interface,scripts,"[ widgets/uigamemap, gameinterface ]",7
+Drive,modules/game_interface/interface.otmod,game_interface,load-later,- game_buttons - game_hotkeys - game_questlog - game_textmessage - game_console - game_outfit - game_healthinfo - game_skills - game_inventory - game_containers - game_viplist - game_battle - game_minimap - game_npctrade - game_textwindow - game_playertrade - game_bugreport - game_playerdeath - game_playermount - game_ruleviolation - game_market - game_cooldown - game_modaldialog - game_unjustifiedpoints - game_walking - game_itemselector - client_textedit - client_profiles - game_actionbar - game_prey - game_task_tracker - game_imbuing - game_stats - game_stats_exploot - game_shaders - game_title - game_bot - game_shop - game_tokenshop - game_store - game_bank - game_dungeon - game_autoloot - game_inspect - game_attrpoints - game_bosscheck - game_afkcheck - game_hunt_analyzer - game_task - game_crafting - game_icon - game_mission - game_playersettings,8
+Drive,modules/game_interface/interface.otmod,game_interface,@onLoad,init(),62
+Drive,modules/game_interface/interface.otmod,game_interface,@onUnload,terminate(),63
+Drive,modules/game_inventory/inventory.otmod,game_inventory,name,game_inventory,2
+Drive,modules/game_inventory/inventory.otmod,game_inventory,sandboxed,true,6
+Drive,modules/game_inventory/inventory.otmod,game_inventory,scripts,[ inventory ],7
+Drive,modules/game_inventory/inventory.otmod,game_inventory,@onLoad,init(),8
+Drive,modules/game_inventory/inventory.otmod,game_inventory,@onUnload,terminate(),9
+Drive,modules/game_itemselector/itemselector.otmod,game_itemselector,name,game_itemselector,2
+Drive,modules/game_itemselector/itemselector.otmod,game_itemselector,sandboxed,true,6
+Drive,modules/game_itemselector/itemselector.otmod,game_itemselector,dependencies,[ game_interface ],7
+Drive,modules/game_itemselector/itemselector.otmod,game_itemselector,scripts,[ itemselector ],8
+Drive,modules/game_itemselector/itemselector.otmod,game_itemselector,@onLoad,init(),9
+Drive,modules/game_itemselector/itemselector.otmod,game_itemselector,@onUnload,terminate(),10
+Drive,modules/game_market/market.otmod,game_market,name,game_market,2
+Drive,modules/game_market/market.otmod,game_market,sandboxed,true,6
+Drive,modules/game_market/market.otmod,game_market,scripts,"[ offerstatistic, marketoffer, marketprotocol, market ]",7
+Drive,modules/game_market/market.otmod,game_market,@onLoad,init(),8
+Drive,modules/game_market/market.otmod,game_market,@onUnload,terminate(),9
+Drive,modules/game_marketadd/marketadd.otmod,game_mark,name,game_mark,2
+Drive,modules/game_marketadd/marketadd.otmod,game_mark,sandboxed,true,5
+Drive,modules/game_marketadd/marketadd.otmod,game_mark,scripts,[marketadd],6
+Drive,modules/game_marketadd/marketadd.otmod,game_mark,autoload,true,7
+Drive,modules/game_marketadd/marketadd.otmod,game_mark,@onLoad,init(),8
+Drive,modules/game_marketadd/marketadd.otmod,game_mark,@onUnload,terminate(),9
+Drive,modules/game_minimap/minimap.otmod,game_minimap,name,game_minimap,2
+Drive,modules/game_minimap/minimap.otmod,game_minimap,sandboxed,true,6
+Drive,modules/game_minimap/minimap.otmod,game_minimap,scripts,[ minimap ],7
+Drive,modules/game_minimap/minimap.otmod,game_minimap,@onLoad,init(),8
+Drive,modules/game_minimap/minimap.otmod,game_minimap,@onUnload,terminate(),9
+Drive,modules/game_mission/mission_module.otmod,game_mission,name,game_mission,2
+Drive,modules/game_mission/mission_module.otmod,game_mission,sandboxed,true,5
+Drive,modules/game_mission/mission_module.otmod,game_mission,scripts,[mission_module],6
+Drive,modules/game_mission/mission_module.otmod,game_mission,autoload,true,7
+Drive,modules/game_mission/mission_module.otmod,game_mission,autoload-priority,1001,8
+Drive,modules/game_mission/mission_module.otmod,game_mission,@onLoad,init(),9
+Drive,modules/game_mission/mission_module.otmod,game_mission,@onUnload,terminate(),10
+Drive,modules/game_modaldialog/modaldialog.otmod,game_modaldialog,name,game_modaldialog,2
+Drive,modules/game_modaldialog/modaldialog.otmod,game_modaldialog,sandboxed,true,6
+Drive,modules/game_modaldialog/modaldialog.otmod,game_modaldialog,dependencies,[ game_interface ],7
+Drive,modules/game_modaldialog/modaldialog.otmod,game_modaldialog,scripts,[ modaldialog ],8
+Drive,modules/game_modaldialog/modaldialog.otmod,game_modaldialog,@onLoad,init(),9
+Drive,modules/game_modaldialog/modaldialog.otmod,game_modaldialog,@onUnload,terminate(),10
+Drive,modules/game_npctrade/npctrade.otmod,game_npctrade,name,game_npctrade,2
+Drive,modules/game_npctrade/npctrade.otmod,game_npctrade,sandboxed,true,6
+Drive,modules/game_npctrade/npctrade.otmod,game_npctrade,scripts,[ npctrade ],7
+Drive,modules/game_npctrade/npctrade.otmod,game_npctrade,@onLoad,init(),8
+Drive,modules/game_npctrade/npctrade.otmod,game_npctrade,@onUnload,terminate(),9
+Drive,modules/game_outfit/outfit.otmod,game_outfit,name,game_outfit,2
+Drive,modules/game_outfit/outfit.otmod,game_outfit,sandboxed,true,6
+Drive,modules/game_outfit/outfit.otmod,game_outfit,dependencies,[ game_thinganim ],7
+Drive,modules/game_outfit/outfit.otmod,game_outfit,scripts,[ outfit ],8
+Drive,modules/game_outfit/outfit.otmod,game_outfit,@onLoad,init(),9
+Drive,modules/game_outfit/outfit.otmod,game_outfit,@onUnload,terminate(),10
+Drive,modules/game_playerdeath/playerdeath.otmod,game_playerdeath,name,game_playerdeath,2
+Drive,modules/game_playerdeath/playerdeath.otmod,game_playerdeath,sandboxed,true,6
+Drive,modules/game_playerdeath/playerdeath.otmod,game_playerdeath,scripts,[ playerdeath ],7
+Drive,modules/game_playerdeath/playerdeath.otmod,game_playerdeath,@onLoad,init(),8
+Drive,modules/game_playerdeath/playerdeath.otmod,game_playerdeath,@onUnload,terminate(),9
+Drive,modules/game_playermount/playermount.otmod,game_playermount,name,game_playermount,2
+Drive,modules/game_playermount/playermount.otmod,game_playermount,sandboxed,true,6
+Drive,modules/game_playermount/playermount.otmod,game_playermount,scripts,[ playermount ],7
+Drive,modules/game_playermount/playermount.otmod,game_playermount,@onLoad,init(),8
+Drive,modules/game_playermount/playermount.otmod,game_playermount,@onUnload,terminate(),9
+Drive,modules/game_playersettings/playersettings.otmod,game_playersettings,name,game_playersettings,2
+Drive,modules/game_playersettings/playersettings.otmod,game_playersettings,sandboxed,true,5
+Drive,modules/game_playersettings/playersettings.otmod,game_playersettings,scripts,[playersettings],6
+Drive,modules/game_playersettings/playersettings.otmod,game_playersettings,autoload,true,7
+Drive,modules/game_playersettings/playersettings.otmod,game_playersettings,autoload-priority,1004,8
+Drive,modules/game_playersettings/playersettings.otmod,game_playersettings,@onLoad,init(),9
+Drive,modules/game_playersettings/playersettings.otmod,game_playersettings,@onUnload,terminate(),10
+Drive,modules/game_playertrade/playertrade.otmod,game_playertrade,name,game_playertrade,2
+Drive,modules/game_playertrade/playertrade.otmod,game_playertrade,sandboxed,true,6
+Drive,modules/game_playertrade/playertrade.otmod,game_playertrade,scripts,[ playertrade ],7
+Drive,modules/game_playertrade/playertrade.otmod,game_playertrade,@onLoad,init(),8
+Drive,modules/game_playertrade/playertrade.otmod,game_playertrade,@onUnload,terminate(),9
+Drive,modules/game_prey/prey.otmod,game_prey,name,game_prey,2
+Drive,modules/game_prey/prey.otmod,game_prey,sandboxed,true,6
+Drive,modules/game_prey/prey.otmod,game_prey,scripts,[ prey ],7
+Drive,modules/game_prey/prey.otmod,game_prey,dependencies,[ client_topmenu ],8
+Drive,modules/game_prey/prey.otmod,game_prey,@onLoad,init(),9
+Drive,modules/game_prey/prey.otmod,game_prey,@onUnload,terminate(),10
+Drive,modules/game_protocol/protocol.otmod,game_protocol,name,game_protocol,2
+Drive,modules/game_protocol/protocol.otmod,game_protocol,scripts,[ protocol ],6
+Drive,modules/game_protocol/protocol.otmod,game_protocol,sandboxed,true,7
+Drive,modules/game_protocol/protocol.otmod,game_protocol,autoload,true,8
+Drive,modules/game_protocol/protocol.otmod,game_protocol,autoload-priority,500,9
+Drive,modules/game_protocol/protocol.otmod,game_protocol,@onLoad,init(),10
+Drive,modules/game_protocol/protocol.otmod,game_protocol,@onUnload,terminate(),11
+Drive,modules/game_questlog/questlog.otmod,game_questlog,name,game_questlog,2
+Drive,modules/game_questlog/questlog.otmod,game_questlog,sandboxed,true,6
+Drive,modules/game_questlog/questlog.otmod,game_questlog,scripts,[ questlog ],7
+Drive,modules/game_questlog/questlog.otmod,game_questlog,@onLoad,init(),8
+Drive,modules/game_questlog/questlog.otmod,game_questlog,@onUnload,terminate(),9
+Drive,modules/game_ruleviolation/ruleviolation.otmod,game_ruleviolation,name,game_ruleviolation,2
+Drive,modules/game_ruleviolation/ruleviolation.otmod,game_ruleviolation,sandboxed,true,6
+Drive,modules/game_ruleviolation/ruleviolation.otmod,game_ruleviolation,scripts,[ ruleviolation ],7
+Drive,modules/game_ruleviolation/ruleviolation.otmod,game_ruleviolation,@onLoad,init(),8
+Drive,modules/game_ruleviolation/ruleviolation.otmod,game_ruleviolation,@onUnload,terminate(),9
+Drive,modules/game_shaders/shaders.otmod,game_shaders,name,game_shaders,2
+Drive,modules/game_shaders/shaders.otmod,game_shaders,scripts,[ shaders ],6
+Drive,modules/game_shaders/shaders.otmod,game_shaders,sandboxed,true,7
+Drive,modules/game_shaders/shaders.otmod,game_shaders,@onLoad,init(),8
+Drive,modules/game_shaders/shaders.otmod,game_shaders,@onUnload,terminate(),9
+Drive,modules/game_shop/shop.otmod,game_shop,name,game_shop,2
+Drive,modules/game_shop/shop.otmod,game_shop,sandboxed,true,6
+Drive,modules/game_shop/shop.otmod,game_shop,scripts,[ shop ],7
+Drive,modules/game_shop/shop.otmod,game_shop,dependencies,[ client_topmenu ],8
+Drive,modules/game_shop/shop.otmod,game_shop,@onLoad,init(),9
+Drive,modules/game_shop/shop.otmod,game_shop,@onUnload,terminate(),10
+Drive,modules/game_skills/skills.otmod,game_skills,name,game_skills,2
+Drive,modules/game_skills/skills.otmod,game_skills,sandboxed,true,6
+Drive,modules/game_skills/skills.otmod,game_skills,scripts,[ skills ],7
+Drive,modules/game_skills/skills.otmod,game_skills,@onLoad,init(),8
+Drive,modules/game_skills/skills.otmod,game_skills,@onUnload,terminate(),9
+Drive,modules/game_skills/skills.otmod,game_skills,dependencies,- game_interface,10
+Drive,modules/game_spelllist/spelllist.otmod,game_spelllist,name,game_spelllist,2
+Drive,modules/game_spelllist/spelllist.otmod,game_spelllist,autoload,true,6
+Drive,modules/game_spelllist/spelllist.otmod,game_spelllist,sandboxed,false,7
+Drive,modules/game_spelllist/spelllist.otmod,game_spelllist,scripts,[ spelllist ],8
+Drive,modules/game_spelllist/spelllist.otmod,game_spelllist,@onLoad,init(),9
+Drive,modules/game_spelllist/spelllist.otmod,game_spelllist,@onUnload,terminate(),10
+Drive,modules/game_stats/stats.otmod,game_stats,name,game_stats,2
+Drive,modules/game_stats/stats.otmod,game_stats,sandboxed,true,6
+Drive,modules/game_stats/stats.otmod,game_stats,scripts,[ stats ],7
+Drive,modules/game_stats/stats.otmod,game_stats,@onLoad,init(),8
+Drive,modules/game_stats/stats.otmod,game_stats,@onUnload,terminate(),9
+Drive,modules/game_stats_exploot/stats_exploot.otmod,game_stats_exploot,name,game_stats_exploot,2
+Drive,modules/game_stats_exploot/stats_exploot.otmod,game_stats_exploot,sandboxed,true,6
+Drive,modules/game_stats_exploot/stats_exploot.otmod,game_stats_exploot,scripts,[ stats_exploot ],7
+Drive,modules/game_stats_exploot/stats_exploot.otmod,game_stats_exploot,@onLoad,init(),8
+Drive,modules/game_stats_exploot/stats_exploot.otmod,game_stats_exploot,@onUnload,terminate(),9
+Drive,modules/game_store/store.otmod,game_store,name,game_store,2
+Drive,modules/game_store/store.otmod,game_store,dependencies,[ game_thinganim ],6
+Drive,modules/game_store/store.otmod,game_store,scripts,[store],7
+Drive,modules/game_store/store.otmod,game_store,@onLoad,init(),8
+Drive,modules/game_store/store.otmod,game_store,@onUnload,terminate(),9
+Drive,modules/game_task/task_module.otmod,game_task,name,game_task,2
+Drive,modules/game_task/task_module.otmod,game_task,sandboxed,true,5
+Drive,modules/game_task/task_module.otmod,game_task,scripts,[task_module],6
+Drive,modules/game_task/task_module.otmod,game_task,autoload,true,7
+Drive,modules/game_task/task_module.otmod,game_task,autoload-priority,1001,8
+Drive,modules/game_task/task_module.otmod,game_task,@onLoad,init(),9
+Drive,modules/game_task/task_module.otmod,game_task,@onUnload,terminate(),10
+Drive,modules/game_task_tracker/task.otmod,game_task_tracker,name,game_task_tracker,2
+Drive,modules/game_task_tracker/task.otmod,game_task_tracker,sandboxed,true,5
+Drive,modules/game_task_tracker/task.otmod,game_task_tracker,autoload,true,6
+Drive,modules/game_task_tracker/task.otmod,game_task_tracker,scripts,[ task ],7
+Drive,modules/game_task_tracker/task.otmod,game_task_tracker,@onLoad,init(),8
+Drive,modules/game_task_tracker/task.otmod,game_task_tracker,@onUnload,terminate(),9
+Drive,modules/game_textmessage/textmessage.otmod,game_textmessage,name,game_textmessage,2
+Drive,modules/game_textmessage/textmessage.otmod,game_textmessage,sandboxed,true,6
+Drive,modules/game_textmessage/textmessage.otmod,game_textmessage,scripts,"[ items, textmessage ]",7
+Drive,modules/game_textmessage/textmessage.otmod,game_textmessage,@onLoad,init(),8
+Drive,modules/game_textmessage/textmessage.otmod,game_textmessage,@onUnload,terminate(),9
+Drive,modules/game_textwindow/textwindow.otmod,game_textwindow,name,game_textwindow,2
+Drive,modules/game_textwindow/textwindow.otmod,game_textwindow,sandboxed,true,6
+Drive,modules/game_textwindow/textwindow.otmod,game_textwindow,dependencies,[ game_interface ],7
+Drive,modules/game_textwindow/textwindow.otmod,game_textwindow,scripts,[ textwindow ],8
+Drive,modules/game_textwindow/textwindow.otmod,game_textwindow,@onLoad,init(),9
+Drive,modules/game_textwindow/textwindow.otmod,game_textwindow,@onUnload,terminate(),10
+Drive,modules/game_thinganim/thinganim.otmod,game_thinganim,name,game_thinganim,2
+Drive,modules/game_thinganim/thinganim.otmod,game_thinganim,sandboxed,true,5
+Drive,modules/game_thinganim/thinganim.otmod,game_thinganim,autoload,false,6
+Drive,modules/game_thinganim/thinganim.otmod,game_thinganim,dependencies,[ gamelib ],7
+Drive,modules/game_thinganim/thinganim.otmod,game_thinganim,scripts,"[ durations, thinganim ]",8
+Drive,modules/game_thinganim/thinganim.otmod,game_thinganim,@onLoad,init(),9
+Drive,modules/game_thinganim/thinganim.otmod,game_thinganim,@onUnload,terminate(),10
+Drive,modules/game_things/things.otmod,game_things,name,game_things,2
+Drive,modules/game_things/things.otmod,game_things,sandboxed,true,5
+Drive,modules/game_things/things.otmod,game_things,scripts,[things],6
+Drive,modules/game_title/title.otmod,game_title,name,game_title,2
+Drive,modules/game_title/title.otmod,game_title,scripts,[ title ],6
+Drive,modules/game_title/title.otmod,game_title,sandboxed,true,7
+Drive,modules/game_title/title.otmod,game_title,@onLoad,init(),8
+Drive,modules/game_title/title.otmod,game_title,@onUnload,terminate(),9
+Drive,modules/game_tokenshop/tokenshop.otmod,game_tokenshop,name,game_tokenshop,2
+Drive,modules/game_tokenshop/tokenshop.otmod,game_tokenshop,scripts,[ tokenshop ],6
+Drive,modules/game_tokenshop/tokenshop.otmod,game_tokenshop,sandboxed,true,7
+Drive,modules/game_tokenshop/tokenshop.otmod,game_tokenshop,autoload,true,8
+Drive,modules/game_tokenshop/tokenshop.otmod,game_tokenshop,@onLoad,init(),9
+Drive,modules/game_tokenshop/tokenshop.otmod,game_tokenshop,@onUnload,terminate(),10
+Drive,modules/game_tooltips/item_tooltip.otmod,game_itemtooltip,name,game_itemtooltip,2
+Drive,modules/game_tooltips/item_tooltip.otmod,game_itemtooltip,sandboxed,true,6
+Drive,modules/game_tooltips/item_tooltip.otmod,game_itemtooltip,autoload,true,7
+Drive,modules/game_tooltips/item_tooltip.otmod,game_itemtooltip,scripts,[ item_tooltip ],8
+Drive,modules/game_tooltips/item_tooltip.otmod,game_itemtooltip,@onLoad,init(),9
+Drive,modules/game_tooltips/item_tooltip.otmod,game_itemtooltip,@onUnload,terminate(),10
+Drive,modules/game_topbar/topbar.otmod,game_topbar,name,game_topbar,2
+Drive,modules/game_topbar/topbar.otmod,game_topbar,sandboxed,true,6
+Drive,modules/game_topbar/topbar.otmod,game_topbar,autoload,true,7
+Drive,modules/game_topbar/topbar.otmod,game_topbar,scripts,[ topbar ],8
+Drive,modules/game_topbar/topbar.otmod,game_topbar,@onLoad,init(),9
+Drive,modules/game_topbar/topbar.otmod,game_topbar,@onUnload,terminate(),10
+Drive,modules/game_unjustifiedpoints/unjustifiedpoints.otmod,game_unjustifiedpoints,name,game_unjustifiedpoints,2
+Drive,modules/game_unjustifiedpoints/unjustifiedpoints.otmod,game_unjustifiedpoints,sandboxed,true,5
+Drive,modules/game_unjustifiedpoints/unjustifiedpoints.otmod,game_unjustifiedpoints,scripts,[ unjustifiedpoints ],6
+Drive,modules/game_unjustifiedpoints/unjustifiedpoints.otmod,game_unjustifiedpoints,@onLoad,init(),7
+Drive,modules/game_unjustifiedpoints/unjustifiedpoints.otmod,game_unjustifiedpoints,@onUnload,terminate(),8
+Drive,modules/game_viplist/viplist.otmod,game_viplist,name,game_viplist,2
+Drive,modules/game_viplist/viplist.otmod,game_viplist,sandboxed,true,6
+Drive,modules/game_viplist/viplist.otmod,game_viplist,scripts,[ viplist ],7
+Drive,modules/game_viplist/viplist.otmod,game_viplist,@onLoad,init(),8
+Drive,modules/game_viplist/viplist.otmod,game_viplist,@onUnload,terminate(),9
+Drive,modules/game_walking/walking.otmod,game_walking,name,game_walking,2
+Drive,modules/game_walking/walking.otmod,game_walking,scripts,[ walking ],6
+Drive,modules/game_walking/walking.otmod,game_walking,dependencies,[ game_interface ],7
+Drive,modules/game_walking/walking.otmod,game_walking,@onLoad,init(),8
+Drive,modules/game_walking/walking.otmod,game_walking,@onUnload,terminate(),9
+Drive,modules/game_waypoint/waypoint_module.otmod,game_waypoint,name,game_waypoint,2
+Drive,modules/game_waypoint/waypoint_module.otmod,game_waypoint,sandboxed,true,5
+Drive,modules/game_waypoint/waypoint_module.otmod,game_waypoint,scripts,[waypoint_module],6
+Drive,modules/game_waypoint/waypoint_module.otmod,game_waypoint,autoload,true,7
+Drive,modules/game_waypoint/waypoint_module.otmod,game_waypoint,autoload-priority,1001,8
+Drive,modules/game_waypoint/waypoint_module.otmod,game_waypoint,@onLoad,init(),9
+Drive,modules/game_waypoint/waypoint_module.otmod,game_waypoint,@onUnload,terminate(),10
+Drive,modules/game_wings/game_wings.otmod,game_wings,name,game_wings,2
+Drive,modules/game_wings/game_wings.otmod,game_wings,autoload,true,6
+Drive,modules/game_wings/game_wings.otmod,game_wings,sandboxed,true,8
+Drive,modules/game_wings/game_wings.otmod,game_wings,scripts,[ game_wings ],10
+Drive,modules/game_wings/game_wings.otmod,game_wings,@onLoad,init(),11
+Drive,modules/game_wings/game_wings.otmod,game_wings,@onUnload,terminate(),12
+Drive,modules/gamelib/gamelib.otmod,gamelib,name,gamelib,2
+Drive,modules/gamelib/gamelib.otmod,gamelib,@onLoad,|,7
+Drive,modules/updater/updater.otmod,updater,name,updater,2
+Drive,modules/updater/updater.otmod,updater,scripts,[ updater ],7
+Drive,modules/updater/updater.otmod,updater,dependencies,"[ client_locales, client_styles, client_textedit ]",8
+Drive,modules/updater/updater.otmod,updater,@onUnload,Updater.terminate(),9
+Drive,modules/updater/updater.otmod,updater,load-later,- client_background,11
+Activo,modules/client/client.otmod,client,name,client,2
+Activo,modules/client/client.otmod,client,sandboxed,true,7
+Activo,modules/client/client.otmod,client,scripts,[ client ],8
+Activo,modules/client/client.otmod,client,@onLoad,init(),9
+Activo,modules/client/client.otmod,client,@onUnload,terminate(),10
+Activo,modules/client/client.otmod,client,load-later,- client_styles - client_locales - client_topmenu - client_background - client_textedit - client_options - client_entergame - client_terminal - client_stats - client_feedback - client_mobile,12
+Activo,modules/client_background/background.otmod,client_background,name,client_background,2
+Activo,modules/client_background/background.otmod,client_background,sandboxed,true,6
+Activo,modules/client_background/background.otmod,client_background,scripts,[ background ],7
+Activo,modules/client_background/background.otmod,client_background,@onLoad,init(),8
+Activo,modules/client_background/background.otmod,client_background,@onUnload,terminate(),9
+Activo,modules/client_entergame/entergame.otmod,client_entergame,name,client_entergame,2
+Activo,modules/client_entergame/entergame.otmod,client_entergame,scripts,"[ entergame, characterlist ]",6
+Activo,modules/client_entergame/entergame.otmod,client_entergame,@onLoad,EnterGame.init() CharacterList.init(),7
+Activo,modules/client_entergame/entergame.otmod,client_entergame,@onUnload,EnterGame.terminate() CharacterList.terminate(),8
+Activo,modules/client_entergame/entergame.otmod,client_entergame,load-later,- game_things - game_features,10
+Activo,modules/client_feedback/feedback.otmod,client_feedback,name,client_feedback,2
+Activo,modules/client_feedback/feedback.otmod,client_feedback,sandboxed,true,6
+Activo,modules/client_feedback/feedback.otmod,client_feedback,dependencies,[ game_interface ],7
+Activo,modules/client_feedback/feedback.otmod,client_feedback,scripts,[ feedback ],8
+Activo,modules/client_feedback/feedback.otmod,client_feedback,@onLoad,init(),9
+Activo,modules/client_feedback/feedback.otmod,client_feedback,@onUnload,terminate(),10
+Activo,modules/client_locales/locales.otmod,client_locales,name,client_locales,2
+Activo,modules/client_locales/locales.otmod,client_locales,sandboxed,true,6
+Activo,modules/client_locales/locales.otmod,client_locales,scripts,[ locales ],7
+Activo,modules/client_locales/locales.otmod,client_locales,@onLoad,init(),8
+Activo,modules/client_locales/locales.otmod,client_locales,@onUnload,terminate(),9
+Activo,modules/client_mobile/mobile.otmod,client_mobile,name,client_mobile,2
+Activo,modules/client_mobile/mobile.otmod,client_mobile,sandboxed,true,6
+Activo,modules/client_mobile/mobile.otmod,client_mobile,scripts,[ mobile ],7
+Activo,modules/client_mobile/mobile.otmod,client_mobile,@onLoad,init(),8
+Activo,modules/client_mobile/mobile.otmod,client_mobile,@onUnload,terminate(),9
+Activo,modules/client_options/options.otmod,client_options,name,client_options,2
+Activo,modules/client_options/options.otmod,client_options,sandboxed,true,6
+Activo,modules/client_options/options.otmod,client_options,scripts,"[ options, datafolder ]",7
+Activo,modules/client_options/options.otmod,client_options,@onLoad,init(),8
+Activo,modules/client_options/options.otmod,client_options,@onUnload,terminate(),9
+Activo,modules/client_profiles/profiles.otmod,client_profiles,name,client_profiles,2
+Activo,modules/client_profiles/profiles.otmod,client_profiles,autoload,true,6
+Activo,modules/client_profiles/profiles.otmod,client_profiles,scripts,[ profiles ],8
+Activo,modules/client_profiles/profiles.otmod,client_profiles,sandboxed,true,9
+Activo,modules/client_profiles/profiles.otmod,client_profiles,@onLoad,init(),10
+Activo,modules/client_profiles/profiles.otmod,client_profiles,@onUnload,terminate(),11
+Activo,modules/client_stats/stats.otmod,client_stats,name,client_stats,2
+Activo,modules/client_stats/stats.otmod,client_stats,sandboxed,true,5
+Activo,modules/client_stats/stats.otmod,client_stats,scripts,[ stats ],6
+Activo,modules/client_stats/stats.otmod,client_stats,dependencies,[ client_topmenu ],7
+Activo,modules/client_stats/stats.otmod,client_stats,@onLoad,init(),8
+Activo,modules/client_stats/stats.otmod,client_stats,@onUnload,terminate(),9
+Activo,modules/client_styles/styles.otmod,client_styles,name,client_styles,2
+Activo,modules/client_styles/styles.otmod,client_styles,scripts,[ styles ],6
+Activo,modules/client_styles/styles.otmod,client_styles,sandboxed,true,7
+Activo,modules/client_styles/styles.otmod,client_styles,@onLoad,init(),8
+Activo,modules/client_styles/styles.otmod,client_styles,@onUnload,terminate(),9
+Activo,modules/client_terminal/terminal.otmod,client_terminal,name,client_terminal,2
+Activo,modules/client_terminal/terminal.otmod,client_terminal,scripts,[ terminal ],6
+Activo,modules/client_terminal/terminal.otmod,client_terminal,sandboxed,true,7
+Activo,modules/client_terminal/terminal.otmod,client_terminal,@onLoad,init(),9
+Activo,modules/client_terminal/terminal.otmod,client_terminal,@onUnload,terminate(),10
+Activo,modules/client_textedit/textedit.otmod,client_textedit,name,client_textedit,2
+Activo,modules/client_textedit/textedit.otmod,client_textedit,sandboxed,true,6
+Activo,modules/client_textedit/textedit.otmod,client_textedit,scripts,[ textedit ],7
+Activo,modules/client_textedit/textedit.otmod,client_textedit,@onLoad,init(),8
+Activo,modules/client_textedit/textedit.otmod,client_textedit,@onUnload,terminate(),9
+Activo,modules/client_topmenu/topmenu.otmod,client_topmenu,name,client_topmenu,2
+Activo,modules/client_topmenu/topmenu.otmod,client_topmenu,scripts,[ topmenu ],6
+Activo,modules/client_topmenu/topmenu.otmod,client_topmenu,sandboxed,true,7
+Activo,modules/client_topmenu/topmenu.otmod,client_topmenu,@onLoad,init(),8
+Activo,modules/client_topmenu/topmenu.otmod,client_topmenu,@onUnload,terminate(),9
+Activo,modules/corelib/corelib.otmod,corelib,name,corelib,2
+Activo,modules/corelib/corelib.otmod,corelib,@onLoad,|,8
+Activo,modules/crash_reporter/crash_reporter.otmod,crash_reporter,name,crash_reporter,2
+Activo,modules/crash_reporter/crash_reporter.otmod,crash_reporter,scripts,[ crash_reporter ],7
+Activo,modules/crash_reporter/crash_reporter.otmod,crash_reporter,@onLoad,init(),8
+Activo,modules/game_actionbar/actionbar.otmod,game_actionbar,name,game_actionbar,2
+Activo,modules/game_actionbar/actionbar.otmod,game_actionbar,sandboxed,true,4
+Activo,modules/game_actionbar/actionbar.otmod,game_actionbar,@onLoad,init(),5
+Activo,modules/game_actionbar/actionbar.otmod,game_actionbar,@onUnload,terminate(),6
+Activo,modules/game_actionbar/actionbar.otmod,game_actionbar,scripts,[ actionbar ],7
+Activo,modules/game_afkcheck/afkcheck.otmod,game_afkcheck,name,game_afkcheck,2
+Activo,modules/game_afkcheck/afkcheck.otmod,game_afkcheck,scripts,[ afkcheck ],6
+Activo,modules/game_afkcheck/afkcheck.otmod,game_afkcheck,sandboxed,true,7
+Activo,modules/game_afkcheck/afkcheck.otmod,game_afkcheck,autoload,true,8
+Activo,modules/game_afkcheck/afkcheck.otmod,game_afkcheck,@onLoad,init(),9
+Activo,modules/game_afkcheck/afkcheck.otmod,game_afkcheck,@onUnload,terminate(),10
+Activo,modules/game_attrpoints/attrpoints.otmod,game_attrpoints,name,game_attrpoints,2
+Activo,modules/game_attrpoints/attrpoints.otmod,game_attrpoints,sandboxed,true,5
+Activo,modules/game_attrpoints/attrpoints.otmod,game_attrpoints,scripts,[attrpoints],6
+Activo,modules/game_attrpoints/attrpoints.otmod,game_attrpoints,autoload,true,7
+Activo,modules/game_attrpoints/attrpoints.otmod,game_attrpoints,@onLoad,init(),8
+Activo,modules/game_attrpoints/attrpoints.otmod,game_attrpoints,@onUnload,terminate(),9
+Activo,modules/game_autoloot/autoloot_module.otmod,game_autoloot,name,game_autoloot,2
+Activo,modules/game_autoloot/autoloot_module.otmod,game_autoloot,sandboxed,true,5
+Activo,modules/game_autoloot/autoloot_module.otmod,game_autoloot,scripts,[autoloot_module],6
+Activo,modules/game_autoloot/autoloot_module.otmod,game_autoloot,autoload,true,7
+Activo,modules/game_autoloot/autoloot_module.otmod,game_autoloot,autoload-priority,1001,8
+Activo,modules/game_autoloot/autoloot_module.otmod,game_autoloot,@onLoad,init(),9
+Activo,modules/game_autoloot/autoloot_module.otmod,game_autoloot,@onUnload,terminate(),10
+Activo,modules/game_bank/bank.otmod,game_bank,name,game_bank,2
+Activo,modules/game_bank/bank.otmod,game_bank,sandboxed,true,5
+Activo,modules/game_bank/bank.otmod,game_bank,scripts,[bank],6
+Activo,modules/game_bank/bank.otmod,game_bank,autoload,true,7
+Activo,modules/game_bank/bank.otmod,game_bank,@onLoad,init(),8
+Activo,modules/game_bank/bank.otmod,game_bank,@onUnload,terminate(),9
+Activo,modules/game_battle/battle.otmod,game_battle,name,game_battle,2
+Activo,modules/game_battle/battle.otmod,game_battle,sandboxed,true,6
+Activo,modules/game_battle/battle.otmod,game_battle,scripts,[ battle ],7
+Activo,modules/game_battle/battle.otmod,game_battle,@onLoad,init(),8
+Activo,modules/game_battle/battle.otmod,game_battle,@onUnload,terminate(),9
+Activo,modules/game_bossbar/bossbar.otmod,game_bossbar,name,game_bossbar,2
+Activo,modules/game_bossbar/bossbar.otmod,game_bossbar,sandboxed,true,6
+Activo,modules/game_bossbar/bossbar.otmod,game_bossbar,autoload,true,7
+Activo,modules/game_bossbar/bossbar.otmod,game_bossbar,scripts,[ bossbar ],8
+Activo,modules/game_bossbar/bossbar.otmod,game_bossbar,@onLoad,init(),9
+Activo,modules/game_bossbar/bossbar.otmod,game_bossbar,@onUnload,terminate(),10
+Activo,modules/game_bosscheck/bosscheck.otmod,game_bosscheck,name,game_bosscheck,2
+Activo,modules/game_bosscheck/bosscheck.otmod,game_bosscheck,sandboxed,true,5
+Activo,modules/game_bosscheck/bosscheck.otmod,game_bosscheck,scripts,[bosscheck],6
+Activo,modules/game_bosscheck/bosscheck.otmod,game_bosscheck,autoload,true,7
+Activo,modules/game_bosscheck/bosscheck.otmod,game_bosscheck,@onLoad,init(),8
+Activo,modules/game_bosscheck/bosscheck.otmod,game_bosscheck,@onUnload,terminate(),9
+Activo,modules/game_bot/bot.otmod,game_bot,name,game_bot,2
+Activo,modules/game_bot/bot.otmod,game_bot,sandboxed,true,5
+Activo,modules/game_bot/bot.otmod,game_bot,scripts,[ bot ],6
+Activo,modules/game_bot/bot.otmod,game_bot,@onLoad,init(),7
+Activo,modules/game_bot/bot.otmod,game_bot,@onUnload,terminate(),8
+Activo,modules/game_bugreport/bugreport.otmod,game_bugreport,name,game_bugreport,2
+Activo,modules/game_bugreport/bugreport.otmod,game_bugreport,scripts,[ bugreport ],6
+Activo,modules/game_bugreport/bugreport.otmod,game_bugreport,sandboxed,true,7
+Activo,modules/game_bugreport/bugreport.otmod,game_bugreport,@onLoad,init(),8
+Activo,modules/game_bugreport/bugreport.otmod,game_bugreport,@onUnload,terminate(),9
+Activo,modules/game_buttons/buttons.otmod,game_buttons,name,game_buttons,2
+Activo,modules/game_buttons/buttons.otmod,game_buttons,sandboxed,true,5
+Activo,modules/game_buttons/buttons.otmod,game_buttons,scripts,[ buttons ],6
+Activo,modules/game_buttons/buttons.otmod,game_buttons,@onLoad,init(),7
+Activo,modules/game_buttons/buttons.otmod,game_buttons,@onUnload,terminate(),8
+Activo,modules/game_console/console.otmod,game_console,name,game_console,2
+Activo,modules/game_console/console.otmod,game_console,sandboxed,true,6
+Activo,modules/game_console/console.otmod,game_console,scripts,[ console ],7
+Activo,modules/game_console/console.otmod,game_console,@onLoad,init(),8
+Activo,modules/game_console/console.otmod,game_console,@onUnload,terminate(),9
+Activo,modules/game_containers/containers.otmod,game_containers,name,game_containers,2
+Activo,modules/game_containers/containers.otmod,game_containers,sandboxed,true,6
+Activo,modules/game_containers/containers.otmod,game_containers,scripts,[containers],7
+Activo,modules/game_containers/containers.otmod,game_containers,@onLoad,init(),8
+Activo,modules/game_containers/containers.otmod,game_containers,@onUnload,terminate(),9
+Activo,modules/game_cooldown/cooldown.otmod,game_cooldown,name,game_cooldown,2
+Activo,modules/game_cooldown/cooldown.otmod,game_cooldown,sandboxed,true,6
+Activo,modules/game_cooldown/cooldown.otmod,game_cooldown,scripts,[ cooldown ],7
+Activo,modules/game_cooldown/cooldown.otmod,game_cooldown,@onLoad,init(),8
+Activo,modules/game_cooldown/cooldown.otmod,game_cooldown,@onUnload,terminate(),9
+Activo,modules/game_crafting/crafting.otmod,game_crafting,name,game_crafting,2
+Activo,modules/game_crafting/crafting.otmod,game_crafting,sandboxed,true,6
+Activo,modules/game_crafting/crafting.otmod,game_crafting,autoload,true,7
+Activo,modules/game_crafting/crafting.otmod,game_crafting,scripts,[ crafting ],8
+Activo,modules/game_crafting/crafting.otmod,game_crafting,@onLoad,init(),9
+Activo,modules/game_crafting/crafting.otmod,game_crafting,@onUnload,terminate(),10
+Activo,modules/game_dungeon/dungeon_module.otmod,game_dungeon,name,game_dungeon,2
+Activo,modules/game_dungeon/dungeon_module.otmod,game_dungeon,sandboxed,true,5
+Activo,modules/game_dungeon/dungeon_module.otmod,game_dungeon,scripts,"[config, dungeon_module]",6
+Activo,modules/game_dungeon/dungeon_module.otmod,game_dungeon,autoload,true,7
+Activo,modules/game_dungeon/dungeon_module.otmod,game_dungeon,autoload-priority,1001,8
+Activo,modules/game_dungeon/dungeon_module.otmod,game_dungeon,@onLoad,init(),9
+Activo,modules/game_dungeon/dungeon_module.otmod,game_dungeon,@onUnload,terminate(),10
+Activo,modules/game_exph/exph.otmod,game_exph,name,game_exph,2
+Activo,modules/game_exph/exph.otmod,game_exph,sandboxed,true,6
+Activo,modules/game_exph/exph.otmod,game_exph,scripts,[ exph ],7
+Activo,modules/game_exph/exph.otmod,game_exph,@onLoad,init(),8
+Activo,modules/game_exph/exph.otmod,game_exph,@onUnload,terminate(),9
+Activo,modules/game_exph/exph.otmod,game_exph,autoload,false,10
+Activo,modules/game_exph/exph.otmod,game_exph,dependencies,- game_interface,11
+Activo,modules/game_features/features.otmod,game_features,name,game_features,2
+Activo,modules/game_features/features.otmod,game_features,sandboxed,true,5
+Activo,modules/game_features/features.otmod,game_features,scripts,[features],6
+Activo,modules/game_features/features.otmod,game_features,@onLoad,init(),7
+Activo,modules/game_features/features.otmod,game_features,@onUnload,terminate(),8
+Activo,modules/game_healthbars/healthbars.otmod,game_healthbars,name,game_healthbars,2
+Activo,modules/game_healthbars/healthbars.otmod,game_healthbars,scripts,[ healthbars ],6
+Activo,modules/game_healthbars/healthbars.otmod,game_healthbars,autoload,false,7
+Activo,modules/game_healthbars/healthbars.otmod,game_healthbars,sandboxed,true,8
+Activo,modules/game_healthbars/healthbars.otmod,game_healthbars,@onLoad,init(),9
+Activo,modules/game_healthbars/healthbars.otmod,game_healthbars,@onUnload,terminate(),10
+Activo,modules/game_healthinfo/healthinfo.otmod,game_healthinfo,name,game_healthinfo,2
+Activo,modules/game_healthinfo/healthinfo.otmod,game_healthinfo,sandboxed,true,6
+Activo,modules/game_healthinfo/healthinfo.otmod,game_healthinfo,scripts,[ healthinfo ],7
+Activo,modules/game_healthinfo/healthinfo.otmod,game_healthinfo,@onLoad,init(),8
+Activo,modules/game_healthinfo/healthinfo.otmod,game_healthinfo,@onUnload,terminate(),9
+Activo,modules/game_hotkeys/hotkeys_manager.otmod,game_hotkeys,name,game_hotkeys,2
+Activo,modules/game_hotkeys/hotkeys_manager.otmod,game_hotkeys,sandboxed,true,6
+Activo,modules/game_hotkeys/hotkeys_manager.otmod,game_hotkeys,scripts,"[ hotkeys_extra, hotkeys_manager ]",7
+Activo,modules/game_hotkeys/hotkeys_manager.otmod,game_hotkeys,@onLoad,init(),8
+Activo,modules/game_hotkeys/hotkeys_manager.otmod,game_hotkeys,@onUnload,terminate(),9
+Activo,modules/game_hunt_analyzer/hunt_analyzer.otmod,game_hunt_analyzer,name,game_hunt_analyzer,2
+Activo,modules/game_hunt_analyzer/hunt_analyzer.otmod,game_hunt_analyzer,sandboxed,true,5
+Activo,modules/game_hunt_analyzer/hunt_analyzer.otmod,game_hunt_analyzer,scripts,[ hunt_analyzer ],6
+Activo,modules/game_hunt_analyzer/hunt_analyzer.otmod,game_hunt_analyzer,@onLoad,init(),7
+Activo,modules/game_hunt_analyzer/hunt_analyzer.otmod,game_hunt_analyzer,@onUnload,terminate(),8
+Activo,modules/game_hunt_analyzer/hunt_analyzer.otmod,game_hunt_analyzer,autoload,true,9
+Activo,modules/game_hunt_analyzer/hunt_analyzer.otmod,game_hunt_analyzer,dependencies,- game_interface - gamelib,10
+Activo,modules/game_icon/icon.otmod,game_icon,name,game_icon,2
+Activo,modules/game_icon/icon.otmod,game_icon,sandboxed,true,6
+Activo,modules/game_icon/icon.otmod,game_icon,autoload,true,7
+Activo,modules/game_icon/icon.otmod,game_icon,scripts,[ icon ],8
+Activo,modules/game_icon/icon.otmod,game_icon,@onLoad,init(),9
+Activo,modules/game_icon/icon.otmod,game_icon,@onUnload,terminate(),10
+Activo,modules/game_imbuing/imbuing.otmod,game_imbuing,name,game_imbuing,2
+Activo,modules/game_imbuing/imbuing.otmod,game_imbuing,sandboxed,true,6
+Activo,modules/game_imbuing/imbuing.otmod,game_imbuing,scripts,[ imbuing ],7
+Activo,modules/game_imbuing/imbuing.otmod,game_imbuing,@onLoad,init(),8
+Activo,modules/game_imbuing/imbuing.otmod,game_imbuing,@onUnload,terminate(),9
+Activo,modules/game_inspect/inspect.otmod,game_inspect,name,game_inspect,2
+Activo,modules/game_inspect/inspect.otmod,game_inspect,sandboxed,true,6
+Activo,modules/game_inspect/inspect.otmod,game_inspect,autoload,true,7
+Activo,modules/game_inspect/inspect.otmod,game_inspect,scripts,[ inspect ],8
+Activo,modules/game_inspect/inspect.otmod,game_inspect,@onLoad,init(),9
+Activo,modules/game_inspect/inspect.otmod,game_inspect,@onUnload,terminate(),10
+Activo,modules/game_interface/interface.otmod,game_interface,name,game_interface,2
+Activo,modules/game_interface/interface.otmod,game_interface,sandboxed,true,6
+Activo,modules/game_interface/interface.otmod,game_interface,scripts,"[ widgets/uigamemap, gameinterface ]",7
+Activo,modules/game_interface/interface.otmod,game_interface,load-later,- game_buttons - game_hotkeys - game_questlog - game_textmessage - game_console - game_outfit - game_healthinfo - game_skills - game_inventory - game_containers - game_viplist - game_battle - game_minimap - game_npctrade - game_textwindow - game_playertrade - game_bugreport - game_playerdeath - game_playermount - game_ruleviolation - game_market - game_cooldown - game_modaldialog - game_unjustifiedpoints - game_walking - game_itemselector - client_textedit - client_profiles - game_actionbar - game_prey - game_task_tracker - game_imbuing - game_stats - game_stats_exploot - game_shaders - game_title - game_bot - game_shop - game_tokenshop - game_store - game_bank - game_messages - game_dungeon - game_autoloot - game_inspect - game_attrpoints - game_bosscheck - game_afkcheck - game_hunt_analyzer - game_task - game_crafting - game_icon - game_mission - game_playersettings,8
+Activo,modules/game_interface/interface.otmod,game_interface,@onLoad,init(),63
+Activo,modules/game_interface/interface.otmod,game_interface,@onUnload,terminate(),64
+Activo,modules/game_inventory/inventory.otmod,game_inventory,name,game_inventory,2
+Activo,modules/game_inventory/inventory.otmod,game_inventory,sandboxed,true,6
+Activo,modules/game_inventory/inventory.otmod,game_inventory,scripts,[ inventory ],7
+Activo,modules/game_inventory/inventory.otmod,game_inventory,@onLoad,init(),8
+Activo,modules/game_inventory/inventory.otmod,game_inventory,@onUnload,terminate(),9
+Activo,modules/game_itemselector/itemselector.otmod,game_itemselector,name,game_itemselector,2
+Activo,modules/game_itemselector/itemselector.otmod,game_itemselector,sandboxed,true,6
+Activo,modules/game_itemselector/itemselector.otmod,game_itemselector,dependencies,[ game_interface ],7
+Activo,modules/game_itemselector/itemselector.otmod,game_itemselector,scripts,[ itemselector ],8
+Activo,modules/game_itemselector/itemselector.otmod,game_itemselector,@onLoad,init(),9
+Activo,modules/game_itemselector/itemselector.otmod,game_itemselector,@onUnload,terminate(),10
+Activo,modules/game_market/market.otmod,game_market,name,game_market,2
+Activo,modules/game_market/market.otmod,game_market,sandboxed,true,6
+Activo,modules/game_market/market.otmod,game_market,scripts,"[ offerstatistic, marketoffer, marketprotocol, market ]",7
+Activo,modules/game_market/market.otmod,game_market,@onLoad,init(),8
+Activo,modules/game_market/market.otmod,game_market,@onUnload,terminate(),9
+Activo,modules/game_marketadd/marketadd.otmod,game_mark,name,game_mark,2
+Activo,modules/game_marketadd/marketadd.otmod,game_mark,sandboxed,true,5
+Activo,modules/game_marketadd/marketadd.otmod,game_mark,scripts,[marketadd],6
+Activo,modules/game_marketadd/marketadd.otmod,game_mark,autoload,true,7
+Activo,modules/game_marketadd/marketadd.otmod,game_mark,@onLoad,init(),8
+Activo,modules/game_marketadd/marketadd.otmod,game_mark,@onUnload,terminate(),9
+Activo,modules/game_messages/messages.otmod,game_messages,name,game_messages,2
+Activo,modules/game_messages/messages.otmod,game_messages,sandboxed,true,5
+Activo,modules/game_messages/messages.otmod,game_messages,scripts,[ messages ],6
+Activo,modules/game_messages/messages.otmod,game_messages,autoload,true,7
+Activo,modules/game_messages/messages.otmod,game_messages,@onLoad,init(),8
+Activo,modules/game_messages/messages.otmod,game_messages,@onUnload,terminate(),9
+Activo,modules/game_minimap/minimap.otmod,game_minimap,name,game_minimap,2
+Activo,modules/game_minimap/minimap.otmod,game_minimap,sandboxed,true,6
+Activo,modules/game_minimap/minimap.otmod,game_minimap,scripts,[ minimap ],7
+Activo,modules/game_minimap/minimap.otmod,game_minimap,@onLoad,init(),8
+Activo,modules/game_minimap/minimap.otmod,game_minimap,@onUnload,terminate(),9
+Activo,modules/game_mission/mission_module.otmod,game_mission,name,game_mission,2
+Activo,modules/game_mission/mission_module.otmod,game_mission,sandboxed,true,5
+Activo,modules/game_mission/mission_module.otmod,game_mission,scripts,[mission_module],6
+Activo,modules/game_mission/mission_module.otmod,game_mission,autoload,true,7
+Activo,modules/game_mission/mission_module.otmod,game_mission,autoload-priority,1001,8
+Activo,modules/game_mission/mission_module.otmod,game_mission,@onLoad,init(),9
+Activo,modules/game_mission/mission_module.otmod,game_mission,@onUnload,terminate(),10
+Activo,modules/game_modaldialog/modaldialog.otmod,game_modaldialog,name,game_modaldialog,2
+Activo,modules/game_modaldialog/modaldialog.otmod,game_modaldialog,sandboxed,true,6
+Activo,modules/game_modaldialog/modaldialog.otmod,game_modaldialog,dependencies,[ game_interface ],7
+Activo,modules/game_modaldialog/modaldialog.otmod,game_modaldialog,scripts,[ modaldialog ],8
+Activo,modules/game_modaldialog/modaldialog.otmod,game_modaldialog,@onLoad,init(),9
+Activo,modules/game_modaldialog/modaldialog.otmod,game_modaldialog,@onUnload,terminate(),10
+Activo,modules/game_npctrade/npctrade.otmod,game_npctrade,name,game_npctrade,2
+Activo,modules/game_npctrade/npctrade.otmod,game_npctrade,sandboxed,true,6
+Activo,modules/game_npctrade/npctrade.otmod,game_npctrade,scripts,[ npctrade ],7
+Activo,modules/game_npctrade/npctrade.otmod,game_npctrade,@onLoad,init(),8
+Activo,modules/game_npctrade/npctrade.otmod,game_npctrade,@onUnload,terminate(),9
+Activo,modules/game_outfit/outfit.otmod,game_outfit,name,game_outfit,2
+Activo,modules/game_outfit/outfit.otmod,game_outfit,sandboxed,true,6
+Activo,modules/game_outfit/outfit.otmod,game_outfit,dependencies,[ game_thinganim ],7
+Activo,modules/game_outfit/outfit.otmod,game_outfit,scripts,[ outfit ],8
+Activo,modules/game_outfit/outfit.otmod,game_outfit,@onLoad,init(),9
+Activo,modules/game_outfit/outfit.otmod,game_outfit,@onUnload,terminate(),10
+Activo,modules/game_playerdeath/playerdeath.otmod,game_playerdeath,name,game_playerdeath,2
+Activo,modules/game_playerdeath/playerdeath.otmod,game_playerdeath,sandboxed,true,6
+Activo,modules/game_playerdeath/playerdeath.otmod,game_playerdeath,scripts,[ playerdeath ],7
+Activo,modules/game_playerdeath/playerdeath.otmod,game_playerdeath,@onLoad,init(),8
+Activo,modules/game_playerdeath/playerdeath.otmod,game_playerdeath,@onUnload,terminate(),9
+Activo,modules/game_playermount/playermount.otmod,game_playermount,name,game_playermount,2
+Activo,modules/game_playermount/playermount.otmod,game_playermount,sandboxed,true,6
+Activo,modules/game_playermount/playermount.otmod,game_playermount,scripts,[ playermount ],7
+Activo,modules/game_playermount/playermount.otmod,game_playermount,@onLoad,init(),8
+Activo,modules/game_playermount/playermount.otmod,game_playermount,@onUnload,terminate(),9
+Activo,modules/game_playersettings/playersettings.otmod,game_playersettings,name,game_playersettings,2
+Activo,modules/game_playersettings/playersettings.otmod,game_playersettings,sandboxed,true,5
+Activo,modules/game_playersettings/playersettings.otmod,game_playersettings,scripts,[playersettings],6
+Activo,modules/game_playersettings/playersettings.otmod,game_playersettings,autoload,true,7
+Activo,modules/game_playersettings/playersettings.otmod,game_playersettings,autoload-priority,1004,8
+Activo,modules/game_playersettings/playersettings.otmod,game_playersettings,@onLoad,init(),9
+Activo,modules/game_playersettings/playersettings.otmod,game_playersettings,@onUnload,terminate(),10
+Activo,modules/game_playertrade/playertrade.otmod,game_playertrade,name,game_playertrade,2
+Activo,modules/game_playertrade/playertrade.otmod,game_playertrade,sandboxed,true,6
+Activo,modules/game_playertrade/playertrade.otmod,game_playertrade,scripts,[ playertrade ],7
+Activo,modules/game_playertrade/playertrade.otmod,game_playertrade,@onLoad,init(),8
+Activo,modules/game_playertrade/playertrade.otmod,game_playertrade,@onUnload,terminate(),9
+Activo,modules/game_prey/prey.otmod,game_prey,name,game_prey,2
+Activo,modules/game_prey/prey.otmod,game_prey,sandboxed,true,6
+Activo,modules/game_prey/prey.otmod,game_prey,scripts,[ prey ],7
+Activo,modules/game_prey/prey.otmod,game_prey,dependencies,[ client_topmenu ],8
+Activo,modules/game_prey/prey.otmod,game_prey,@onLoad,init(),9
+Activo,modules/game_prey/prey.otmod,game_prey,@onUnload,terminate(),10
+Activo,modules/game_protocol/protocol.otmod,game_protocol,name,game_protocol,2
+Activo,modules/game_protocol/protocol.otmod,game_protocol,scripts,[ protocol ],6
+Activo,modules/game_protocol/protocol.otmod,game_protocol,sandboxed,true,7
+Activo,modules/game_protocol/protocol.otmod,game_protocol,autoload,true,8
+Activo,modules/game_protocol/protocol.otmod,game_protocol,autoload-priority,500,9
+Activo,modules/game_protocol/protocol.otmod,game_protocol,@onLoad,init(),10
+Activo,modules/game_protocol/protocol.otmod,game_protocol,@onUnload,terminate(),11
+Activo,modules/game_questlog/questlog.otmod,game_questlog,name,game_questlog,2
+Activo,modules/game_questlog/questlog.otmod,game_questlog,sandboxed,true,6
+Activo,modules/game_questlog/questlog.otmod,game_questlog,scripts,[ questlog ],7
+Activo,modules/game_questlog/questlog.otmod,game_questlog,@onLoad,init(),8
+Activo,modules/game_questlog/questlog.otmod,game_questlog,@onUnload,terminate(),9
+Activo,modules/game_ruleviolation/ruleviolation.otmod,game_ruleviolation,name,game_ruleviolation,2
+Activo,modules/game_ruleviolation/ruleviolation.otmod,game_ruleviolation,sandboxed,true,6
+Activo,modules/game_ruleviolation/ruleviolation.otmod,game_ruleviolation,scripts,[ ruleviolation ],7
+Activo,modules/game_ruleviolation/ruleviolation.otmod,game_ruleviolation,@onLoad,init(),8
+Activo,modules/game_ruleviolation/ruleviolation.otmod,game_ruleviolation,@onUnload,terminate(),9
+Activo,modules/game_shaders/shaders.otmod,game_shaders,name,game_shaders,2
+Activo,modules/game_shaders/shaders.otmod,game_shaders,scripts,[ shaders ],6
+Activo,modules/game_shaders/shaders.otmod,game_shaders,sandboxed,true,7
+Activo,modules/game_shaders/shaders.otmod,game_shaders,@onLoad,init(),8
+Activo,modules/game_shaders/shaders.otmod,game_shaders,@onUnload,terminate(),9
+Activo,modules/game_shop/shop.otmod,game_shop,name,game_shop,2
+Activo,modules/game_shop/shop.otmod,game_shop,sandboxed,true,6
+Activo,modules/game_shop/shop.otmod,game_shop,scripts,[ shop ],7
+Activo,modules/game_shop/shop.otmod,game_shop,dependencies,[ client_topmenu ],8
+Activo,modules/game_shop/shop.otmod,game_shop,@onLoad,init(),9
+Activo,modules/game_shop/shop.otmod,game_shop,@onUnload,terminate(),10
+Activo,modules/game_skills/skills.otmod,game_skills,name,game_skills,2
+Activo,modules/game_skills/skills.otmod,game_skills,sandboxed,true,6
+Activo,modules/game_skills/skills.otmod,game_skills,scripts,[ skills ],7
+Activo,modules/game_skills/skills.otmod,game_skills,@onLoad,init(),8
+Activo,modules/game_skills/skills.otmod,game_skills,@onUnload,terminate(),9
+Activo,modules/game_skills/skills.otmod,game_skills,dependencies,- game_interface,10
+Activo,modules/game_spelllist/spelllist.otmod,game_spelllist,name,game_spelllist,2
+Activo,modules/game_spelllist/spelllist.otmod,game_spelllist,autoload,true,6
+Activo,modules/game_spelllist/spelllist.otmod,game_spelllist,sandboxed,false,7
+Activo,modules/game_spelllist/spelllist.otmod,game_spelllist,scripts,[ spelllist ],8
+Activo,modules/game_spelllist/spelllist.otmod,game_spelllist,@onLoad,init(),9
+Activo,modules/game_spelllist/spelllist.otmod,game_spelllist,@onUnload,terminate(),10
+Activo,modules/game_stats/stats.otmod,game_stats,name,game_stats,2
+Activo,modules/game_stats/stats.otmod,game_stats,sandboxed,true,6
+Activo,modules/game_stats/stats.otmod,game_stats,scripts,[ stats ],7
+Activo,modules/game_stats/stats.otmod,game_stats,@onLoad,init(),8
+Activo,modules/game_stats/stats.otmod,game_stats,@onUnload,terminate(),9
+Activo,modules/game_stats_exploot/stats_exploot.otmod,game_stats_exploot,name,game_stats_exploot,2
+Activo,modules/game_stats_exploot/stats_exploot.otmod,game_stats_exploot,sandboxed,true,6
+Activo,modules/game_stats_exploot/stats_exploot.otmod,game_stats_exploot,scripts,[ stats_exploot ],7
+Activo,modules/game_stats_exploot/stats_exploot.otmod,game_stats_exploot,@onLoad,init(),8
+Activo,modules/game_stats_exploot/stats_exploot.otmod,game_stats_exploot,@onUnload,terminate(),9
+Activo,modules/game_store/store.otmod,game_store,name,game_store,2
+Activo,modules/game_store/store.otmod,game_store,dependencies,[ game_thinganim ],6
+Activo,modules/game_store/store.otmod,game_store,scripts,[store],7
+Activo,modules/game_store/store.otmod,game_store,@onLoad,init(),8
+Activo,modules/game_store/store.otmod,game_store,@onUnload,terminate(),9
+Activo,modules/game_task/task_module.otmod,game_task,name,game_task,2
+Activo,modules/game_task/task_module.otmod,game_task,sandboxed,true,5
+Activo,modules/game_task/task_module.otmod,game_task,scripts,[task_module],6
+Activo,modules/game_task/task_module.otmod,game_task,autoload,true,7
+Activo,modules/game_task/task_module.otmod,game_task,autoload-priority,1001,8
+Activo,modules/game_task/task_module.otmod,game_task,@onLoad,init(),9
+Activo,modules/game_task/task_module.otmod,game_task,@onUnload,terminate(),10
+Activo,modules/game_task_tracker/task.otmod,game_task_tracker,name,game_task_tracker,2
+Activo,modules/game_task_tracker/task.otmod,game_task_tracker,sandboxed,true,5
+Activo,modules/game_task_tracker/task.otmod,game_task_tracker,autoload,true,6
+Activo,modules/game_task_tracker/task.otmod,game_task_tracker,scripts,[ task ],7
+Activo,modules/game_task_tracker/task.otmod,game_task_tracker,@onLoad,init(),8
+Activo,modules/game_task_tracker/task.otmod,game_task_tracker,@onUnload,terminate(),9
+Activo,modules/game_textmessage/textmessage.otmod,game_textmessage,name,game_textmessage,2
+Activo,modules/game_textmessage/textmessage.otmod,game_textmessage,sandboxed,true,6
+Activo,modules/game_textmessage/textmessage.otmod,game_textmessage,scripts,"[ items, textmessage ]",7
+Activo,modules/game_textmessage/textmessage.otmod,game_textmessage,@onLoad,init(),8
+Activo,modules/game_textmessage/textmessage.otmod,game_textmessage,@onUnload,terminate(),9
+Activo,modules/game_textwindow/textwindow.otmod,game_textwindow,name,game_textwindow,2
+Activo,modules/game_textwindow/textwindow.otmod,game_textwindow,sandboxed,true,6
+Activo,modules/game_textwindow/textwindow.otmod,game_textwindow,dependencies,[ game_interface ],7
+Activo,modules/game_textwindow/textwindow.otmod,game_textwindow,scripts,[ textwindow ],8
+Activo,modules/game_textwindow/textwindow.otmod,game_textwindow,@onLoad,init(),9
+Activo,modules/game_textwindow/textwindow.otmod,game_textwindow,@onUnload,terminate(),10
+Activo,modules/game_thinganim/thinganim.otmod,game_thinganim,name,game_thinganim,2
+Activo,modules/game_thinganim/thinganim.otmod,game_thinganim,sandboxed,true,5
+Activo,modules/game_thinganim/thinganim.otmod,game_thinganim,autoload,false,6
+Activo,modules/game_thinganim/thinganim.otmod,game_thinganim,dependencies,[ gamelib ],7
+Activo,modules/game_thinganim/thinganim.otmod,game_thinganim,scripts,"[ durations, thinganim ]",8
+Activo,modules/game_thinganim/thinganim.otmod,game_thinganim,@onLoad,init(),9
+Activo,modules/game_thinganim/thinganim.otmod,game_thinganim,@onUnload,terminate(),10
+Activo,modules/game_things/things.otmod,game_things,name,game_things,2
+Activo,modules/game_things/things.otmod,game_things,sandboxed,true,5
+Activo,modules/game_things/things.otmod,game_things,scripts,[things],6
+Activo,modules/game_title/title.otmod,game_title,name,game_title,2
+Activo,modules/game_title/title.otmod,game_title,scripts,[ title ],6
+Activo,modules/game_title/title.otmod,game_title,sandboxed,true,7
+Activo,modules/game_title/title.otmod,game_title,@onLoad,init(),8
+Activo,modules/game_title/title.otmod,game_title,@onUnload,terminate(),9
+Activo,modules/game_tokenshop/tokenshop.otmod,game_tokenshop,name,game_tokenshop,2
+Activo,modules/game_tokenshop/tokenshop.otmod,game_tokenshop,scripts,[ tokenshop ],6
+Activo,modules/game_tokenshop/tokenshop.otmod,game_tokenshop,sandboxed,true,7
+Activo,modules/game_tokenshop/tokenshop.otmod,game_tokenshop,autoload,true,8
+Activo,modules/game_tokenshop/tokenshop.otmod,game_tokenshop,@onLoad,init(),9
+Activo,modules/game_tokenshop/tokenshop.otmod,game_tokenshop,@onUnload,terminate(),10
+Activo,modules/game_tooltips/item_tooltip.otmod,game_itemtooltip,name,game_itemtooltip,2
+Activo,modules/game_tooltips/item_tooltip.otmod,game_itemtooltip,sandboxed,true,6
+Activo,modules/game_tooltips/item_tooltip.otmod,game_itemtooltip,autoload,true,7
+Activo,modules/game_tooltips/item_tooltip.otmod,game_itemtooltip,scripts,[ item_tooltip ],8
+Activo,modules/game_tooltips/item_tooltip.otmod,game_itemtooltip,@onLoad,init(),9
+Activo,modules/game_tooltips/item_tooltip.otmod,game_itemtooltip,@onUnload,terminate(),10
+Activo,modules/game_topbar/topbar.otmod,game_topbar,name,game_topbar,2
+Activo,modules/game_topbar/topbar.otmod,game_topbar,sandboxed,true,6
+Activo,modules/game_topbar/topbar.otmod,game_topbar,autoload,true,7
+Activo,modules/game_topbar/topbar.otmod,game_topbar,scripts,[ topbar ],8
+Activo,modules/game_topbar/topbar.otmod,game_topbar,@onLoad,init(),9
+Activo,modules/game_topbar/topbar.otmod,game_topbar,@onUnload,terminate(),10
+Activo,modules/game_unjustifiedpoints/unjustifiedpoints.otmod,game_unjustifiedpoints,name,game_unjustifiedpoints,2
+Activo,modules/game_unjustifiedpoints/unjustifiedpoints.otmod,game_unjustifiedpoints,sandboxed,true,5
+Activo,modules/game_unjustifiedpoints/unjustifiedpoints.otmod,game_unjustifiedpoints,scripts,[ unjustifiedpoints ],6
+Activo,modules/game_unjustifiedpoints/unjustifiedpoints.otmod,game_unjustifiedpoints,@onLoad,init(),7
+Activo,modules/game_unjustifiedpoints/unjustifiedpoints.otmod,game_unjustifiedpoints,@onUnload,terminate(),8
+Activo,modules/game_viplist/viplist.otmod,game_viplist,name,game_viplist,2
+Activo,modules/game_viplist/viplist.otmod,game_viplist,sandboxed,true,6
+Activo,modules/game_viplist/viplist.otmod,game_viplist,scripts,[ viplist ],7
+Activo,modules/game_viplist/viplist.otmod,game_viplist,@onLoad,init(),8
+Activo,modules/game_viplist/viplist.otmod,game_viplist,@onUnload,terminate(),9
+Activo,modules/game_walking/walking.otmod,game_walking,name,game_walking,2
+Activo,modules/game_walking/walking.otmod,game_walking,scripts,[ walking ],6
+Activo,modules/game_walking/walking.otmod,game_walking,dependencies,[ game_interface ],7
+Activo,modules/game_walking/walking.otmod,game_walking,@onLoad,init(),8
+Activo,modules/game_walking/walking.otmod,game_walking,@onUnload,terminate(),9
+Activo,modules/game_waypoint/waypoint_module.otmod,game_waypoint,name,game_waypoint,2
+Activo,modules/game_waypoint/waypoint_module.otmod,game_waypoint,sandboxed,true,5
+Activo,modules/game_waypoint/waypoint_module.otmod,game_waypoint,scripts,[waypoint_module],6
+Activo,modules/game_waypoint/waypoint_module.otmod,game_waypoint,autoload,true,7
+Activo,modules/game_waypoint/waypoint_module.otmod,game_waypoint,autoload-priority,1001,8
+Activo,modules/game_waypoint/waypoint_module.otmod,game_waypoint,@onLoad,init(),9
+Activo,modules/game_waypoint/waypoint_module.otmod,game_waypoint,@onUnload,terminate(),10
+Activo,modules/game_wings/game_wings.otmod,game_wings,name,game_wings,2
+Activo,modules/game_wings/game_wings.otmod,game_wings,autoload,true,6
+Activo,modules/game_wings/game_wings.otmod,game_wings,sandboxed,true,8
+Activo,modules/game_wings/game_wings.otmod,game_wings,scripts,[ game_wings ],10
+Activo,modules/game_wings/game_wings.otmod,game_wings,@onLoad,init(),11
+Activo,modules/game_wings/game_wings.otmod,game_wings,@onUnload,terminate(),12
+Activo,modules/gamelib/gamelib.otmod,gamelib,name,gamelib,2
+Activo,modules/gamelib/gamelib.otmod,gamelib,@onLoad,|,7
+Activo,modules/updater/updater.otmod,updater,name,updater,2
+Activo,modules/updater/updater.otmod,updater,scripts,[ updater ],7
+Activo,modules/updater/updater.otmod,updater,dependencies,"[ client_locales, client_styles, client_textedit ]",8
+Activo,modules/updater/updater.otmod,updater,@onUnload,Updater.terminate(),9
+Activo,modules/updater/updater.otmod,updater,load-later,- client_background,11
