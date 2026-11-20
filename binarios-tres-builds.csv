@@ -1,0 +1,18 @@
+build,ruta,bytes,sha256,machine,entry_rva,secciones
+Dropbox,OxygenOT/d3dcompiler_47.dll,3696072,7d0d1290382ea0e44a3178446a0c202696237e27dbb5f8f0827691092b8f2228,0x14c,0x2a9bc0,.text .data .idata .rsrc .reloc
+Dropbox,OxygenOT/discord-rpc.dll,55296,c588493c7962f53c01f5cc87734899618be07afc6721527d4007bbb280e33d51,0x14c,0x8be3,.text .rdata .data .rsrc .reloc
+Dropbox,OxygenOT/libEGL.dll,120920,bae0b6cd4a54aa6d288f791db942022339ae1f3d8fd40e24d9705901821087d6,0x14c,0x23a5,.text .rdata .data .rsrc .reloc
+Dropbox,OxygenOT/libGLESv2.dll,6293592,3325a7923bb752c2d388bc3c6e3b3b2b2f75f39a52cb8d0fb540a096bc692496,0x14c,0x396f81,.text .rdata .data .rsrc .reloc
+Dropbox,OxygenOT/OxygenOT_dx.exe,12513792,009537d3793f5d95398e34802683208087d5afbed8a43a5b09ffee390a4a9932,0x14c,0x551950,.text .rdata .data _RDATA .rsrc .reloc
+Dropbox,OxygenOT/OxygenOT_gl.exe,12712448,af0fab1ec320f4f23b051444d982b6a527c4786abfeaeda71c818e184a1fa55d,0x14c,0x551cf0,.text .rdata .data _RDATA .rsrc .reloc
+Dropbox,OxygenOT/VC_redist.x86.exe,6876208,e7267c1bdf9237c0b4a28cf027c382b97aa909934f84f1c92d3fb9f04173b33e,0x14c,0x302e5,.text .rdata .data .wixburn .rsrc .reloc
+Drive,OxygenOT IX_v4/d3dcompiler_47.dll,3696072,7d0d1290382ea0e44a3178446a0c202696237e27dbb5f8f0827691092b8f2228,0x14c,0x2a9bc0,.text .data .idata .rsrc .reloc
+Drive,OxygenOT IX_v4/libEGL.dll,120920,bae0b6cd4a54aa6d288f791db942022339ae1f3d8fd40e24d9705901821087d6,0x14c,0x23a5,.text .rdata .data .rsrc .reloc
+Drive,OxygenOT IX_v4/libGLESv2.dll,6293592,3325a7923bb752c2d388bc3c6e3b3b2b2f75f39a52cb8d0fb540a096bc692496,0x14c,0x396f81,.text .rdata .data .rsrc .reloc
+Drive,OxygenOT IX_v4/OxygenOT_dx-1792051865.exe,12513792,cce2395abf60ca9c3f15c317f979595993b524718499f01cb6f092717d540f7d,0x14c,0x551950,.text .rdata .data _RDATA .rsrc .reloc
+Drive,OxygenOT IX_v4/OxygenOT_gl-1792153497.exe,12712448,bbf86b562e1510378fab5ee53210fd2dfca37b1b6249e3645494745dd5b09d56,0x14c,0x551cf0,.text .rdata .data _RDATA .rsrc .reloc
+Activo,d3dcompiler_47.dll,3696072,7d0d1290382ea0e44a3178446a0c202696237e27dbb5f8f0827691092b8f2228,0x14c,0x2a9bc0,.text .data .idata .rsrc .reloc
+Activo,libEGL.dll,120920,bae0b6cd4a54aa6d288f791db942022339ae1f3d8fd40e24d9705901821087d6,0x14c,0x23a5,.text .rdata .data .rsrc .reloc
+Activo,libGLESv2.dll,6293592,3325a7923bb752c2d388bc3c6e3b3b2b2f75f39a52cb8d0fb540a096bc692496,0x14c,0x396f81,.text .rdata .data .rsrc .reloc
+Activo,OxygenOT_dx-1792051865.exe,12513792,cce2395abf60ca9c3f15c317f979595993b524718499f01cb6f092717d540f7d,0x14c,0x551950,.text .rdata .data _RDATA .rsrc .reloc
+Activo,OxygenOT_gl-1795151631.exe,12712448,bbf86b562e1510378fab5ee53210fd2dfca37b1b6249e3645494745dd5b09d56,0x14c,0x551cf0,.text .rdata .data _RDATA .rsrc .reloc
