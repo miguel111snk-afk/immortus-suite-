@@ -1,0 +1,8 @@
+﻿origen,ruta,sha256,machine,image_base,entry_rva,secciones,apariciones_oxy5
+cliente,OxygenOT/d3dcompiler_47.dll,7d0d1290382ea0e44a3178446a0c202696237e27dbb5f8f0827691092b8f2228,0x14c,0x10000000,0x2a9bc0,.text | .data | .idata | .rsrc | .reloc,0
+cliente,OxygenOT/discord-rpc.dll,c588493c7962f53c01f5cc87734899618be07afc6721527d4007bbb280e33d51,0x14c,0x10000000,0x8be3,.text | .rdata | .data | .rsrc | .reloc,0
+cliente,OxygenOT/libEGL.dll,bae0b6cd4a54aa6d288f791db942022339ae1f3d8fd40e24d9705901821087d6,0x14c,0x10000000,0x23a5,.text | .rdata | .data | .rsrc | .reloc,0
+cliente,OxygenOT/libGLESv2.dll,3325a7923bb752c2d388bc3c6e3b3b2b2f75f39a52cb8d0fb540a096bc692496,0x14c,0x10000000,0x396f81,.text | .rdata | .data | .rsrc | .reloc,0
+cliente,OxygenOT/OxygenOT_dx.exe,009537d3793f5d95398e34802683208087d5afbed8a43a5b09ffee390a4a9932,0x14c,0x400000,0x551950,.text | .rdata | .data | _RDATA | .rsrc | .reloc,1
+cliente,OxygenOT/OxygenOT_gl.exe,af0fab1ec320f4f23b051444d982b6a527c4786abfeaeda71c818e184a1fa55d,0x14c,0x400000,0x551cf0,.text | .rdata | .data | _RDATA | .rsrc | .reloc,1
+cliente,OxygenOT/VC_redist.x86.exe,e7267c1bdf9237c0b4a28cf027c382b97aa909934f84f1c92d3fb9f04173b33e,0x14c,0x400000,0x302e5,.text | .rdata | .data | .wixburn | .rsrc | .reloc,0

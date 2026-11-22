@@ -1,0 +1,37 @@
+ruta,offset_archivo_hex,literal
+OxygenOT/OxygenOT_dx.exe,0x83a1b8,lua_debug
+OxygenOT/OxygenOT_dx.exe,0x83a5c8,LuaJIT 2.1.0-beta3
+OxygenOT/OxygenOT_dx.exe,0x914a30,onPositionChange
+OxygenOT/OxygenOT_dx.exe,0x91512c,g_game
+OxygenOT/OxygenOT_dx.exe,0x9151c0,onGameStart
+OxygenOT/OxygenOT_dx.exe,0x9151d8,onGameEnd
+OxygenOT/OxygenOT_dx.exe,0x915274,onTalk
+OxygenOT/OxygenOT_dx.exe,0x91527c,onTextMessage
+OxygenOT/OxygenOT_dx.exe,0x9156c8,onAttackingCreatureChange
+OxygenOT/OxygenOT_dx.exe,0x915a08,onHealthChange
+OxygenOT/OxygenOT_dx.exe,0x915ab4,onManaChange
+OxygenOT/OxygenOT_dx.exe,0x915e80,g_map
+OxygenOT/OxygenOT_dx.exe,0x91982c,onSpellCooldown
+OxygenOT/OxygenOT_dx.exe,0x9198ec,onSpellGroupCooldown
+OxygenOT/OxygenOT_dx.exe,0x91b2ac,OXY5
+OxygenOT/OxygenOT_dx.exe,0x924298,g_modules
+OxygenOT/OxygenOT_dx.exe,0x924370,g_resources
+OxygenOT/OxygenOT_dx.exe,0x92494c,g_ui
+OxygenOT/OxygenOT_gl.exe,0x84d0f8,lua_debug
+OxygenOT/OxygenOT_gl.exe,0x84d508,LuaJIT 2.1.0-beta3
+OxygenOT/OxygenOT_gl.exe,0x93ee50,onPositionChange
+OxygenOT/OxygenOT_gl.exe,0x93f54c,g_game
+OxygenOT/OxygenOT_gl.exe,0x93f5e0,onGameStart
+OxygenOT/OxygenOT_gl.exe,0x93f5f8,onGameEnd
+OxygenOT/OxygenOT_gl.exe,0x93f694,onTalk
+OxygenOT/OxygenOT_gl.exe,0x93f69c,onTextMessage
+OxygenOT/OxygenOT_gl.exe,0x93fae8,onAttackingCreatureChange
+OxygenOT/OxygenOT_gl.exe,0x93fe28,onHealthChange
+OxygenOT/OxygenOT_gl.exe,0x93fed4,onManaChange
+OxygenOT/OxygenOT_gl.exe,0x940284,g_map
+OxygenOT/OxygenOT_gl.exe,0x943c4c,onSpellCooldown
+OxygenOT/OxygenOT_gl.exe,0x943c5c,onSpellGroupCooldown
+OxygenOT/OxygenOT_gl.exe,0x9456a4,OXY5
+OxygenOT/OxygenOT_gl.exe,0x94e778,g_modules
+OxygenOT/OxygenOT_gl.exe,0x94e898,g_resources
+OxygenOT/OxygenOT_gl.exe,0x94ee70,g_ui

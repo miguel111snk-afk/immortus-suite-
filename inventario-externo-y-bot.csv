@@ -1,0 +1,931 @@
+﻿build,ruta,bytes,crc32,oxy5
+Dropbox,OxygenOT.zip!/OxygenOT/d3dcompiler_47.dll,3696072,58b0c8ba,False
+Dropbox,OxygenOT.zip!/OxygenOT/data.zip,42971356,5d829c8a,False
+Dropbox,OxygenOT.zip!/OxygenOT/discord-rpc.dll,55296,a29b7be6,False
+Dropbox,OxygenOT.zip!/OxygenOT/libEGL.dll,120920,3592d8f0,False
+Dropbox,OxygenOT.zip!/OxygenOT/libGLESv2.dll,6293592,27c4f73a,False
+Dropbox,OxygenOT.zip!/OxygenOT/OxygenOT_dx.exe,12513792,b16262ab,False
+Dropbox,OxygenOT.zip!/OxygenOT/OxygenOT_gl.exe,12712448,76148879,False
+Dropbox,OxygenOT.zip!/OxygenOT/VC_redist.x86.exe,6876208,1700c873,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/cavebot/cavebot.lua,1317,d66e56fb,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/cavebot/cavebot/actions.lua,8356,d2ffdcef,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/cavebot/cavebot/cavebot.lua,6235,88cb6ed8,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/cavebot/cavebot/cavebot.otui,1031,246ae554,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/cavebot/cavebot/config.lua,2818,577d1997,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/cavebot/cavebot/config.otui,1050,7cd253be,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/cavebot/cavebot/depositer.lua,910,45cc382f,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/cavebot/cavebot/editor.lua,5488,8f3c53dd,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/cavebot/cavebot/editor.otui,827,580caa33,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/cavebot/cavebot/example_functions.lua,2283,6d9be75c,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/cavebot/cavebot/extension_template.lua,1987,a194754f,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/cavebot/cavebot/recorder.lua,1860,2b9f4862,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/cavebot/cavebot/supply.lua,1183,cb2566cf,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/cavebot/cavebot/supply.otui,1541,9c625f50,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/cavebot/cavebot/walking.lua,2735,8c7e3c96,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/cavebot/cavebot_configs/config_name_nomads.cfg,889,c8e89e8d,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/cavebot/hp.lua,6243,fd1cd070,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/cavebot/main.lua,391,d2888360,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/cavebot/mwall_timer.lua,1077,a0ea43df,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/cavebot/storage.json,2583,305a0239,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/cavebot/storage/Miguel hdz_profile_1.json,5041,fc3e4ec2,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/cavebot/targetbot/creature.lua,3132,b5f23060,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/cavebot/targetbot/creature_attack.lua,4890,c5a364a9,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/cavebot/targetbot/creature_editor.lua,4831,d5898237,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/cavebot/targetbot/creature_editor.otui,3570,8083ff03,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/cavebot/targetbot/creature_priority.lua,1158,f3a40231,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/cavebot/targetbot/looting.lua,10084,07b97359,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/cavebot/targetbot/looting.otui,1645,91de6c1a,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/cavebot/targetbot/target.lua,8023,08163408,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/cavebot/targetbot/target.otui,2306,93c9316b,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/cavebot/targetbot/walking.lua,782,52dacff6,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/cavebot/targetbot_configs/config_name_777.json,1126,f47a44d8,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/cavebot/tools.lua,4776,8d528b03,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/.oxybot_official.json,5865,252db6ac,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/_Loader.lua,2261,712e5f3f,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot/actions.lua,16086,b163f910,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot/bank.lua,2897,368798f7,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot/buy_supplies.lua,2077,2eb79c20,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot/cavebot.lua,12737,fce6d058,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot/cavebot.otui,1031,246ae554,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot/clear_tile.lua,3810,923f6bdd,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot/config.lua,3232,0e1165b2,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot/config.otui,1050,7cd253be,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot/d_withdraw.lua,2938,062ffb6e,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot/depositor.lua,4006,12cf47b3,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot/doors.lua,1699,717b126f,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot/editor.lua,5858,ab6be85e,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot/editor.otui,827,580caa33,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot/example_functions.lua,2832,1347f165,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot/extension_template.lua,1987,a194754f,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot/imbuing.lua,3157,8043e257,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot/inbox_withdraw.lua,2721,1038386d,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot/lure.lua,731,bfa055c6,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot/minimap.lua,882,953685e9,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot/pos_check.lua,1733,9171862f,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot/recorder.lua,2001,d59319e4,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot/sell_all.lua,1866,f37f7bba,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot/stand_lure.lua,6384,d985355f,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot/supply_check.lua,5108,fdd85558,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot/tasker.lua,5718,1477169e,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot/travel.lua,1047,b969e49a,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot/walking.lua,2735,8c7e3c96,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot/withdraw.lua,1630,6877f043,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/4bdn.cfg,2271,f75c4e84,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/4biden_island.cfg,2196,5ff53a95,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/4bidencito.cfg,165,77bd6726,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/777.cfg,3312,414f9ccd,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/ASURAS.cfg,320,77383325,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name.cfg,0,00000000,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_4BIDEN_LAND.cfg,1306,fe660ea5,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_babutas.cfg,2368,9daf981e,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_beggRA.cfg,0,00000000,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_beggys.cfg,473,4089e082,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_bejes.cfg,816,368015f3,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_blases.cfg,7607,60f9965e,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_bruces.cfg,195,0ee526ea,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_brus.cfg,969,adbbcd1e,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_CHACALES.cfg,1934,cef2a3ce,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_chaparritos.cfg,1489,73433699,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_DRABENS.cfg,1704,5af33f6b,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_dragoncitos_bebes.cfg,1935,bd547e50,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_drakens.cfg,4336,1defbc6f,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_drakxp.cfg,1586,bf002328,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_dreiks.cfg,6208,15238a33,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_dung.cfg,8272,4ca3840e,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_elfos.cfg,1894,11fb7f31,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_enanitos.cfg,8004,08da256f,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_feru.cfg,4598,df24e662,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_fish.cfg,215,bd71e9c8,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_FROST_DRAK.cfg,1898,d36a98e5,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_GASTLY.cfg,3790,30c4dfa1,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_GIANT_ASURAS.cfg,3467,fa3812ac,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_ice_drake.cfg,3178,73ee15dd,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_INFY.cfg,388,4170b4a9,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_jades.cfg,1142,a8b1a43e,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_LABUBIS.cfg,473,e6888c9a,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_lagartijitas.cfg,3331,034f02c2,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_lol_forb.cfg,1509,c1a71501,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_mmonster_bat.cfg,528,e98c1934,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_nicmares_x9.cfg,2908,358f2edb,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_nightmares.cfg,4657,1f174c31,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_nomad.cfg,1754,2595f0fd,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_peces.cfg,2273,ac6b9616,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_PIEDRITAS.cfg,4211,7e70631b,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_piter.cfg,4081,d7e4f4b6,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_POISON_CERVER.cfg,1094,2044a58e,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_poisonitos.cfg,1283,0cf4d2ee,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_RRS.cfg,1160,094ecd96,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_run.cfg,626,c7309f43,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_rx7.cfg,1392,71f6a149,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_rx99.cfg,2513,451149e0,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_serpientitas.cfg,15682,ff98c5b9,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_ss3.cfg,3072,7b9ddb27,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_strangerrrs.cfg,4431,24ee15eb,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_terra.cfg,1000,5bda2c72,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_TROLS.cfg,5370,a75c7f58,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_turtls.cfg,2433,213cdc4a,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_vampiritos.cfg,674,7e808217,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_viboritas.cfg,0,00000000,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_x7782.cfg,4785,3c8c28b8,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/config_name_zao.cfg,4953,50a4d164,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/DEATH_RIPER.cfg,1104,05ea2cdd,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/ded_riper.cfg,1825,545f2fa5,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/eslimes.cfg,2649,8867526b,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/FISH.cfg,168,eebd7dfd,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/fishing_death_reaper.cfg,690,01d7b049,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/GRIM_REAPERS.cfg,3079,35e3a391,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/grim_ripers_prision_.cfg,3451,a24c52c9,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/peces_muertos_2.cfg,1606,fea293b9,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/pescaditos_muertos.cfg,2963,b11a5067,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/prision_grims.cfg,3142,5fd9312c,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/PRISON.cfg,6471,869363ed,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/prison_xddd.cfg,2742,f22c784b,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/RANITAS_ASULES.cfg,2447,008f673e,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/red.cfg,3446,68c231ec,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/ROJITOS.cfg,1766,e5f2242c,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/typhons.cfg,1288,88cc4268,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/cavebot_configs/TYPONES.cfg,2765,87aa3bbb,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/scripts.lua,48506,8b5ea5e7,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/storage/Immortus blocker_profile_1.json,7558,1cce77b2,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/storage/Immortus Ed_profile_1.json,11368,a3c0dd49,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/storage/Immortus Ek_profile_1.json,8343,d6d3fbbf,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/storage/Immortus rp_profile_1.json,10260,1410dee0,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/storage/Miguel hdz_profile_1.json,106010,f995649a,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/storage/Riaton Vaquero_profile_1.json,7448,ef9024c2,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/targetbot/creature.lua,3128,08ee675b,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/targetbot/creature_attack.lua,9189,a0e233a7,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/targetbot/creature_editor.lua,4316,95f33097,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/targetbot/creature_editor.otui,3570,c839e147,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/targetbot/creature_priority.lua,1788,27c040df,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/targetbot/looting.lua,11254,0cfe6a66,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/targetbot/looting.otui,1315,5e5698b2,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/targetbot/target.lua,9255,befc6167,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/targetbot/target.otui,2306,93c9316b,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/targetbot/walking.lua,782,52dacff6,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/targetbot_configs/4biiden_island.json,2,0d4cbb29,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/targetbot_configs/config_name_as.json,871,c07bc61d,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/targetbot_configs/config_name_INFERNAL.json,2,0d4cbb29,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/targetbot_configs/config_name_run_ers.json,2,0d4cbb29,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/targetbot_configs/DEATH_REAPER.json,2,0d4cbb29,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/alarms.lua,6188,9bfb896f,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/alarms.otui,2763,7959231b,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/analyzer.lua,56611,2ca178ea,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/analyzer.otui,10584,a0436491,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/AttackBot.lua,35281,343164ab,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/AttackBot.otui,13065,5b8e8d88,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/BotServer.lua,7278,0feb27b9,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/BotServer.otui,4110,e1ea8a93,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/cast_food.lua,672,d3486cc8,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/cavebot.lua,1854,3be2492e,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/cavebot_control_panel.lua,1664,222b7fd6,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/combo.lua,14864,d34cea03,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/combo.otui,8519,2948ba6f,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/Conditions.lua,9457,1fce8167,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/Conditions.otui,10115,dcc82d4d,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/configs.lua,3093,7502173b,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/Containers.lua,22724,0c653e59,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/depositer_config.lua,4373,9b700461,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/depositer_config.otui,2209,8d6f5b3d,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/depot_withdraw.lua,2103,fac6f1ff,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/Dropper.lua,3298,e64d83aa,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/eat_food.lua,1426,d2ec584d,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/equip.lua,1374,132c7105,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/Equipper.lua,28500,4d1b4263,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/equipper.otui,11768,ece45760,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/exeta.lua,988,fed5ff24,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/extras.lua,24183,ddc8deb5,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/extras.otui,3334,a50caf24,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/HealBot.lua,22733,cc272271,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/HealBot.otui,10708,0b820008,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/hold_target.lua,927,e9e072af,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/ingame_editor.lua,797,b52bd3ed,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/items.lua,43899,30d2255f,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/main.lua,120,e37187f9,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/new_cavebot_lib.lua,16148,f66d88a3,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/new_healer.lua,15859,53be9bdc,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/new_healer.otui,8500,85a8a66a,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/npc_talk.lua,212,29cc3acc,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/playerlist.lua,11418,d4d58e6f,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/playerlist.otui,3227,86229ad0,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/pushmax.lua,7364,91a2bd59,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/pushmax.otui,1895,c13aba78,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/quiver_label.lua,1359,a128e2f0,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/quiver_manager.lua,3470,b1b54962,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/Sio.lua,7864,a478dcea,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/siolist.otui,4154,13ee3fe3,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/spy_level.lua,600,c9772a64,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/supplies.lua,11897,72cfcee7,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/supplies.otui,5553,6d645df2,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/tools.lua,1342,d90aa9dc,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/vlib.lua,32736,bb7d561a,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot/xeno_menu.lua,1214,fadc1863,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot_configs/profile_1/AttackBot.json,2755,7e30fcd3,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot_configs/profile_1/HealBot.json,2437,51e0270e,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/OxyBot/vBot_configs/profile_1/Supplies.json,105,a31b22ab,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/_Loader.lua,1379,acc89a18,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/cavebot/actions.lua,16086,b163f910,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/cavebot/bank.lua,2897,368798f7,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/cavebot/buy_supplies.lua,2077,2eb79c20,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/cavebot/cavebot.lua,12737,fce6d058,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/cavebot/cavebot.otui,1031,246ae554,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/cavebot/clear_tile.lua,3810,923f6bdd,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/cavebot/config.lua,3232,0e1165b2,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/cavebot/config.otui,1050,7cd253be,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/cavebot/d_withdraw.lua,2938,062ffb6e,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/cavebot/depositor.lua,4006,12cf47b3,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/cavebot/doors.lua,1699,717b126f,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/cavebot/editor.lua,5858,ab6be85e,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/cavebot/editor.otui,827,580caa33,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/cavebot/example_functions.lua,2832,1347f165,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/cavebot/extension_template.lua,1987,a194754f,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/cavebot/imbuing.lua,3157,8043e257,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/cavebot/inbox_withdraw.lua,2721,1038386d,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/cavebot/lure.lua,731,bfa055c6,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/cavebot/minimap.lua,882,953685e9,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/cavebot/pos_check.lua,1733,9171862f,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/cavebot/recorder.lua,2001,d59319e4,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/cavebot/sell_all.lua,1866,f37f7bba,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/cavebot/stand_lure.lua,6384,d985355f,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/cavebot/supply_check.lua,5108,fdd85558,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/cavebot/tasker.lua,5718,1477169e,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/cavebot/travel.lua,1047,b969e49a,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/cavebot/walking.lua,2735,8c7e3c96,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/cavebot/withdraw.lua,1630,6877f043,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/storage/Miguel hdz_profile_1.json,6770,c0a67f42,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/targetbot/creature.lua,3128,08ee675b,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/targetbot/creature_attack.lua,9189,a0e233a7,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/targetbot/creature_editor.lua,4316,95f33097,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/targetbot/creature_editor.otui,3570,c839e147,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/targetbot/creature_priority.lua,1788,27c040df,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/targetbot/looting.lua,11254,0cfe6a66,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/targetbot/looting.otui,1315,5e5698b2,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/targetbot/target.lua,9255,befc6167,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/targetbot/target.otui,2306,93c9316b,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/targetbot/walking.lua,782,52dacff6,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/alarms.lua,6188,9bfb896f,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/alarms.otui,2763,7959231b,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/analyzer.lua,56611,2ca178ea,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/analyzer.otui,10584,a0436491,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/antiRs.lua,880,1e9251c5,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/AttackBot.lua,35281,343164ab,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/AttackBot.otui,13065,5b8e8d88,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/BotServer.lua,7278,0feb27b9,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/BotServer.otui,4110,e1ea8a93,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/cast_food.lua,672,d3486cc8,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/cavebot.lua,1854,3be2492e,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/cavebot_control_panel.lua,1664,222b7fd6,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/combo.lua,14864,d34cea03,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/combo.otui,8519,2948ba6f,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/Conditions.lua,9457,1fce8167,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/Conditions.otui,10115,dcc82d4d,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/configs.lua,3093,7502173b,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/Containers.lua,19998,39323ed0,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/depositer_config.lua,4373,9b700461,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/depositer_config.otui,2209,8d6f5b3d,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/depot_withdraw.lua,2103,fac6f1ff,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/Dropper.lua,3334,00d615ca,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/eat_food.lua,1426,d2ec584d,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/equip.lua,1374,132c7105,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/Equipper.lua,25386,c0d293f7,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/equipper.otui,11768,ece45760,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/exeta.lua,988,fed5ff24,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/extras.lua,24183,ddc8deb5,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/extras.otui,3334,a50caf24,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/HealBot.lua,22733,cc272271,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/HealBot.otui,10708,0b820008,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/hold_target.lua,927,e9e072af,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/ingame_editor.lua,797,b52bd3ed,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/items.lua,43899,30d2255f,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/main.lua,1116,6f25b8d0,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/new_cavebot_lib.lua,16148,f66d88a3,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/new_healer.lua,15859,53be9bdc,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/new_healer.otui,8500,85a8a66a,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/npc_talk.lua,212,29cc3acc,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/playerlist.lua,11917,d48c977b,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/playerlist.otui,3227,86229ad0,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/pushmax.lua,7364,91a2bd59,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/pushmax.otui,1895,c13aba78,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/quiver_label.lua,1359,a128e2f0,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/quiver_manager.lua,3470,b1b54962,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/Sio.lua,7864,a478dcea,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/siolist.otui,4154,13ee3fe3,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/spy_level.lua,600,c9772a64,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/supplies.lua,11897,72cfcee7,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/supplies.otui,5553,6d645df2,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/tools.lua,1342,d90aa9dc,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/version.txt,3,ff2625ec,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/vlib.lua,32583,e222eed0,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot/xeno_menu.lua,1214,fadc1863,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/bot/vBot/vBot_configs/profile_1/Supplies.json,105,2603fa50,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/config.otml,20075,5758f98e,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/d3dcompiler_47.dll,3696072,58b0c8ba,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/data.zip,175662838,6759690d,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/exception_full.dmp,225317576,48db1eb6,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/exception2.dmp,151806,9343c489,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/hotkeys_1.otml,1,32d70693,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/hotkeys_2.otml,1,32d70693,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/hotkeys_3.otml,1,32d70693,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/hotkeys_4.otml,1,32d70693,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/hotkeys_5.otml,1,32d70693,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/libEGL.dll,120920,3592d8f0,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/libGLESv2.dll,6293592,27c4f73a,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/minimap860_immortus_blocker.otmm,6868420,f46d085e,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/minimap860_immortus_ed.bak.otmm,7145142,a90a920c,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/minimap860_immortus_ed.otmm,7144760,f62f3226,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/minimap860_immortus_ek.bak.otmm,6916445,b4e0262b,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/minimap860_immortus_ek.otmm,6917589,e373f75b,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/minimap860_immortus_rp.bak.otmm,6961334,67bc780a,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/minimap860_immortus_rp.otmm,6961443,eb2288cc,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/minimap860_miguel_hdz.bak.otmm,7348523,a3e84cf2,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/minimap860_miguel_hdz.otmm,7348466,707a16f9,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/minimap860_riaton_vaquero.otmm,6865973,69f16bda,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/OxygenOT_dx-1792051865.exe,12513792,c387e01f,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/OxygenOT_gl-1792153497.exe,12712448,110c8703,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/settings/charui/d_Immortus_blocker_OxygenOT.json,1838,10e52a23,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/settings/charui/d_Immortus_blocker_OxygenOT.json.bak,1838,90b32c82,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/settings/charui/d_Immortus_Ed_OxygenOT.json,1525,bbce80ac,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/settings/charui/d_Immortus_Ed_OxygenOT.json.bak,1525,12075dc9,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/settings/charui/d_Immortus_Ek_OxygenOT.json,1414,b2805c6a,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/settings/charui/d_Immortus_Ek_OxygenOT.json.bak,1414,00747dd2,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/settings/charui/d_Immortus_rp_OxygenOT.json,1313,2bdacf32,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/settings/charui/d_Immortus_rp_OxygenOT.json.bak,1313,8310ab02,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/settings/charui/d_Miguel_hdz_OxygenOT.json,1849,94ea2b14,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/settings/charui/d_Miguel_hdz_OxygenOT.json.bak,1849,9937e6c2,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/settings/charui/d_Riaton_Vaquero_OxygenOT.json,1798,3b57c22f,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/settings/charui/d_Riaton_Vaquero_OxygenOT.json.bak,1798,cb86e6c1,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/settings/outfit.json,558,f9e9b943,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/settings/profile_1/actionbars/Immortus blocker_actionbar_v2.json,4,dfea17aa,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/settings/profile_1/actionbars/Immortus Ed_actionbar_v2.json,225,75618269,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/settings/profile_1/actionbars/Immortus Ed_actionbar_v2.json.bak,225,75618269,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/settings/profile_1/actionbars/Immortus Ek_actionbar_v2.json,4,dfea17aa,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/settings/profile_1/actionbars/Immortus Ek_actionbar_v2.json.bak,4,dfea17aa,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/settings/profile_1/actionbars/Immortus rp_actionbar_v2.json,4,dfea17aa,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/settings/profile_1/actionbars/Immortus rp_actionbar_v2.json.bak,4,dfea17aa,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/settings/profile_1/actionbars/Miguel hdz_actionbar_v2.json,677,89553563,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/settings/profile_1/actionbars/Miguel hdz_actionbar_v2.json.bak,677,7da3ea37,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/settings/profile_1/actionbars/Riaton Vaquero_actionbar_v2.json,4,dfea17aa,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/settings/profile_1/topbar.json,155,12d7b550,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/settings/profiles.json,129,03837e77,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/settings/questlog.json,159,e12790be,False
+Drive,OxygenOT IX_v4.zip!/OxygenOT IX_v4/updater.applied,163,45ab344c,False
+Activo,bot.zip!/bot/cavebot/cavebot.lua,1317,d66e56fb,False
+Activo,bot.zip!/bot/cavebot/cavebot/actions.lua,8356,d2ffdcef,False
+Activo,bot.zip!/bot/cavebot/cavebot/cavebot.lua,6235,88cb6ed8,False
+Activo,bot.zip!/bot/cavebot/cavebot/cavebot.otui,1031,246ae554,False
+Activo,bot.zip!/bot/cavebot/cavebot/config.lua,2818,577d1997,False
+Activo,bot.zip!/bot/cavebot/cavebot/config.otui,1050,7cd253be,False
+Activo,bot.zip!/bot/cavebot/cavebot/depositer.lua,910,45cc382f,False
+Activo,bot.zip!/bot/cavebot/cavebot/editor.lua,5488,8f3c53dd,False
+Activo,bot.zip!/bot/cavebot/cavebot/editor.otui,827,580caa33,False
+Activo,bot.zip!/bot/cavebot/cavebot/example_functions.lua,2283,6d9be75c,False
+Activo,bot.zip!/bot/cavebot/cavebot/extension_template.lua,1987,a194754f,False
+Activo,bot.zip!/bot/cavebot/cavebot/recorder.lua,1860,2b9f4862,False
+Activo,bot.zip!/bot/cavebot/cavebot/supply.lua,1183,cb2566cf,False
+Activo,bot.zip!/bot/cavebot/cavebot/supply.otui,1541,9c625f50,False
+Activo,bot.zip!/bot/cavebot/cavebot/walking.lua,2735,8c7e3c96,False
+Activo,bot.zip!/bot/cavebot/cavebot_configs/config_name_nomads.cfg,889,c8e89e8d,False
+Activo,bot.zip!/bot/cavebot/hp.lua,6243,fd1cd070,False
+Activo,bot.zip!/bot/cavebot/main.lua,391,d2888360,False
+Activo,bot.zip!/bot/cavebot/mwall_timer.lua,1077,a0ea43df,False
+Activo,bot.zip!/bot/cavebot/storage.json,2583,305a0239,False
+Activo,bot.zip!/bot/cavebot/storage/Miguel hdz_profile_1.json,5041,fc3e4ec2,False
+Activo,bot.zip!/bot/cavebot/targetbot/creature.lua,3132,b5f23060,False
+Activo,bot.zip!/bot/cavebot/targetbot/creature_attack.lua,4890,c5a364a9,False
+Activo,bot.zip!/bot/cavebot/targetbot/creature_editor.lua,4831,d5898237,False
+Activo,bot.zip!/bot/cavebot/targetbot/creature_editor.otui,3570,8083ff03,False
+Activo,bot.zip!/bot/cavebot/targetbot/creature_priority.lua,1158,f3a40231,False
+Activo,bot.zip!/bot/cavebot/targetbot/looting.lua,10084,07b97359,False
+Activo,bot.zip!/bot/cavebot/targetbot/looting.otui,1645,91de6c1a,False
+Activo,bot.zip!/bot/cavebot/targetbot/target.lua,8023,08163408,False
+Activo,bot.zip!/bot/cavebot/targetbot/target.otui,2306,93c9316b,False
+Activo,bot.zip!/bot/cavebot/targetbot/walking.lua,782,52dacff6,False
+Activo,bot.zip!/bot/cavebot/targetbot_configs/config_name_777.json,1126,f47a44d8,False
+Activo,bot.zip!/bot/cavebot/tools.lua,4776,8d528b03,False
+Activo,bot.zip!/bot/OxyBot/.oxybot_official.json,5865,a541a502,False
+Activo,bot.zip!/bot/OxyBot/.oxybot_official.zip!/.oxybot_official.json,5865,5706ac47,False
+Activo,bot.zip!/bot/OxyBot/.oxybot_official.zip,2723,cea63cc9,False
+Activo,bot.zip!/bot/OxyBot/_Loader.lua,2261,712e5f3f,False
+Activo,bot.zip!/bot/OxyBot/_Loader.zip!/.oxybot_official.json,5865,5706ac47,False
+Activo,bot.zip!/bot/OxyBot/_Loader.zip!/_Loader.lua,2261,712e5f3f,False
+Activo,bot.zip!/bot/OxyBot/_Loader.zip!/scripts.lua,48506,8b5ea5e7,False
+Activo,bot.zip!/bot/OxyBot/_Loader.zip,12663,ce545697,False
+Activo,bot.zip!/bot/OxyBot/cavebot.zip!/cavebot/actions.lua,16086,b163f910,False
+Activo,bot.zip!/bot/OxyBot/cavebot.zip!/cavebot/bank.lua,2897,368798f7,False
+Activo,bot.zip!/bot/OxyBot/cavebot.zip!/cavebot/buy_supplies.lua,2077,2eb79c20,False
+Activo,bot.zip!/bot/OxyBot/cavebot.zip!/cavebot/cavebot.lua,12737,fce6d058,False
+Activo,bot.zip!/bot/OxyBot/cavebot.zip!/cavebot/cavebot.otui,1031,246ae554,False
+Activo,bot.zip!/bot/OxyBot/cavebot.zip!/cavebot/clear_tile.lua,3810,923f6bdd,False
+Activo,bot.zip!/bot/OxyBot/cavebot.zip!/cavebot/config.lua,3232,0e1165b2,False
+Activo,bot.zip!/bot/OxyBot/cavebot.zip!/cavebot/config.otui,1050,7cd253be,False
+Activo,bot.zip!/bot/OxyBot/cavebot.zip!/cavebot/d_withdraw.lua,2938,062ffb6e,False
+Activo,bot.zip!/bot/OxyBot/cavebot.zip!/cavebot/depositor.lua,4006,12cf47b3,False
+Activo,bot.zip!/bot/OxyBot/cavebot.zip!/cavebot/doors.lua,1699,717b126f,False
+Activo,bot.zip!/bot/OxyBot/cavebot.zip!/cavebot/editor.lua,5858,ab6be85e,False
+Activo,bot.zip!/bot/OxyBot/cavebot.zip!/cavebot/editor.otui,827,580caa33,False
+Activo,bot.zip!/bot/OxyBot/cavebot.zip!/cavebot/example_functions.lua,2832,1347f165,False
+Activo,bot.zip!/bot/OxyBot/cavebot.zip!/cavebot/extension_template.lua,1987,a194754f,False
+Activo,bot.zip!/bot/OxyBot/cavebot.zip!/cavebot/imbuing.lua,3157,8043e257,False
+Activo,bot.zip!/bot/OxyBot/cavebot.zip!/cavebot/inbox_withdraw.lua,2721,1038386d,False
+Activo,bot.zip!/bot/OxyBot/cavebot.zip!/cavebot/lure.lua,731,bfa055c6,False
+Activo,bot.zip!/bot/OxyBot/cavebot.zip!/cavebot/minimap.lua,882,953685e9,False
+Activo,bot.zip!/bot/OxyBot/cavebot.zip!/cavebot/pos_check.lua,1733,9171862f,False
+Activo,bot.zip!/bot/OxyBot/cavebot.zip!/cavebot/recorder.lua,2001,d59319e4,False
+Activo,bot.zip!/bot/OxyBot/cavebot.zip!/cavebot/sell_all.lua,1866,f37f7bba,False
+Activo,bot.zip!/bot/OxyBot/cavebot.zip!/cavebot/stand_lure.lua,6384,d985355f,False
+Activo,bot.zip!/bot/OxyBot/cavebot.zip!/cavebot/supply_check.lua,5108,fdd85558,False
+Activo,bot.zip!/bot/OxyBot/cavebot.zip!/cavebot/tasker.lua,5718,1477169e,False
+Activo,bot.zip!/bot/OxyBot/cavebot.zip!/cavebot/travel.lua,1047,b969e49a,False
+Activo,bot.zip!/bot/OxyBot/cavebot.zip!/cavebot/walking.lua,2735,8c7e3c96,False
+Activo,bot.zip!/bot/OxyBot/cavebot.zip!/cavebot/withdraw.lua,1630,6877f043,False
+Activo,bot.zip!/bot/OxyBot/cavebot.zip,32520,926dec91,False
+Activo,bot.zip!/bot/OxyBot/cavebot/actions.lua,16086,b163f910,False
+Activo,bot.zip!/bot/OxyBot/cavebot/bank.lua,2897,368798f7,False
+Activo,bot.zip!/bot/OxyBot/cavebot/buy_supplies.lua,2077,2eb79c20,False
+Activo,bot.zip!/bot/OxyBot/cavebot/cavebot.lua,12737,fce6d058,False
+Activo,bot.zip!/bot/OxyBot/cavebot/cavebot.otui,1031,246ae554,False
+Activo,bot.zip!/bot/OxyBot/cavebot/clear_tile.lua,3810,923f6bdd,False
+Activo,bot.zip!/bot/OxyBot/cavebot/config.lua,3232,0e1165b2,False
+Activo,bot.zip!/bot/OxyBot/cavebot/config.otui,1050,7cd253be,False
+Activo,bot.zip!/bot/OxyBot/cavebot/d_withdraw.lua,2938,062ffb6e,False
+Activo,bot.zip!/bot/OxyBot/cavebot/depositor.lua,4006,12cf47b3,False
+Activo,bot.zip!/bot/OxyBot/cavebot/doors.lua,1699,717b126f,False
+Activo,bot.zip!/bot/OxyBot/cavebot/editor.lua,5858,ab6be85e,False
+Activo,bot.zip!/bot/OxyBot/cavebot/editor.otui,827,580caa33,False
+Activo,bot.zip!/bot/OxyBot/cavebot/example_functions.lua,2832,1347f165,False
+Activo,bot.zip!/bot/OxyBot/cavebot/extension_template.lua,1987,a194754f,False
+Activo,bot.zip!/bot/OxyBot/cavebot/imbuing.lua,3157,8043e257,False
+Activo,bot.zip!/bot/OxyBot/cavebot/inbox_withdraw.lua,2721,1038386d,False
+Activo,bot.zip!/bot/OxyBot/cavebot/lure.lua,731,bfa055c6,False
+Activo,bot.zip!/bot/OxyBot/cavebot/minimap.lua,882,953685e9,False
+Activo,bot.zip!/bot/OxyBot/cavebot/pos_check.lua,1733,9171862f,False
+Activo,bot.zip!/bot/OxyBot/cavebot/recorder.lua,2001,d59319e4,False
+Activo,bot.zip!/bot/OxyBot/cavebot/sell_all.lua,1866,f37f7bba,False
+Activo,bot.zip!/bot/OxyBot/cavebot/stand_lure.lua,6384,d985355f,False
+Activo,bot.zip!/bot/OxyBot/cavebot/supply_check.lua,5108,fdd85558,False
+Activo,bot.zip!/bot/OxyBot/cavebot/tasker.lua,5718,1477169e,False
+Activo,bot.zip!/bot/OxyBot/cavebot/travel.lua,1047,b969e49a,False
+Activo,bot.zip!/bot/OxyBot/cavebot/walking.lua,2735,8c7e3c96,False
+Activo,bot.zip!/bot/OxyBot/cavebot/withdraw.lua,1630,6877f043,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/34234234.cfg,406,d2c7f93c,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/4bdn.cfg,2271,f75c4e84,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/4biden_island.cfg,2196,5ff53a95,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/4bidencito.cfg,165,77bd6726,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/777.cfg,3312,414f9ccd,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/ASURAS.cfg,320,77383325,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name.cfg,0,00000000,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_4BIDEN_LAND.cfg,1306,fe660ea5,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_babutas.cfg,2368,9daf981e,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_beggRA.cfg,0,00000000,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_beggys.cfg,473,4089e082,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_bejes.cfg,816,368015f3,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_blases.cfg,7607,60f9965e,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_bruces.cfg,195,0ee526ea,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_brus.cfg,969,adbbcd1e,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_CHACALES.cfg,1934,cef2a3ce,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_chaparritos.cfg,1489,73433699,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_DRABENS.cfg,1704,5af33f6b,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_dragoncitos_bebes.cfg,1935,bd547e50,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_drakens.cfg,4336,1defbc6f,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_drakxp.cfg,1586,bf002328,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_dreiks.cfg,6208,15238a33,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_dung.cfg,8272,4ca3840e,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_elfos.cfg,1894,11fb7f31,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_enanitos.cfg,8004,08da256f,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_feru.cfg,4598,df24e662,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_fish.cfg,215,bd71e9c8,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_FROST_DRAK.cfg,1898,d36a98e5,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_GASTLY.cfg,3790,30c4dfa1,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_GIANT_ASURAS.cfg,3467,fa3812ac,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_ice_drake.cfg,3178,73ee15dd,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_INFY.cfg,388,4170b4a9,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_jades.cfg,1142,a8b1a43e,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_LABUBIS.cfg,473,e6888c9a,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_lagartijitas.cfg,3331,034f02c2,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_lol_forb.cfg,1509,c1a71501,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_mmonster_bat.cfg,528,e98c1934,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_nicmares_x9.cfg,2908,358f2edb,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_nightmares.cfg,4657,1f174c31,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_nomad.cfg,1754,2595f0fd,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_peces.cfg,2273,ac6b9616,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_PIEDRITAS.cfg,4211,7e70631b,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_piter.cfg,4081,d7e4f4b6,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_POISON_CERVER.cfg,1094,2044a58e,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_poisonitos.cfg,1283,0cf4d2ee,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_RRS.cfg,1160,094ecd96,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_run.cfg,626,c7309f43,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_rx7.cfg,1392,71f6a149,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_rx99.cfg,2513,451149e0,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_serpientitas.cfg,15682,ff98c5b9,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_ss3.cfg,3072,7b9ddb27,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_strangerrrs.cfg,4431,24ee15eb,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_terra.cfg,1000,5bda2c72,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_TROLS.cfg,5370,a75c7f58,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_turtls.cfg,2433,213cdc4a,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_vampiritos.cfg,674,7e808217,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_viboritas.cfg,0,00000000,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_x7782.cfg,4785,3c8c28b8,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name_zao.cfg,4953,50a4d164,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_name2ewadsx.cfg,201,1ed6dfa2,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_nameaqwertfyuhio.cfg,678,482da692,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_namekjkj.cfg,0,00000000,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/config_nameZDXFGVHJN.cfg,168,07d7bec6,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/DEATH_RIPER.cfg,1104,05ea2cdd,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/ded_riper.cfg,1825,545f2fa5,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/eslimes.cfg,2649,8867526b,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/FISH.cfg,168,eebd7dfd,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/fishing_death_reaper.cfg,690,01d7b049,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/GRIM_REAPERS.cfg,3079,35e3a391,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/grim_ripers_prision_.cfg,3451,a24c52c9,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/peces_muertos_2.cfg,1606,fea293b9,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/pescaditos_muertos.cfg,2963,b11a5067,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/prision_grims.cfg,3142,5fd9312c,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/PRISON.cfg,6471,869363ed,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/prison_xddd.cfg,2742,f22c784b,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/RANITAS_ASULES.cfg,2447,008f673e,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/red.cfg,3446,68c231ec,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/ROJITOS.cfg,1766,e5f2242c,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/this_is_sparta.cfg,807,7e9c605a,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/typhons.cfg,1288,88cc4268,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/TYPONES.cfg,2765,87aa3bbb,False
+Activo,bot.zip!/bot/OxyBot/cavebot_configs/UPDOWN.cfg,648,80d4907c,False
+Activo,bot.zip!/bot/OxyBot/storage.zip!/storage/Immortus blocker_profile_1.json,7558,1cce77b2,False
+Activo,bot.zip!/bot/OxyBot/storage.zip!/storage/Immortus Ed_profile_1.json,11368,a3c0dd49,False
+Activo,bot.zip!/bot/OxyBot/storage.zip!/storage/Immortus Ek_profile_1.json,8343,d6d3fbbf,False
+Activo,bot.zip!/bot/OxyBot/storage.zip!/storage/Immortus rp_profile_1.json,10260,1410dee0,False
+Activo,bot.zip!/bot/OxyBot/storage.zip!/storage/Miguel hdz_profile_1.json,101285,2e1151e0,False
+Activo,bot.zip!/bot/OxyBot/storage.zip!/storage/Riaton Vaquero_profile_1.json,7448,ef9024c2,False
+Activo,bot.zip!/bot/OxyBot/storage.zip,41071,f38769c0,False
+Activo,bot.zip!/bot/OxyBot/storage/Immortus blocker_profile_1.json,7558,1cce77b2,False
+Activo,bot.zip!/bot/OxyBot/storage/Immortus Ed_profile_1.json,11368,a3c0dd49,False
+Activo,bot.zip!/bot/OxyBot/storage/Immortus Ek_profile_1.json,8343,d6d3fbbf,False
+Activo,bot.zip!/bot/OxyBot/storage/Immortus rp_profile_1.json,10260,1410dee0,False
+Activo,bot.zip!/bot/OxyBot/storage/Miguel hdz_profile_1.json,101285,f6e3cd2e,False
+Activo,bot.zip!/bot/OxyBot/storage/Riaton Vaquero_profile_1.json,7448,ef9024c2,False
+Activo,bot.zip!/bot/OxyBot/targetbot.zip!/targetbot/creature.lua,3128,08ee675b,False
+Activo,bot.zip!/bot/OxyBot/targetbot.zip!/targetbot/creature_attack.lua,9189,a0e233a7,False
+Activo,bot.zip!/bot/OxyBot/targetbot.zip!/targetbot/creature_editor.lua,4316,95f33097,False
+Activo,bot.zip!/bot/OxyBot/targetbot.zip!/targetbot/creature_editor.otui,3570,c839e147,False
+Activo,bot.zip!/bot/OxyBot/targetbot.zip!/targetbot/creature_priority.lua,1788,27c040df,False
+Activo,bot.zip!/bot/OxyBot/targetbot.zip!/targetbot/looting.lua,11254,0cfe6a66,False
+Activo,bot.zip!/bot/OxyBot/targetbot.zip!/targetbot/looting.otui,1315,5e5698b2,False
+Activo,bot.zip!/bot/OxyBot/targetbot.zip!/targetbot/target.lua,9255,befc6167,False
+Activo,bot.zip!/bot/OxyBot/targetbot.zip!/targetbot/target.otui,2306,93c9316b,False
+Activo,bot.zip!/bot/OxyBot/targetbot.zip!/targetbot/walking.lua,782,52dacff6,False
+Activo,bot.zip!/bot/OxyBot/targetbot.zip,13422,59a4a5d7,False
+Activo,bot.zip!/bot/OxyBot/targetbot/creature.lua,3128,08ee675b,False
+Activo,bot.zip!/bot/OxyBot/targetbot/creature_attack.lua,9189,a0e233a7,False
+Activo,bot.zip!/bot/OxyBot/targetbot/creature_editor.lua,4316,95f33097,False
+Activo,bot.zip!/bot/OxyBot/targetbot/creature_editor.otui,3570,c839e147,False
+Activo,bot.zip!/bot/OxyBot/targetbot/creature_priority.lua,1788,27c040df,False
+Activo,bot.zip!/bot/OxyBot/targetbot/looting.lua,11254,0cfe6a66,False
+Activo,bot.zip!/bot/OxyBot/targetbot/looting.otui,1315,5e5698b2,False
+Activo,bot.zip!/bot/OxyBot/targetbot/target.lua,9255,befc6167,False
+Activo,bot.zip!/bot/OxyBot/targetbot/target.otui,2306,93c9316b,False
+Activo,bot.zip!/bot/OxyBot/targetbot/walking.lua,782,52dacff6,False
+Activo,bot.zip!/bot/OxyBot/targetbot_configs.zip!/targetbot_configs/4biiden_island.json,2,0d4cbb29,False
+Activo,bot.zip!/bot/OxyBot/targetbot_configs.zip!/targetbot_configs/config_name_as.json,872,e0be9368,False
+Activo,bot.zip!/bot/OxyBot/targetbot_configs.zip!/targetbot_configs/config_name_INFERNAL.json,2,0d4cbb29,False
+Activo,bot.zip!/bot/OxyBot/targetbot_configs.zip!/targetbot_configs/config_name_run_ers.json,2,0d4cbb29,False
+Activo,bot.zip!/bot/OxyBot/targetbot_configs.zip!/targetbot_configs/DEATH_REAPER.json,2,0d4cbb29,False
+Activo,bot.zip!/bot/OxyBot/targetbot_configs.zip,1133,77e8308e,False
+Activo,bot.zip!/bot/OxyBot/targetbot_configs/4biiden_island.json,2,0d4cbb29,False
+Activo,bot.zip!/bot/OxyBot/targetbot_configs/config_name_as.json,872,e0be9368,False
+Activo,bot.zip!/bot/OxyBot/targetbot_configs/config_name_INFERNAL.json,2,0d4cbb29,False
+Activo,bot.zip!/bot/OxyBot/targetbot_configs/config_name_run_ers.json,2,0d4cbb29,False
+Activo,bot.zip!/bot/OxyBot/targetbot_configs/DEATH_REAPER.json,2,0d4cbb29,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/alarms.lua,6188,9bfb896f,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/alarms.otui,2763,7959231b,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/analyzer.lua,56611,2ca178ea,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/analyzer.otui,10584,a0436491,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/AttackBot.lua,35281,343164ab,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/AttackBot.otui,13065,5b8e8d88,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/BotServer.lua,7278,0feb27b9,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/BotServer.otui,4110,e1ea8a93,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/cast_food.lua,672,d3486cc8,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/cavebot.lua,1854,3be2492e,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/cavebot_control_panel.lua,1664,222b7fd6,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/combo.lua,14864,d34cea03,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/combo.otui,8519,2948ba6f,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/Conditions.lua,9457,1fce8167,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/Conditions.otui,10115,dcc82d4d,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/configs.lua,3093,7502173b,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/Containers.lua,22724,0c653e59,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/depositer_config.lua,4373,9b700461,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/depositer_config.otui,2209,8d6f5b3d,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/depot_withdraw.lua,2103,fac6f1ff,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/Dropper.lua,3298,e64d83aa,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/eat_food.lua,1426,d2ec584d,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/equip.lua,1374,132c7105,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/Equipper.lua,28500,4d1b4263,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/equipper.otui,11768,ece45760,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/exeta.lua,988,fed5ff24,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/extras.lua,24183,ddc8deb5,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/extras.otui,3334,a50caf24,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/HealBot.lua,22733,cc272271,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/HealBot.otui,10708,0b820008,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/hold_target.lua,927,e9e072af,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/ingame_editor.lua,797,b52bd3ed,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/items.lua,43899,30d2255f,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/main.lua,120,e37187f9,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/new_cavebot_lib.lua,16148,f66d88a3,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/new_healer.lua,15859,53be9bdc,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/new_healer.otui,8500,85a8a66a,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/npc_talk.lua,212,29cc3acc,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/playerlist.lua,11418,d4d58e6f,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/playerlist.otui,3227,86229ad0,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/pushmax.lua,7364,91a2bd59,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/pushmax.otui,1895,c13aba78,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/quiver_label.lua,1359,a128e2f0,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/quiver_manager.lua,3470,b1b54962,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/Sio.lua,7864,a478dcea,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/siolist.otui,4154,13ee3fe3,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/spy_level.lua,600,c9772a64,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/supplies.lua,11897,72cfcee7,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/supplies.otui,5553,6d645df2,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/tools.lua,1342,d90aa9dc,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/vlib.lua,32736,bb7d561a,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip!/vBot/xeno_menu.lua,1214,fadc1863,False
+Activo,bot.zip!/bot/OxyBot/vBot.zip,119747,26350a5d,False
+Activo,bot.zip!/bot/OxyBot/vBot/alarms.lua,6188,9bfb896f,False
+Activo,bot.zip!/bot/OxyBot/vBot/alarms.otui,2763,7959231b,False
+Activo,bot.zip!/bot/OxyBot/vBot/analyzer.lua,56611,2ca178ea,False
+Activo,bot.zip!/bot/OxyBot/vBot/analyzer.otui,10584,a0436491,False
+Activo,bot.zip!/bot/OxyBot/vBot/AttackBot.lua,35281,343164ab,False
+Activo,bot.zip!/bot/OxyBot/vBot/AttackBot.otui,13065,5b8e8d88,False
+Activo,bot.zip!/bot/OxyBot/vBot/BotServer.lua,7278,0feb27b9,False
+Activo,bot.zip!/bot/OxyBot/vBot/BotServer.otui,4110,e1ea8a93,False
+Activo,bot.zip!/bot/OxyBot/vBot/cast_food.lua,672,d3486cc8,False
+Activo,bot.zip!/bot/OxyBot/vBot/cavebot.lua,1854,3be2492e,False
+Activo,bot.zip!/bot/OxyBot/vBot/cavebot_control_panel.lua,1664,222b7fd6,False
+Activo,bot.zip!/bot/OxyBot/vBot/combo.lua,14864,d34cea03,False
+Activo,bot.zip!/bot/OxyBot/vBot/combo.otui,8519,2948ba6f,False
+Activo,bot.zip!/bot/OxyBot/vBot/Conditions.lua,9457,1fce8167,False
+Activo,bot.zip!/bot/OxyBot/vBot/Conditions.otui,10115,dcc82d4d,False
+Activo,bot.zip!/bot/OxyBot/vBot/configs.lua,3093,7502173b,False
+Activo,bot.zip!/bot/OxyBot/vBot/Containers.lua,22724,0c653e59,False
+Activo,bot.zip!/bot/OxyBot/vBot/depositer_config.lua,4373,9b700461,False
+Activo,bot.zip!/bot/OxyBot/vBot/depositer_config.otui,2209,8d6f5b3d,False
+Activo,bot.zip!/bot/OxyBot/vBot/depot_withdraw.lua,2103,fac6f1ff,False
+Activo,bot.zip!/bot/OxyBot/vBot/Dropper.lua,3298,e64d83aa,False
+Activo,bot.zip!/bot/OxyBot/vBot/eat_food.lua,1426,d2ec584d,False
+Activo,bot.zip!/bot/OxyBot/vBot/equip.lua,1374,132c7105,False
+Activo,bot.zip!/bot/OxyBot/vBot/Equipper.lua,28500,4d1b4263,False
+Activo,bot.zip!/bot/OxyBot/vBot/equipper.otui,11768,ece45760,False
+Activo,bot.zip!/bot/OxyBot/vBot/exeta.lua,988,fed5ff24,False
+Activo,bot.zip!/bot/OxyBot/vBot/extras.lua,24183,ddc8deb5,False
+Activo,bot.zip!/bot/OxyBot/vBot/extras.otui,3334,a50caf24,False
+Activo,bot.zip!/bot/OxyBot/vBot/HealBot.lua,22733,cc272271,False
+Activo,bot.zip!/bot/OxyBot/vBot/HealBot.otui,10708,0b820008,False
+Activo,bot.zip!/bot/OxyBot/vBot/hold_target.lua,927,e9e072af,False
+Activo,bot.zip!/bot/OxyBot/vBot/ingame_editor.lua,797,b52bd3ed,False
+Activo,bot.zip!/bot/OxyBot/vBot/items.lua,43899,30d2255f,False
+Activo,bot.zip!/bot/OxyBot/vBot/main.lua,120,e37187f9,False
+Activo,bot.zip!/bot/OxyBot/vBot/new_cavebot_lib.lua,16148,f66d88a3,False
+Activo,bot.zip!/bot/OxyBot/vBot/new_healer.lua,15859,53be9bdc,False
+Activo,bot.zip!/bot/OxyBot/vBot/new_healer.otui,8500,85a8a66a,False
+Activo,bot.zip!/bot/OxyBot/vBot/npc_talk.lua,212,29cc3acc,False
+Activo,bot.zip!/bot/OxyBot/vBot/playerlist.lua,11418,d4d58e6f,False
+Activo,bot.zip!/bot/OxyBot/vBot/playerlist.otui,3227,86229ad0,False
+Activo,bot.zip!/bot/OxyBot/vBot/pushmax.lua,7364,91a2bd59,False
+Activo,bot.zip!/bot/OxyBot/vBot/pushmax.otui,1895,c13aba78,False
+Activo,bot.zip!/bot/OxyBot/vBot/quiver_label.lua,1359,a128e2f0,False
+Activo,bot.zip!/bot/OxyBot/vBot/quiver_manager.lua,3470,b1b54962,False
+Activo,bot.zip!/bot/OxyBot/vBot/Sio.lua,7864,a478dcea,False
+Activo,bot.zip!/bot/OxyBot/vBot/siolist.otui,4154,13ee3fe3,False
+Activo,bot.zip!/bot/OxyBot/vBot/spy_level.lua,600,c9772a64,False
+Activo,bot.zip!/bot/OxyBot/vBot/supplies.lua,11897,72cfcee7,False
+Activo,bot.zip!/bot/OxyBot/vBot/supplies.otui,5553,6d645df2,False
+Activo,bot.zip!/bot/OxyBot/vBot/tools.lua,1342,d90aa9dc,False
+Activo,bot.zip!/bot/OxyBot/vBot/vlib.lua,32736,bb7d561a,False
+Activo,bot.zip!/bot/OxyBot/vBot/xeno_menu.lua,1214,fadc1863,False
+Activo,bot.zip!/bot/OxyBot/vBot_configs.zip!/vBot_configs/profile_1/AttackBot.json,2755,7e30fcd3,False
+Activo,bot.zip!/bot/OxyBot/vBot_configs.zip!/vBot_configs/profile_1/HealBot.json,2438,ef2965ab,False
+Activo,bot.zip!/bot/OxyBot/vBot_configs.zip!/vBot_configs/profile_1/Supplies.json,105,a31b22ab,False
+Activo,bot.zip!/bot/OxyBot/vBot_configs.zip,2741,8c35095a,False
+Activo,bot.zip!/bot/OxyBot/vBot_configs/profile_1/AttackBot.json,2755,7e30fcd3,False
+Activo,bot.zip!/bot/OxyBot/vBot_configs/profile_1/HealBot.json,2438,ef2965ab,False
+Activo,bot.zip!/bot/OxyBot/vBot_configs/profile_1/Supplies.json,105,a31b22ab,False
+Activo,bot.zip!/bot/vBot/_Loader.lua,1379,acc89a18,False
+Activo,bot.zip!/bot/vBot/cavebot/actions.lua,16086,b163f910,False
+Activo,bot.zip!/bot/vBot/cavebot/bank.lua,2897,368798f7,False
+Activo,bot.zip!/bot/vBot/cavebot/buy_supplies.lua,2077,2eb79c20,False
+Activo,bot.zip!/bot/vBot/cavebot/cavebot.lua,12737,fce6d058,False
+Activo,bot.zip!/bot/vBot/cavebot/cavebot.otui,1031,246ae554,False
+Activo,bot.zip!/bot/vBot/cavebot/clear_tile.lua,3810,923f6bdd,False
+Activo,bot.zip!/bot/vBot/cavebot/config.lua,3232,0e1165b2,False
+Activo,bot.zip!/bot/vBot/cavebot/config.otui,1050,7cd253be,False
+Activo,bot.zip!/bot/vBot/cavebot/d_withdraw.lua,2938,062ffb6e,False
+Activo,bot.zip!/bot/vBot/cavebot/depositor.lua,4006,12cf47b3,False
+Activo,bot.zip!/bot/vBot/cavebot/doors.lua,1699,717b126f,False
+Activo,bot.zip!/bot/vBot/cavebot/editor.lua,5858,ab6be85e,False
+Activo,bot.zip!/bot/vBot/cavebot/editor.otui,827,580caa33,False
+Activo,bot.zip!/bot/vBot/cavebot/example_functions.lua,2832,1347f165,False
+Activo,bot.zip!/bot/vBot/cavebot/extension_template.lua,1987,a194754f,False
+Activo,bot.zip!/bot/vBot/cavebot/imbuing.lua,3157,8043e257,False
+Activo,bot.zip!/bot/vBot/cavebot/inbox_withdraw.lua,2721,1038386d,False
+Activo,bot.zip!/bot/vBot/cavebot/lure.lua,731,bfa055c6,False
+Activo,bot.zip!/bot/vBot/cavebot/minimap.lua,882,953685e9,False
+Activo,bot.zip!/bot/vBot/cavebot/pos_check.lua,1733,9171862f,False
+Activo,bot.zip!/bot/vBot/cavebot/recorder.lua,2001,d59319e4,False
+Activo,bot.zip!/bot/vBot/cavebot/sell_all.lua,1866,f37f7bba,False
+Activo,bot.zip!/bot/vBot/cavebot/stand_lure.lua,6384,d985355f,False
+Activo,bot.zip!/bot/vBot/cavebot/supply_check.lua,5108,fdd85558,False
+Activo,bot.zip!/bot/vBot/cavebot/tasker.lua,5718,1477169e,False
+Activo,bot.zip!/bot/vBot/cavebot/travel.lua,1047,b969e49a,False
+Activo,bot.zip!/bot/vBot/cavebot/walking.lua,2735,8c7e3c96,False
+Activo,bot.zip!/bot/vBot/cavebot/withdraw.lua,1630,6877f043,False
+Activo,bot.zip!/bot/vBot/cavebot_configs.zip!/cavebot/actions.lua,16086,b163f910,False
+Activo,bot.zip!/bot/vBot/cavebot_configs.zip!/cavebot/bank.lua,2897,368798f7,False
+Activo,bot.zip!/bot/vBot/cavebot_configs.zip!/cavebot/buy_supplies.lua,2077,2eb79c20,False
+Activo,bot.zip!/bot/vBot/cavebot_configs.zip!/cavebot/cavebot.lua,12737,fce6d058,False
+Activo,bot.zip!/bot/vBot/cavebot_configs.zip!/cavebot/cavebot.otui,1031,246ae554,False
+Activo,bot.zip!/bot/vBot/cavebot_configs.zip!/cavebot/clear_tile.lua,3810,923f6bdd,False
+Activo,bot.zip!/bot/vBot/cavebot_configs.zip!/cavebot/config.lua,3232,0e1165b2,False
+Activo,bot.zip!/bot/vBot/cavebot_configs.zip!/cavebot/config.otui,1050,7cd253be,False
+Activo,bot.zip!/bot/vBot/cavebot_configs.zip!/cavebot/d_withdraw.lua,2938,062ffb6e,False
+Activo,bot.zip!/bot/vBot/cavebot_configs.zip!/cavebot/depositor.lua,4006,12cf47b3,False
+Activo,bot.zip!/bot/vBot/cavebot_configs.zip!/cavebot/doors.lua,1699,717b126f,False
+Activo,bot.zip!/bot/vBot/cavebot_configs.zip!/cavebot/editor.lua,5858,ab6be85e,False
+Activo,bot.zip!/bot/vBot/cavebot_configs.zip!/cavebot/editor.otui,827,580caa33,False
+Activo,bot.zip!/bot/vBot/cavebot_configs.zip!/cavebot/example_functions.lua,2832,1347f165,False
+Activo,bot.zip!/bot/vBot/cavebot_configs.zip!/cavebot/extension_template.lua,1987,a194754f,False
+Activo,bot.zip!/bot/vBot/cavebot_configs.zip!/cavebot/imbuing.lua,3157,8043e257,False
+Activo,bot.zip!/bot/vBot/cavebot_configs.zip!/cavebot/inbox_withdraw.lua,2721,1038386d,False
+Activo,bot.zip!/bot/vBot/cavebot_configs.zip!/cavebot/lure.lua,731,bfa055c6,False
+Activo,bot.zip!/bot/vBot/cavebot_configs.zip!/cavebot/minimap.lua,882,953685e9,False
+Activo,bot.zip!/bot/vBot/cavebot_configs.zip!/cavebot/pos_check.lua,1733,9171862f,False
+Activo,bot.zip!/bot/vBot/cavebot_configs.zip!/cavebot/recorder.lua,2001,d59319e4,False
+Activo,bot.zip!/bot/vBot/cavebot_configs.zip!/cavebot/sell_all.lua,1866,f37f7bba,False
+Activo,bot.zip!/bot/vBot/cavebot_configs.zip!/cavebot/stand_lure.lua,6384,d985355f,False
+Activo,bot.zip!/bot/vBot/cavebot_configs.zip!/cavebot/supply_check.lua,5108,fdd85558,False
+Activo,bot.zip!/bot/vBot/cavebot_configs.zip!/cavebot/tasker.lua,5718,1477169e,False
+Activo,bot.zip!/bot/vBot/cavebot_configs.zip!/cavebot/travel.lua,1047,b969e49a,False
+Activo,bot.zip!/bot/vBot/cavebot_configs.zip!/cavebot/walking.lua,2735,8c7e3c96,False
+Activo,bot.zip!/bot/vBot/cavebot_configs.zip!/cavebot/withdraw.lua,1630,6877f043,False
+Activo,bot.zip!/bot/vBot/cavebot_configs.zip,32520,670d2081,False
+Activo,bot.zip!/bot/vBot/storage/Miguel hdz_profile_1.json,6770,c0a67f42,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/_Loader.lua,1379,acc89a18,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/cavebot/actions.lua,16086,b163f910,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/cavebot/bank.lua,2897,368798f7,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/cavebot/buy_supplies.lua,2077,2eb79c20,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/cavebot/cavebot.lua,12737,fce6d058,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/cavebot/cavebot.otui,1031,246ae554,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/cavebot/clear_tile.lua,3810,923f6bdd,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/cavebot/config.lua,3232,0e1165b2,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/cavebot/config.otui,1050,7cd253be,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/cavebot/d_withdraw.lua,2938,062ffb6e,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/cavebot/depositor.lua,4006,12cf47b3,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/cavebot/doors.lua,1699,717b126f,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/cavebot/editor.lua,5858,ab6be85e,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/cavebot/editor.otui,827,580caa33,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/cavebot/example_functions.lua,2832,1347f165,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/cavebot/extension_template.lua,1987,a194754f,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/cavebot/imbuing.lua,3157,8043e257,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/cavebot/inbox_withdraw.lua,2721,1038386d,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/cavebot/lure.lua,731,bfa055c6,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/cavebot/minimap.lua,882,953685e9,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/cavebot/pos_check.lua,1733,9171862f,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/cavebot/recorder.lua,2001,d59319e4,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/cavebot/sell_all.lua,1866,f37f7bba,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/cavebot/stand_lure.lua,6384,d985355f,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/cavebot/supply_check.lua,5108,fdd85558,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/cavebot/tasker.lua,5718,1477169e,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/cavebot/travel.lua,1047,b969e49a,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/cavebot/walking.lua,2735,8c7e3c96,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/cavebot/withdraw.lua,1630,6877f043,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/storage/Miguel hdz_profile_1.json,6770,c0a67f42,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/targetbot/creature.lua,3128,08ee675b,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/targetbot/creature_attack.lua,9189,a0e233a7,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/targetbot/creature_editor.lua,4316,95f33097,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/targetbot/creature_editor.otui,3570,c839e147,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/targetbot/creature_priority.lua,1788,27c040df,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/targetbot/looting.lua,11254,0cfe6a66,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/targetbot/looting.otui,1315,5e5698b2,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/targetbot/target.lua,9255,befc6167,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/targetbot/target.otui,2306,93c9316b,False
+Activo,bot.zip!/bot/vBot/targetbot.zip!/targetbot/walking.lua,782,52dacff6,False
+Activo,bot.zip!/bot/vBot/targetbot.zip,48563,9beba5ff,False
+Activo,bot.zip!/bot/vBot/targetbot/creature.lua,3128,08ee675b,False
+Activo,bot.zip!/bot/vBot/targetbot/creature_attack.lua,9189,a0e233a7,False
+Activo,bot.zip!/bot/vBot/targetbot/creature_editor.lua,4316,95f33097,False
+Activo,bot.zip!/bot/vBot/targetbot/creature_editor.otui,3570,c839e147,False
+Activo,bot.zip!/bot/vBot/targetbot/creature_priority.lua,1788,27c040df,False
+Activo,bot.zip!/bot/vBot/targetbot/looting.lua,11254,0cfe6a66,False
+Activo,bot.zip!/bot/vBot/targetbot/looting.otui,1315,5e5698b2,False
+Activo,bot.zip!/bot/vBot/targetbot/target.lua,9255,befc6167,False
+Activo,bot.zip!/bot/vBot/targetbot/target.otui,2306,93c9316b,False
+Activo,bot.zip!/bot/vBot/targetbot/walking.lua,782,52dacff6,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/alarms.lua,6188,9bfb896f,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/alarms.otui,2763,7959231b,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/analyzer.lua,56611,2ca178ea,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/analyzer.otui,10584,a0436491,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/antiRs.lua,880,1e9251c5,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/AttackBot.lua,35281,343164ab,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/AttackBot.otui,13065,5b8e8d88,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/BotServer.lua,7278,0feb27b9,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/BotServer.otui,4110,e1ea8a93,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/cast_food.lua,672,d3486cc8,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/cavebot.lua,1854,3be2492e,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/cavebot_control_panel.lua,1664,222b7fd6,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/combo.lua,14864,d34cea03,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/combo.otui,8519,2948ba6f,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/Conditions.lua,9457,1fce8167,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/Conditions.otui,10115,dcc82d4d,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/configs.lua,3093,7502173b,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/Containers.lua,19998,39323ed0,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/depositer_config.lua,4373,9b700461,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/depositer_config.otui,2209,8d6f5b3d,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/depot_withdraw.lua,2103,fac6f1ff,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/Dropper.lua,3334,00d615ca,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/eat_food.lua,1426,d2ec584d,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/equip.lua,1374,132c7105,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/Equipper.lua,25386,c0d293f7,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/equipper.otui,11768,ece45760,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/exeta.lua,988,fed5ff24,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/extras.lua,24183,ddc8deb5,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/extras.otui,3334,a50caf24,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/HealBot.lua,22733,cc272271,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/HealBot.otui,10708,0b820008,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/hold_target.lua,927,e9e072af,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/ingame_editor.lua,797,b52bd3ed,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/items.lua,43899,30d2255f,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/main.lua,1116,6f25b8d0,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/new_cavebot_lib.lua,16148,f66d88a3,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/new_healer.lua,15859,53be9bdc,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/new_healer.otui,8500,85a8a66a,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/npc_talk.lua,212,29cc3acc,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/playerlist.lua,11917,d48c977b,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/playerlist.otui,3227,86229ad0,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/pushmax.lua,7364,91a2bd59,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/pushmax.otui,1895,c13aba78,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/quiver_label.lua,1359,a128e2f0,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/quiver_manager.lua,3470,b1b54962,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/Sio.lua,7864,a478dcea,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/siolist.otui,4154,13ee3fe3,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/spy_level.lua,600,c9772a64,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/supplies.lua,11897,72cfcee7,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/supplies.otui,5553,6d645df2,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/tools.lua,1342,d90aa9dc,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/version.txt,3,ff2625ec,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/vlib.lua,32583,e222eed0,False
+Activo,bot.zip!/bot/vBot/vBot.zip!/vBot/xeno_menu.lua,1214,fadc1863,False
+Activo,bot.zip!/bot/vBot/vBot.zip,119570,cc860b46,False
+Activo,bot.zip!/bot/vBot/vBot/alarms.lua,6188,9bfb896f,False
+Activo,bot.zip!/bot/vBot/vBot/alarms.otui,2763,7959231b,False
+Activo,bot.zip!/bot/vBot/vBot/analyzer.lua,56611,2ca178ea,False
+Activo,bot.zip!/bot/vBot/vBot/analyzer.otui,10584,a0436491,False
+Activo,bot.zip!/bot/vBot/vBot/antiRs.lua,880,1e9251c5,False
+Activo,bot.zip!/bot/vBot/vBot/AttackBot.lua,35281,343164ab,False
+Activo,bot.zip!/bot/vBot/vBot/AttackBot.otui,13065,5b8e8d88,False
+Activo,bot.zip!/bot/vBot/vBot/BotServer.lua,7278,0feb27b9,False
+Activo,bot.zip!/bot/vBot/vBot/BotServer.otui,4110,e1ea8a93,False
+Activo,bot.zip!/bot/vBot/vBot/cast_food.lua,672,d3486cc8,False
+Activo,bot.zip!/bot/vBot/vBot/cavebot.lua,1854,3be2492e,False
+Activo,bot.zip!/bot/vBot/vBot/cavebot_control_panel.lua,1664,222b7fd6,False
+Activo,bot.zip!/bot/vBot/vBot/combo.lua,14864,d34cea03,False
+Activo,bot.zip!/bot/vBot/vBot/combo.otui,8519,2948ba6f,False
+Activo,bot.zip!/bot/vBot/vBot/Conditions.lua,9457,1fce8167,False
+Activo,bot.zip!/bot/vBot/vBot/Conditions.otui,10115,dcc82d4d,False
+Activo,bot.zip!/bot/vBot/vBot/configs.lua,3093,7502173b,False
+Activo,bot.zip!/bot/vBot/vBot/Containers.lua,19998,39323ed0,False
+Activo,bot.zip!/bot/vBot/vBot/depositer_config.lua,4373,9b700461,False
+Activo,bot.zip!/bot/vBot/vBot/depositer_config.otui,2209,8d6f5b3d,False
+Activo,bot.zip!/bot/vBot/vBot/depot_withdraw.lua,2103,fac6f1ff,False
+Activo,bot.zip!/bot/vBot/vBot/Dropper.lua,3334,00d615ca,False
+Activo,bot.zip!/bot/vBot/vBot/eat_food.lua,1426,d2ec584d,False
+Activo,bot.zip!/bot/vBot/vBot/equip.lua,1374,132c7105,False
+Activo,bot.zip!/bot/vBot/vBot/Equipper.lua,25386,c0d293f7,False
+Activo,bot.zip!/bot/vBot/vBot/equipper.otui,11768,ece45760,False
+Activo,bot.zip!/bot/vBot/vBot/exeta.lua,988,fed5ff24,False
+Activo,bot.zip!/bot/vBot/vBot/extras.lua,24183,ddc8deb5,False
+Activo,bot.zip!/bot/vBot/vBot/extras.otui,3334,a50caf24,False
+Activo,bot.zip!/bot/vBot/vBot/HealBot.lua,22733,cc272271,False
+Activo,bot.zip!/bot/vBot/vBot/HealBot.otui,10708,0b820008,False
+Activo,bot.zip!/bot/vBot/vBot/hold_target.lua,927,e9e072af,False
+Activo,bot.zip!/bot/vBot/vBot/ingame_editor.lua,797,b52bd3ed,False
+Activo,bot.zip!/bot/vBot/vBot/items.lua,43899,30d2255f,False
+Activo,bot.zip!/bot/vBot/vBot/main.lua,1116,6f25b8d0,False
+Activo,bot.zip!/bot/vBot/vBot/new_cavebot_lib.lua,16148,f66d88a3,False
+Activo,bot.zip!/bot/vBot/vBot/new_healer.lua,15859,53be9bdc,False
+Activo,bot.zip!/bot/vBot/vBot/new_healer.otui,8500,85a8a66a,False
+Activo,bot.zip!/bot/vBot/vBot/npc_talk.lua,212,29cc3acc,False
+Activo,bot.zip!/bot/vBot/vBot/playerlist.lua,11917,d48c977b,False
+Activo,bot.zip!/bot/vBot/vBot/playerlist.otui,3227,86229ad0,False
+Activo,bot.zip!/bot/vBot/vBot/pushmax.lua,7364,91a2bd59,False
+Activo,bot.zip!/bot/vBot/vBot/pushmax.otui,1895,c13aba78,False
+Activo,bot.zip!/bot/vBot/vBot/quiver_label.lua,1359,a128e2f0,False
+Activo,bot.zip!/bot/vBot/vBot/quiver_manager.lua,3470,b1b54962,False
+Activo,bot.zip!/bot/vBot/vBot/Sio.lua,7864,a478dcea,False
+Activo,bot.zip!/bot/vBot/vBot/siolist.otui,4154,13ee3fe3,False
+Activo,bot.zip!/bot/vBot/vBot/spy_level.lua,600,c9772a64,False
+Activo,bot.zip!/bot/vBot/vBot/supplies.lua,11897,72cfcee7,False
+Activo,bot.zip!/bot/vBot/vBot/supplies.otui,5553,6d645df2,False
+Activo,bot.zip!/bot/vBot/vBot/tools.lua,1342,d90aa9dc,False
+Activo,bot.zip!/bot/vBot/vBot/version.txt,3,ff2625ec,False
+Activo,bot.zip!/bot/vBot/vBot/vlib.lua,32583,e222eed0,False
+Activo,bot.zip!/bot/vBot/vBot/xeno_menu.lua,1214,fadc1863,False
+Activo,bot.zip!/bot/vBot/vBot_configs.zip!/vBot_configs/profile_1/Supplies.json,105,2603fa50,False
+Activo,bot.zip!/bot/vBot/vBot_configs.zip,1465,7c180fbd,False
+Activo,bot.zip!/bot/vBot/vBot_configs/profile_1/Supplies.json,105,2603fa50,False
+Activo,bot.zip!/bot/OxyBot/vBot_configs/scripts (5).lua,73226,9700296f,False
+Activo,bot.zip!/bot/OxyBot/scripts.lua,11916,87f4dca0,False
